@@ -46,7 +46,7 @@ multidict==6.0.4
 multiprocess==0.70.14
 mypy-extensions==1.0.0
 nltk==3.8.1
-numcodecs==0.11.0
+numcodecs
 numpy==1.24.2
 openai==0.27.0
 packaging==23.0
