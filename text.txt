@@ -1,0 +1,60 @@
+gender	ethnicity	patientmasterkey	addresscity	addressstate	addresszip	cpt_code	level_of_care	patientrecordkey	diagcodename	age	firstname
+Male	Not Hispanic or Latino	1081_8744	Phoenix	AZ	85007	H0004HQ	TBD	1081_14232	Alcohol dependence	32	Hargrave
+Female	Hispanic or Latino	1081_5290	Phoenix	AZ	85023	H2016	TBD	1081_7543	Cannabis dependence	48	Hill
+Male	Caucasian	1186_13431	Raven	KY	418619021	80307	Ancillary	1186_17804	Attention-deficit hyperactivity disorders	27	Onio
+Female	Other not listed	1179_9890	Millville	NJ	8332	80305	Ancillary	1179_12215	Opioid use disorder	25	Boni
+Male	Not Hispanic or Latino	1081_10299	Mesa	AZ	85212	H0018	RTC	1081_12721	Alcohol dependence	29	Mitchell
+Male	Hispanic or Latino	1081_12656	Globe	AZ	85501	T1016	Ancillary	1081_16388	Other stimulant dependence	26	Chu
+Male	Not Hispanic or Latino	1081_12259	Cave Creek	AZ	85331	H2016	TBD	1081_16872	Opioid dependence	40	Bartlett
+Male	Hispanic or Latino	1081_10387	Phoenix	AZ	85051	H0001	Ancillary	1081_13442	Other stimulant dependence	33	Obinna
+Male	Not Hispanic or Latino	1081_12583	Mesa	AZ	85204	T1016	Ancillary	1081_16261	Cannabis dependence	22	He
+Female	Hispanic or Latino	1081_11569	Prescott Valley	AZ	86315	H0018	RTC	1081_14649	Other stimulant dependence	38	H?
+Male	Other	1028_1465	Parker	CO	80134	S9475	PHP	1028_1837	Insomnia	32	Bearce
+Male	Other	1028_1268	Sedalia	CO	801358960	S9475	IOP	1028_1451	Sedative	29	Andrews
+Male	Caucasian	1186_17944	Newcomb	TN	378195075	87426	TBD	1186_24394	anxiety disorder	32	Kay
+Male	Not Hispanic or Latino	1081_12702	Phoenix	AZ	85009	H2016	TBD	1081_16619	Alcohol dependence	33	Chin
+Male	Not Hispanic or Latino	1081_11253	Glendale	AZ	85304	H0046	TBD	1081_16987	Other stimulant dependence	33	Scott
+Male	Not Hispanic or Latino	1081_9219	Cave Creek	AZ	85331	H0018	RTC	1081_16385	Alcohol abuse	35	Goforth
+Male	Hispanic or Latino	1081_10321	Phoenix	AZ	85051	H0001	Ancillary	1081_12750	Other stimulant dependence	27	Romeo
+Male	Not Hispanic or Latino	1081_625	Phoenix	AZ	85015	H0018	RTC	1081_16630	Other stimulant dependence	32	Henderson
+Male	Prefers not to answer	1186_15746	RICHMOND	KY	40475	99484	Ancillary	1186_20863	Opioid use disorder	50	Muldrow
+Male	Hispanic or Latino	1081_8662	Avondale	AZ	85392	H0004TH	TBD	1081_10254	Opioid dependence	32	Hao
+Female	Hispanic or Latino	1081_11432	Phoenix	AZ	85007	T1016	Ancillary	1081_14448	Other stimulant dependence	34	McDonald
+Female	Other not listed	1186_8205	Louisa	KY	41230	98960	TBD	1186_16907	Unspecified depressive disorder	37	Dellucci
+Female	Not Hispanic or Latino	1081_11828	Mesa	AZ	85213	H0031	Ancillary	1081_15071	Alcohol dependence	68	Gerasimov
+Male	Caucasian	1186_17944	Newcomb	TN	378195075	T1007	Ancillary	1186_24394	Amphetamine-type substance use disorder	32	Mosman
+Male	Not Hispanic or Latino	1081_3225	Tempe	AZ	85284	H0031	Ancillary	1081_14436	Opioid dependence	38	Yen
+Male	Not Hispanic or Latino	1081_8744	Phoenix	AZ	85007	H0046	TBD	1081_14232	Opioid dependence	32	Maclean
+Female	Other not listed	1349_2290	Etna	ME	4434	H0011	Detox	1349_2866	Post-traumatic stress disorder	37	Young
+Male	Not Hispanic or Latino	1081_3974	Phoenix	AZ	85004	H0031	Ancillary	1081_12484	Sedative	38	Nebechi
+Male	Caucasian	1186_17944	Newcomb	TN	378195075	H0035	PHP	1186_24394	Unspecified depressive disorder	32	McWilliams
+Female	Other not listed	1349_2290	Etna	ME	4434	S0201	PHP	1349_2866	Polycystic ovarian syndrome	37	Lucciano
+Male	Hispanic or Latino	1081_10881	Phoenix	AZ	85051	H0046	TBD	1081_13625	Cocaine dependence	34	Azikiwe
+Male	Other	1081_8524	Phoenix	AZ	85004	H0004TH	TBD	1081_10851	Other stimulant dependence	31	Odinakachukwu
+Female	Hispanic or Latino	1081_11842	Mesa	AZ	85043	T1016	Ancillary	1081_16746	Cannabis dependence	35	Sanderson
+Male	Not Hispanic or Latino	1081_11901	Phoenix	AZ	85016	H2016	TBD	1081_15181	Cocaine dependence	59	Maggard
+Male	Hispanic or Latino	1081_8562	Phoenix	AZ	85017	H0018	RTC	1081_11782	Opioid dependence	33	Clements
+Female	Caucasian	1186_17623	Newport	KY	41071	99212AM	TBD	1186_23897	Nightmare disorder	32	Lombardo
+Female	Hispanic or Latino	1081_5290	Phoenix	AZ	85023	H0046	TBD	1081_7543	Other stimulant dependence	48	Watson
+Male	Not Hispanic or Latino	1081_8523	Gilbert	AZ	85298	H0004TH	TBD	1081_11024	Opioid dependence	35	Lorenzo
+Male	Not Hispanic or Latino	1081_9828	Peoria	AZ	85345	H0018	RTC	1081_11986	Opioid dependence	23	Armstrong
+Male	Caucasian	1186_17944	Newcomb	TN	378195075	90853	Ancillary	1186_24394	Unspecified depressive disorder	32	Cameron
+Male	Not Hispanic or Latino	1081_9400	Tuba City	AZ	86045	H0004GT	TBD	1081_11344	Other stimulant dependence	39	Hsiao
+Female	Other not listed	1186_9186	Flemingsburg	KY	41041	90837	Ancillary	1186_11391	Opioid use disorder	44	Clarke
+Female	Other not listed	1186_11603	Burlington	KY	41005	90839	Ancillary	1186_15521	Opioid use disorder	29	Osborne
+Male	Not Hispanic or Latino	1081_9074	Phoenix	AZ	85053	H0004TH	TBD	1081_10843	Opioid dependence	28	Lavine
+Male	Other	1028_1268	Sedalia	CO	801358960	S9475	IOP	1028_1451	Sedative	29	Bianchi
+Male	Other not listed	1018_8836	Adelphi	MD	20783	H0006	Ancillary	1018_10730	Bipolar disorder	65	Tyler
+Female	Other not listed	1186_11603	Burlington	KY	41005	81025	Ancillary	1186_15521	Generalized anxiety disorder	29	Martin
+Male	Other	1028_1268	Sedalia	CO	801358960	H0015	IOP	1028_1806	Amphetamine-type substance use disorder	29	Okagbue
+Male	Not Hispanic or Latino	1081_8886	Glendale	AZ	85302	H0031	Ancillary	1081_10573	Opioid dependence	32	Yin
+Male	Hispanic or Latino	1081_11568	Phoenix	AZ	85008	H2016	TBD	1081_14648	Other stimulant dependence	28	Buccho
+Male	Caucasian	1186_15546	Owingsville	KY	403608304	H0031	Ancillary	1186_23558	Cannabis use disorder	47	Chidiebele
+Male	Hispanic or Latino	1081_12951	Phoenix	AZ	85041	H0046	TBD	1081_16865	Other stimulant dependence	56	Trevisani
+Male	Hispanic or Latino	1081_11108	Tempe	AZ	85283	T1016	Ancillary	1081_13965	Other stimulant dependence	31	O'Brien
+Female	Other not listed	1349_1654	Scarborough	ME	4074	H0011	Detox	1349_2885	Alcohol use disorder	63	Parkhill
+Male	Other not listed	1186_14118	Clay City	KY	40312	99212SA	TBD	1186_20033	Unspecified depressive disorder	29	Yoo
+Male	Not Hispanic or Latino	1081_8727	Mesa	AZ	85213	H0004	Ancillary	1081_11345	Alcohol dependence	54	Phillipps
+Male	Not Hispanic or Latino	1081_3225	Tempe	AZ	85284	H0046	TBD	1081_14436	Other stimulant dependence	38	Tsao
+Female	Not Hispanic or Latino	1081_12194	Anthem	AZ	85086	H0001	Ancillary	1081_16870	Opioid dependence	30	Endrizzi
+Male	Not Hispanic or Latino	1081_5386	Goodyear	AZ	85338	H0046	TBD	1081_9183	Cannabis dependence	29	T'ien
