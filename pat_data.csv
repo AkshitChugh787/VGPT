@@ -1,0 +1,1364 @@
+,gender,ethnicity,patientmasterkey,addresscity,addressstate,addresszip,cpt_code,level_of_care,patientrecordkey,diagcodename,age,firstname
+4398,Male,Not Hispanic or Latino,1081_8744,Phoenix,AZ,85007,H0004HQ,TBD,1081_14232,Alcohol dependence,32,Hargrave
+9117,Female,Hispanic or Latino,1081_5290,Phoenix,AZ,85023,H2016,TBD,1081_7543,Cannabis dependence,48,Hill
+6566,Male,Caucasian,1186_13431,Raven,KY,418619021,80307,Ancillary,1186_17804,Attention-deficit hyperactivity disorders,27,Onio
+5104,Female,Other not listed,1179_9890,Millville,NJ,8332,80305,Ancillary,1179_12215,Opioid use disorder,25,Boni
+3340,Male,Not Hispanic or Latino,1081_10299,Mesa,AZ,85212,H0018,RTC,1081_12721,Alcohol dependence,29,Mitchell
+6995,Male,Hispanic or Latino,1081_12656,Globe,AZ,85501,T1016,Ancillary,1081_16388,Other stimulant dependence,26,Chu
+7790,Male,Not Hispanic or Latino,1081_12259,Cave Creek,AZ,85331,H2016,TBD,1081_16872,Opioid dependence,40,Bartlett
+3929,Male,Hispanic or Latino,1081_10387,Phoenix,AZ,85051,H0001,Ancillary,1081_13442,Other stimulant dependence,33,Obinna
+6749,Male,Not Hispanic or Latino,1081_12583,Mesa,AZ,85204,T1016,Ancillary,1081_16261,Cannabis dependence,22,He
+4593,Female,Hispanic or Latino,1081_11569,Prescott Valley,AZ,86315,H0018,RTC,1081_14649,Other stimulant dependence,38,H?
+745,Male,Other,1028_1465,Parker,CO,80134,S9475,PHP,1028_1837,Insomnia,32,Bearce
+14,Male,Other,1028_1268,Sedalia,CO,801358960,S9475,IOP,1028_1451,Sedative,29,Andrews
+9807,Male,Caucasian,1186_17944,Newcomb,TN,378195075,87426,TBD,1186_24394,anxiety disorder,32,Kay
+7261,Male,Not Hispanic or Latino,1081_12702,Phoenix,AZ,85009,H2016,TBD,1081_16619,Alcohol dependence,33,Chin
+7889,Male,Not Hispanic or Latino,1081_11253,Glendale,AZ,85304,H0046,TBD,1081_16987,Other stimulant dependence,33,Scott
+6971,Male,Not Hispanic or Latino,1081_9219,Cave Creek,AZ,85331,H0018,RTC,1081_16385,Alcohol abuse,35,Goforth
+3397,Male,Hispanic or Latino,1081_10321,Phoenix,AZ,85051,H0001,Ancillary,1081_12750,Other stimulant dependence,27,Romeo
+7452,Male,Not Hispanic or Latino,1081_625,Phoenix,AZ,85015,H0018,RTC,1081_16630,Other stimulant dependence,32,Henderson
+7818,Male,Prefers not to answer,1186_15746,RICHMOND,KY,40475,99484,Ancillary,1186_20863,Opioid use disorder,50,Muldrow
+891,Male,Hispanic or Latino,1081_8662,Avondale,AZ,85392,H0004TH,TBD,1081_10254,Opioid dependence,32,Hao
+4544,Female,Hispanic or Latino,1081_11432,Phoenix,AZ,85007,T1016,Ancillary,1081_14448,Other stimulant dependence,34,McDonald
+6248,Female,Other not listed,1186_8205,Louisa,KY,41230,98960,TBD,1186_16907,Unspecified depressive disorder,37,Dellucci
+5246,Female,Not Hispanic or Latino,1081_11828,Mesa,AZ,85213,H0031,Ancillary,1081_15071,Alcohol dependence,68,Gerasimov
+9801,Male,Caucasian,1186_17944,Newcomb,TN,378195075,T1007,Ancillary,1186_24394,Amphetamine-type substance use disorder,32,Mosman
+4494,Male,Not Hispanic or Latino,1081_3225,Tempe,AZ,85284,H0031,Ancillary,1081_14436,Opioid dependence,38,Yen
+4407,Male,Not Hispanic or Latino,1081_8744,Phoenix,AZ,85007,H0046,TBD,1081_14232,Opioid dependence,32,Maclean
+6094,Female,Other not listed,1349_2290,Etna,ME,4434,H0011,Detox,1349_2866,Post-traumatic stress disorder,37,Young
+3291,Male,Not Hispanic or Latino,1081_3974,Phoenix,AZ,85004,H0031,Ancillary,1081_12484,Sedative,38,Nebechi
+9853,Male,Caucasian,1186_17944,Newcomb,TN,378195075,H0035,PHP,1186_24394,Unspecified depressive disorder,32,McWilliams
+6107,Female,Other not listed,1349_2290,Etna,ME,4434,S0201,PHP,1349_2866,Polycystic ovarian syndrome,37,Lucciano
+3988,Male,Hispanic or Latino,1081_10881,Phoenix,AZ,85051,H0046,TBD,1081_13625,Cocaine dependence,34,Azikiwe
+1163,Male,Other,1081_8524,Phoenix,AZ,85004,H0004TH,TBD,1081_10851,Other stimulant dependence,31,Odinakachukwu
+7679,Female,Hispanic or Latino,1081_11842,Mesa,AZ,85043,T1016,Ancillary,1081_16746,Cannabis dependence,35,Sanderson
+5288,Male,Not Hispanic or Latino,1081_11901,Phoenix,AZ,85016,H2016,TBD,1081_15181,Cocaine dependence,59,Maggard
+2260,Male,Hispanic or Latino,1081_8562,Phoenix,AZ,85017,H0018,RTC,1081_11782,Opioid dependence,33,Clements
+9441,Female,Caucasian,1186_17623,Newport,KY,41071,99212AM,TBD,1186_23897,Nightmare disorder,32,Lombardo
+9112,Female,Hispanic or Latino,1081_5290,Phoenix,AZ,85023,H0046,TBD,1081_7543,Other stimulant dependence,48,Watson
+1202,Male,Not Hispanic or Latino,1081_8523,Gilbert,AZ,85298,H0004TH,TBD,1081_11024,Opioid dependence,35,Lorenzo
+2653,Male,Not Hispanic or Latino,1081_9828,Peoria,AZ,85345,H0018,RTC,1081_11986,Opioid dependence,23,Armstrong
+9844,Male,Caucasian,1186_17944,Newcomb,TN,378195075,90853,Ancillary,1186_24394,Unspecified depressive disorder,32,Cameron
+1681,Male,Not Hispanic or Latino,1081_9400,Tuba City,AZ,86045,H0004GT,TBD,1081_11344,Other stimulant dependence,39,Hsiao
+4914,Female,Other not listed,1186_9186,Flemingsburg,KY,41041,90837,Ancillary,1186_11391,Opioid use disorder,44,Clarke
+5830,Female,Other not listed,1186_11603,Burlington,KY,41005,90839,Ancillary,1186_15521,Opioid use disorder,29,Osborne
+1071,Male,Not Hispanic or Latino,1081_9074,Phoenix,AZ,85053,H0004TH,TBD,1081_10843,Opioid dependence,28,Lavine
+0,Male,Other,1028_1268,Sedalia,CO,801358960,S9475,IOP,1028_1451,Sedative,29,Bianchi
+2688,Male,Other not listed,1018_8836,Adelphi,MD,20783,H0006,Ancillary,1018_10730,Bipolar disorder,65,Tyler
+5919,Female,Other not listed,1186_11603,Burlington,KY,41005,81025,Ancillary,1186_15521,Generalized anxiety disorder,29,Martin
+631,Male,Other,1028_1268,Sedalia,CO,801358960,H0015,IOP,1028_1806,Amphetamine-type substance use disorder,29,Okagbue
+1025,Male,Not Hispanic or Latino,1081_8886,Glendale,AZ,85302,H0031,Ancillary,1081_10573,Opioid dependence,32,Yin
+4588,Male,Hispanic or Latino,1081_11568,Phoenix,AZ,85008,H2016,TBD,1081_14648,Other stimulant dependence,28,Buccho
+9235,Male,Caucasian,1186_15546,Owingsville,KY,403608304,H0031,Ancillary,1186_23558,Cannabis use disorder,47,Chidiebele
+7754,Male,Hispanic or Latino,1081_12951,Phoenix,AZ,85041,H0046,TBD,1081_16865,Other stimulant dependence,56,Trevisani
+4215,Male,Hispanic or Latino,1081_11108,Tempe,AZ,85283,T1016,Ancillary,1081_13965,Other stimulant dependence,31,O'Brien
+6130,Female,Other not listed,1349_1654,Scarborough,ME,4074,H0011,Detox,1349_2885,Alcohol use disorder,63,Parkhill
+7581,Male,Other not listed,1186_14118,Clay City,KY,40312,99212SA,TBD,1186_20033,Unspecified depressive disorder,29,Yoo
+1688,Male,Not Hispanic or Latino,1081_8727,Mesa,AZ,85213,H0004,Ancillary,1081_11345,Alcohol dependence,54,Phillipps
+4504,Male,Not Hispanic or Latino,1081_3225,Tempe,AZ,85284,H0046,TBD,1081_14436,Other stimulant dependence,38,Tsao
+7782,Female,Not Hispanic or Latino,1081_12194,Anthem,AZ,85086,H0001,Ancillary,1081_16870,Opioid dependence,30,Endrizzi
+9254,Male,Not Hispanic or Latino,1081_5386,Goodyear,AZ,85338,H0046,TBD,1081_9183,Cannabis dependence,29,T'ien
+6687,Female,Hispanic or Latino,1081_12515,Phoenix,AZ,85023,H0046,TBD,1081_16147,Cocaine dependence,44,aVjg==
+7102,Male,Not Hispanic or Latino,1081_12731,Phoenix,AZ,85016,H0018,RTC,1081_16507,Cocaine dependence,41,47RA==
+7554,Male,Other not listed,1179_526,Escondido,CA,92027,H2036,PHP,1179_3581,Cannabis use disorder,65,Vn0Q==
+2229,Male,Hispanic or Latino,1081_8995,Avondale,AZ,85323,H0046,TBD,1081_11772,Other stimulant dependence,30,XrPw==
+7435,Male,Hispanic or Latino,1081_9985,Glendale,AZ,85301,H0046,TBD,1081_16627,Other stimulant dependence,38,dcAA==
+7202,Male,Not Hispanic or Latino,1081_12733,Phoenix,AZ,85018,H0046,TBD,1081_16509,Other stimulant dependence,52,B67Q==
+889,Male,Hispanic or Latino,1081_8661,Sacaton,AZ,85147,H0046,TBD,1081_10252,Other stimulant dependence,50,7YzA==
+7112,Female,Other not listed,1186_13236,Richmond,KY,404759701,H0001,Ancillary,1186_18999,Generalized anxiety disorder,32,1zSg==
+6039,Female,Hispanic or Latino,1081_12284,Gilbert,AZ,85234,H0046,TBD,1081_15783,Other stimulant dependence,26,mmqQ==
+7053,Female,Hispanic or Latino,1081_12033,Glendale,AZ,85301,H0046,TBD,1081_16499,Alcohol dependence,30,rBfA==
+9066,Male,Caucasian,1186_15546,Owingsville,KY,403608304,86580,Ancillary,1186_23558,Amphetamine-type substance use disorder,47,17rA==
+300,Male,Other,1028_1476,Parker,CO,80134,H0018,RTC,1028_1711,Cocaine use disorder,24,hIIA==
+5724,Male,Not Hispanic or Latino,1081_12131,Mesa,AZ,85201,H2016,TBD,1081_15557,Opioid dependence,30,a7dA==
+4515,Male,Not Hispanic or Latino,1081_11430,Page,AZ,86040,H0046,TBD,1081_14445,Cannabis dependence,37,BLaw==
+8120,Female,Other not listed,1186_15958,Harrodsburg,KY,403301952,96372,Ancillary,1186_21239,Amphetamine-type substance use disorder,38,QNvQ==
+2531,Female,Hispanic or Latino,1081_9078,Phoenix,AZ,85029,H0004,Ancillary,1081_11784,Other stimulant dependence,38,Xd3A==
+1879,Male,Other not listed,1018_8696,DYER,IN,463112928,S0201,PHP,1018_10561,Sedative,27,My8g==
+5872,Male,Hispanic Latino,1179_8450,GUAYNABO,PR,968,S0201,PHP,1179_16695,Bipolar I disorder,27,fPNA==
+3911,Female,Hispanic or Latino,1081_10763,Tucson,AZ,85741,H0004,Ancillary,1081_13436,Cannabis dependence,27,3avw==
+6034,Male,Not Hispanic or Latino,1081_12283,Glendale,AZ,85301,T1016,Ancillary,1081_15782,Other stimulant dependence,44,w0_g==
+5274,Male,Not Hispanic or Latino,1081_11900,Glendale,AZ,85301,H0018,RTC,1081_15180,Other stimulant dependence,42,10Tg==
+4970,Female,Other not listed,1179_8212,Gloucester City,NJ,8030,H0011,RTC,1179_11972,Post-traumatic stress disorder,40,Rj7Q==
+9947,Male,Not Hispanic or Latino,1274_548,Visalia,CA,93277,99214,Ancillary,1274_1136,Generalized idiopathic epilepsy and epileptic syndromes,29,Gclg==
+4153,Male,Hispanic or Latino,1081_10996,Phoenix,AZ,85032,H0031,Ancillary,1081_13799,Other stimulant dependence,28,Qh6g==
+4575,Male,Hispanic or Latino,1081_11443,El Mirage,AZ,85335,H0031,Ancillary,1081_14462,Other stimulant dependence,42,yxyA==
+1402,Male,Hispanic or Latino,1081_6017,Phoenix,AZ,85018,T1016 GT,TBD,1081_11233,Alcohol dependence,26,1ZFA==
+698,Female,Other,1028_1552,Winthrop,WA,98862,MEDDEPOSIT,TBD,1028_1809,Other mixed anxiety disorders,26,MaUA==
+7218,Male,Hispanic or Latino,1081_12789,Ajo,AZ,85321,H0004,Ancillary,1081_16611,Alcohol dependence,48,tJBg==
+2637,Male,Not Hispanic or Latino,1081_8955,Lake Havasu City,AZ,86403,H0001,Ancillary,1081_11979,Other stimulant dependence,26,r3Gw==
+2219,Male,Not Hispanic or Latino,1081_9531,Payson,AZ,85541,H2016,TBD,1081_11526,Alcohol dependence,38,P-6w==
+1154,Male,Not Hispanic or Latino,1081_3926,Goodyear,AZ,85395,H0001,Ancillary,1081_10849,Other stimulant dependence,36,WFwg==
+5305,Male,Not Hispanic or Latino,1081_11902,Phoenix,AZ,85007,H0004,Ancillary,1081_15182,Other stimulant dependence,33,IQ-A==
+4068,Male,Not Hispanic or Latino,1081_10895,Scottsdale,AZ,85257,H0004TH,TBD,1081_13642,Cannabis dependence,23,gFjw==
+6541,Male,Caucasian,1186_13431,Raven,KY,418619021,H0001,Ancillary,1186_17804,Social anxiety disorder (social phobia),27,9Efw==
+1980,Male,Hispanic or Latino,1081_9525,Phoenix,AZ,85037,H0046,TBD,1081_11518,Opioid dependence,41,bnBQ==
+8681,Female,Other not listed,1186_2044,Lowmansville,KY,41232,90832,Ancillary,1186_2269,Anxiety disorder,43,a3iA==
+3269,Male,Other,1081_9892,Phoenix,AZ,85051,H0001,Ancillary,1081_12472,Alcohol dependence,36,FlxA==
+3344,Male,Not Hispanic or Latino,1081_10304,Phoenix,AZ,85032,H0004,Ancillary,1081_12728,Opioid dependence,38,_p7g==
+7702,Male,Not Hispanic or Latino,1081_12636,PHOENIX,AZ,85020,H2016,TBD,1081_16860,Other stimulant dependence,51,8LOQ==
+6362,Female,Not Hispanic or Latino,1081_12370,Surprise,AZ,85374,H2016,TBD,1081_15910,Other stimulant dependence,31,vjSg==
+4685,Male,Not Hispanic or Latino,1081_10396,Phoenix,AZ,85016,H0001,Ancillary,1081_14800,Alcohol dependence,33,4yng==
+9879,Male,Caucasian,1186_17944,Newcomb,TN,378195075,99211,Ancillary,1186_24394,Sleep disorder,32,Llnw==
+2943,Male,Not Hispanic or Latino,1081_9166,Phoenix,AZ,85018,H0046,TBD,1081_12226,Other stimulant dependence,45,WjYg==
+2025,Male,Other not listed,1018_8696,DYER,IN,463112928,99205,Ancillary,1018_10561,Bipolar II disorder,27,TLPQ==
+7901,Female,Not Hispanic or Latino,1081_13037,Mesa,AZ,85202,H2016,TBD,1081_16988,Other stimulant dependence,40,lZqQ==
+3950,Female,Hispanic or Latino,1081_10772,Phoenix,AZ,85008,H0004,Ancillary,1081_13449,Opioid dependence,38,uowg==
+4228,Male,Hispanic or Latino,1081_11113,Tucson,AZ,85756,H0018,RTC,1081_13972,Opioid dependence,30,Uytw==
+8435,Male,Hispanic or Latino,1081_1944,Tucson,AZ,85716,H0004,Ancillary,1081_2064,Cannabis dependence,29,IwXg==
+6353,Male,Not Hispanic or Latino,1081_12369,Phoenix,AZ,85009,H0046,TBD,1081_15909,Other stimulant dependence,27,ilIw==
+663,Male,Other,1028_1551,Denver,CO,80224,H0035,PHP,1028_1808,Suicide attempt,37,c4XA==
+1043,Male,Not Hispanic or Latino,1081_8886,Glendale,AZ,85302,H0018,RTC,1081_10573,Other stimulant dependence,32,3JOw==
+5721,Male,Not Hispanic or Latino,1081_12131,Mesa,AZ,85201,H0031,Ancillary,1081_15557,Opioid dependence,30,EiJw==
+5728,Male,Not Hispanic or Latino,1081_101,Phoenix,AZ,85032,T1016,Ancillary,1081_15558,Opioid dependence,32,Xt_g==
+6735,Female,Hispanic or Latino,1081_12519,Phoenix,AZ,85008,H2016,TBD,1081_16152,Other stimulant dependence,32,MNtw==
+8692,Male,Not Hispanic or Latino,1081_2011,Phoenix,AZ,85009,H0046,TBD,1081_2135,Other stimulant dependence,33,1yTw==
+9546,Female,Other,1081_8378,Phoenix,AZ,85020,H2016,TBD,1081_9828,Opioid dependence,41,hsoQ==
+2232,Male,Not Hispanic or Latino,1081_7691,Phoenix,AZ,85016,T1016,Ancillary,1081_11773,Opioid dependence,34,aLUA==
+5502,Male,Not Hispanic or Latino,1081_11730,Phoenix,AZ,85037,T1016,Ancillary,1081_15428,Opioid dependence,36,sSPg==
+5332,Male,Not Hispanic or Latino,1081_7836,Phoenix,AZ,85007,H0018,RTC,1081_15186,Other stimulant dependence,61,r3Mw==
+5320,Male,Not Hispanic or Latino,1081_11904,Mesa,AZ,85210,H0031,Ancillary,1081_15184,Other stimulant dependence,52,Jmcg==
+9039,Male,Caucasian,1186_15546,Owingsville,KY,403608304,H0011,Detox,1186_23558,Opioid use disorder,47,3odw==
+6627,Male,Hispanic or Latino,1081_12437,Phoenix,AZ,85007,T1016,Ancillary,1081_16032,Other stimulant dependence,34,D3Tg==
+1324,Male,Not Hispanic or Latino,1081_5462,Phoenix,AZ,85032,H0015,IOP,1081_11025,Opioid dependence,56,3DtQ==
+601,Male,Other,1028_1268,Sedalia,CO,801358960,MEDDEPOSIT,Detox,1028_1806,Cannabis-induced psychotic disorder,29,yUng==
+9397,Female,Not Hispanic or Latino,1274_269,San Juan Bautista,CA,95045,S0201,PHP,1274_1002,Opioid use disorder,27,OdcA==
+8081,Male,Hispanic or Latino,1081_9077,Mesa,AZ,85021,H0031,Ancillary,1081_17117,Other stimulant dependence,30,Sjbw==
+6637,Male,Not Hispanic or Latino,1081_6893,Phoenix,AZ,85029,T1016,Ancillary,1081_16034,Cocaine dependence,55,LZqw==
+1728,Male,Not Hispanic or Latino,1081_9404,Phoenix,AZ,85016,H0004,Ancillary,1081_11350,Alcohol dependence,56,dRGQ==
+4720,Male,Not Hispanic or Latino,1081_11664,Phoenix,AZ,85033,T1016,Ancillary,1081_14801,Alcohol dependence,35,3h0Q==
+5847,Female,Other not listed,1186_11603,Burlington,KY,41005,90839,Ancillary,1186_15521,Drug induced constipation,29,gAQw==
+9263,Female,Hispanic or Latino,1081_7932,Phoenix,AZ,85041,H0046,TBD,1081_9185,Other stimulant dependence,32,z7FA==
+7506,Male,Not Hispanic or Latino,1081_12868,Goodyear,AZ,85338,H0046,TBD,1081_16743,Opioid dependence,36,T22A==
+6670,Male,Not Hispanic or Latino,1081_11737,Mesa,AZ,85215,H0004,Ancillary,1081_16144,Opioid dependence,28,pMhA==
+5794,Female,Hispanic or Latino,1081_12211,Phoenix,AZ,85035,T1016,Ancillary,1081_15679,Cocaine dependence,33,6RnQ==
+3059,Male,Not Hispanic or Latino,1081_9994,Peoria,AZ,85345,H0004TH,TBD,1081_12238,Opioid dependence,30,cleg==
+8295,Female,Other not listed,1186_16295,Louisa,KY,412305430,90837,Ancillary,1186_21778,Cannabis use disorder,37,yr7Q==
+2069,Male,Other not listed,1018_8589,Philadelphia,PA,19148,99215,Ancillary,1018_10597,Cannabis use disorder,23,3Atg==
+5988,Male,Other,1081_4289,Phoenix,AZ,85031,H0015,IOP,1081_15681,Other stimulant dependence,43,0U7w==
+5392,Female,Not Hispanic or Latino,1081_11696,Mesa,AZ,85201,H0018,RTC,1081_15307,Opioid dependence,31,aVIQ==
+9554,Male,Hispanic or Latino,1081_8384,Glendale,AZ,85303,H0004,Ancillary,1081_9834,Other stimulant dependence,31,nsWA==
+9600,Female,Other not listed,1186_8205,Louisa,KY,41230,99484,Ancillary,1186_24321,Unspecified depressive disorder,37,a2Qg==
+7743,Male,Hispanic or Latino,1081_6779,Phoenix,AZ,85018,H0004HQ,TBD,1081_16864,Other stimulant dependence,25,TmXQ==
+107,Female,Other,1028_983,Colorado Springs,CO,80924,90837,OP,1028_1605,Nightmare disorder,27,mdpw==
+2894,Female,Other not listed,1018_8889,Chicago,IL,60655,90837,OP,1018_10796,Bipolar disorder,27,jN9g==
+696,Female,Other,1028_1552,Winthrop,WA,98862,H0018,RTC,1028_1809,Bipolar I disorder,26,VNMg==
+4622,Male,Not Hispanic or Latino,1081_11573,Fountain Hills,AZ,85268,H0031,Ancillary,1081_14653,Other stimulant dependence,34,FljQ==
+1246,Male,Other not listed,1018_8138,CRYSTAL LAKE,IL,600148956,H0006,Ancillary,1018_10239,Major depressive disorder,27,kTCA==
+813,Male,Other,1028_784,Colorado Springs,CO,80919,H0018,RTC,1028_1867,Attention-deficit hyperactivity disorder,36,ewAg==
+4908,Female,Other not listed,1186_9186,Flemingsburg,KY,41041,99213,Ancillary,1186_11391,Opioid use disorder,44,BspQ==
+221,Female,Other,1028_792,Firestone,CO,80504,S0201,PHP,1028_1672,Cannabis use disorder,22,2oAA==
+8312,Female,Other not listed,1186_16295,Louisa,KY,412305430,99203,Ancillary,1186_21778,Amphetamine-type substance use disorder,37,WzVQ==
+61,Male,Other,1028_1268,Sedalia,CO,801358960,MEDDEPOSIT,Detox,1028_1451,Adjustment insomnia,29,ah_g==
+6434,Male,Hispanic or Latino,1081_12434,Phoenix,AZ,85043,H0046,TBD,1081_16027,Opioid dependence,27,heGQ==
+44,Male,Other,1028_1268,Sedalia,CO,801358960,H0018,RTC,1028_1451,Social anxiety disorder (social phobia),29,D2_w==
+5359,Female,Not Hispanic or Latino,1081_11974,Phoenix,AZ,85032,H2016,TBD,1081_15303,Other stimulant dependence,26,hG1A==
+7156,Male,Other not listed,1186_14445,PRESTONSBURG,KY,41653,90832,Ancillary,1186_19576,Unspecified depressive disorder,34,b0aQ==
+4309,Male,Not Hispanic or Latino,1081_11205,Wofford Heights,CA,9328,H0046,TBD,1081_14100,Other stimulant dependence,34,yBCg==
+7733,Male,Hispanic or Latino,1081_6779,Phoenix,AZ,85018,H0031,Ancillary,1081_16864,Cocaine dependence,25,Wyug==
+3698,Male,Not Hispanic or Latino,1081_8674,Glendale,AZ,85310,H0001,Ancillary,1081_13253,Opioid dependence,23,XJ4g==
+1863,Male,Other not listed,1018_8696,DYER,IN,463112928,90849,OP,1018_10561,Sedative,27,AjDA==
+5729,Male,Not Hispanic or Latino,1081_101,Phoenix,AZ,85032,H0018,RTC,1081_15558,Opioid dependence,32,rMEA==
+6389,Male,Other,1081_12372,Mesa,AZ,85202,H0046,TBD,1081_15913,Sedative,30,fxPA==
+4368,Male,Not Hispanic or Latino,1081_11219,Scottsdale,AZ,85260,H0018,RTC,1081_14115,Other stimulant dependence,55,qVrA==
+7191,Male,Other not listed,1186_14445,PRESTONSBURG,KY,41653,99484,Ancillary,1186_19576,hepatitis C without hepatic coma,34,srXw==
+8466,Male,Other not listed,1186_15985,Pikeville,KY,41501,86580,Ancillary,1186_22007,Encounter for issue of repeat prescription,33,Nilg==
+3694,Male,Not Hispanic or Latino,1081_8674,Glendale,AZ,85310,99999,Interest Payments,1081_13253,Opioid dependence,23,YgHQ==
+5998,Male,Not Hispanic or Latino,1081_12213,Phoenix,AZ,85015,H0046,TBD,1081_15684,Opioid dependence,42,L_Pw==
+5840,Female,Other not listed,1186_11603,Burlington,KY,41005,T2023,TBD,1186_15521,Drug induced constipation,29,IOng==
+7478,Female,Not Hispanic or Latino,1081_9012,Phoenix,AZ,85033,H0018,RTC,1081_16740,Other stimulant dependence,35,CsrQ==
+7259,Male,Not Hispanic or Latino,1081_12702,Phoenix,AZ,85009,H0004,Ancillary,1081_16619,Alcohol dependence,33,kW3w==
+6472,Male,Hispanic or Latino,1081_12437,Phoenix,AZ,85007,H0015,IOP,1081_16032,Opioid dependence,34,mhwA==
+9935,Male,Not Hispanic or Latino,1274_548,Visalia,CA,93277,90832,Ancillary,1274_1136,Generalized anxiety disorder,29,aMXQ==
+9877,Male,Caucasian,1186_17944,Newcomb,TN,378195075,H0038,Ancillary,1186_24394,Sleep disorder,32,U4xA==
+9566,Female,Other not listed,1186_8205,Louisa,KY,41230,98960,TBD,1186_24321,Amphetamine-type substance use disorder,37,0rDw==
+8325,Male,Other not listed,1186_15985,Pikeville,KY,41501,T2023,TBD,1186_22007,Unspecified depressive disorder,33,EFCA==
+2548,Male,Hispanic or Latino,1081_9713, hoenix,AZ,85016,H0004TH,TBD,1081_11803,Alcohol dependence,27,yfAA==
+6841,Female,Other not listed,1186_13236,Richmond,KY,404759701,H0001,Ancillary,1186_18999,Opioid use disorder,32,h0XA==
+6551,Male,Caucasian,1186_13431,Raven,KY,418619021,T1007,Ancillary,1186_17804,Social anxiety disorder (social phobia),27,cbng==
+7586,Male,Other not listed,1186_14118,Clay City,KY,40312,99354,Ancillary,1186_20033,Unspecified depressive disorder,29,EPrQ==
+8726,Male,Not Hispanic or Latino,1081_2163,Scottsdale,AZ,85016,H0004,Ancillary,1081_2293,Opioid dependence,38,GSxg==
+1,Male,Other,1028_1268,Sedalia,CO,801358960,S9475,PHP,1028_1451,Sedative,29,3CVA==
+1724,Male,Not Hispanic or Latino,1081_9403,Phoenix,AZ,85037,H0018,RTC,1081_11349,Other stimulant dependence,51,VfKg==
+3370,Male,Hispanic or Latino,1081_10312,Glendale,AZ,85301,H0018,RTC,1081_12738,Alcohol dependence,39,LC6A==
+5319,Male,Not Hispanic or Latino,1081_11904,Mesa,AZ,85210,H0004,Ancillary,1081_15184,Other stimulant dependence,52,dehQ==
+7212,Female,Hispanic or Latino,1081_12736,Phoenix,AZ,85041,H0046,TBD,1081_16512,Other stimulant dependence,38,f8-Q==
+2078,Male,Other not listed,1018_8589,Philadelphia,PA,19148,H0006,Ancillary,1018_10597,Cannabis use disorder,23,TK2w==
+5770,Female,Not Hispanic or Latino,1081_12210,Mesa,AZ,85201,H0015,IOP,1081_15678,Opioid dependence,34,noXA==
+6575,Male,Caucasian,1186_13431,Raven,KY,418619021,T2023,TBD,1186_17804,Attention-deficit hyperactivity disorders,27,aB6Q==
+9323,Male,Not Hispanic or Latino,1081_7991,Phoenix,AZ,85016,H0031,Ancillary,1081_9254,Other stimulant dependence,29,RpUw==
+3560,Male,Not Hispanic or Latino,1081_10485,Phoenix,AZ,85043,T1016,Ancillary,1081_13009,Alcohol dependence,43,aJTA==
+7768,Male,Not Hispanic or Latino,1081_12256,Phoenix,AZ,85023,H0018,RTC,1081_16869,Cocaine dependence,27,dwqQ==
+6672,Male,Not Hispanic or Latino,1081_11737,Mesa,AZ,85215,H0018,RTC,1081_16144,Opioid dependence,28,WHKQ==
+4933,Female,Other not listed,1186_9186,Flemingsburg,KY,41041,90837,Ancillary,1186_11391,Type 2 diabetes mellitus with other skin complications,44,tF0g==
+7090,Male,Not Hispanic or Latino,1081_10364,Tempe,AZ,85282,H0046,TBD,1081_16503,Other stimulant dependence,35,JFiw==
+8254,Male,Not Hispanic or Latino,1081_13217,Mesa,AZ,85205,T1016,Ancillary,1081_17269,Other stimulant dependence,71,P41A==
+979,Male,Not Hispanic or Latino,1081_625,Phoenix,AZ,85015,H0031,Ancillary,1081_10557,Sedative,32,pB3Q==
+4585,Male,Hispanic or Latino,1081_11568,Phoenix,AZ,85008,H0004,Ancillary,1081_14648,Other stimulant dependence,28,eKyA==
+1012,Male,Not Hispanic or Latino,1081_8880,Phoenix,AZ,85032,H0031,Ancillary,1081_10565,Alcohol dependence,34,3uhA==
+2664,Male,Other not listed,1018_8836,Adelphi,MD,20783,90792,OP,1018_10730,Alcohol use disorder,65,5qrw==
+5629,Male,Not Hispanic or Latino,1081_11709,New River,AZ,85087,H0031,Ancillary,1081_15434,Other stimulant dependence,48,jPsQ==
+7972,Male,Not Hispanic or Latino,1081_10290,Buckeye,AZ,85326,H0046,TBD,1081_17001,Opioid dependence,29,RpoA==
+6086,Female,Other not listed,1349_2290,Etna,ME,4434,S0201,PHP,1349_2866,Major depressive disorder,37,BXYA==
+2116,Female,Other not listed,1018_8727,Des Plaines,IL,60018,99205,Ancillary,1018_10602,Alcohol use disorder,55,W5og==
+7720,Male,Hispanic or Latino,1081_6779,Phoenix,AZ,85018,H0004TH,TBD,1081_16864,Alcohol dependence,25,U5Fg==
+6357,Female,Not Hispanic or Latino,1081_12370,Surprise,AZ,85374,T1016,Ancillary,1081_15910,Opioid dependence,31,9qZA==
+3238,Male,Hispanic or Latino,1081_9397,Phoenix,AZ,85017,H0046,TBD,1081_12242,Other stimulant dependence,37,Vm0Q==
+850,Male,Other,1028_1601,New York,NY,10018,MEDDEPOSIT,Detox,1028_1869,Personal history of COVID-19,34,-zNg==
+3593,Male,Not Hispanic or Latino,1081_10487,Mesa,AZ,85201,99999,Interest Payments,1081_13013,Other stimulant dependence,31,rJFA==
+5222,Male,Not Hispanic or Latino,1081_11826,Mesa,AZ,85210,H0018,RTC,1081_15066,Alcohol dependence,52,S8Jw==
+824,Male,Other,1028_784,Colorado Springs,CO,80919,90837,OP,1028_1867,Post-traumatic stress disorder,36,18sw==
+4961,Female,Other not listed,1179_8212,Gloucester City,NJ,8030,H0015,IOP,1179_11972,Panic disorder,40,mvLQ==
+9429,Female,Caucasian,1186_17623,Newport,KY,41071,H0015,IOP,1186_23897,Periapical abscess without sinus,32,tK4g==
+9313,Female,Not Hispanic or Latino,1081_7989,Laveen,AZ,85339,H0004TH,TBD,1081_9252,Other stimulant dependence,37,PMPQ==
+8340,Male,Other not listed,1186_15985,Pikeville,KY,41501,H2027,Ancillary,1186_22007,Unspecified depressive disorder,33,PPhQ==
+3563,Male,Not Hispanic or Latino,1081_10485,Phoenix,AZ,85043,H0004,Ancillary,1081_13009,Cocaine dependence,43,hVDw==
+2202,Male,Not Hispanic or Latino,1081_9156,Parker,AZ,85344,H0004HQ,TBD,1081_11522,Alcohol dependence,40,nAOg==
+5931,Female,Other not listed,1186_11603,Burlington,KY,41005,90792,Ancillary,1186_15521,Generalized anxiety disorder,29,GZyg==
+3364,Male,Not Hispanic or Latino,1081_10309,Tucson,AZ,85713,H0004TH,TBD,1081_12733,Other stimulant dependence,49,JtTg==
+9410,Female,Not Hispanic or Latino,1274_269,San Juan Bautista,CA,95045,H0018,RTC,1274_1002,Amphetamine-type substance use disorder,27,BsbA==
+1662,Male,Not Hispanic or Latino,1081_9399,Glendale,AZ,85302,H0018,RTC,1081_11343,Opioid dependence,38,kGgg==
+1225,Male,Other not listed,1018_8138,CRYSTAL LAKE,IL,600148956,90792,OP,1018_10239,Cannabis use disorder,27,a4YA==
+7448,Male,Not Hispanic or Latino,1081_625,Phoenix,AZ,85015,H0046,TBD,1081_16630,Opioid dependence,32,hgMw==
+2725,Male,Hispanic or Latino,1081_5710,Phoenix,AZ,85008,H0031,Ancillary,1081_11989,Cannabis dependence,28,pivg==
+5441,Female,Not Hispanic or Latino,1081_11976,Mesa,AZ,85201,H2016,TBD,1081_15315,Other stimulant dependence,43,cgRA==
+9578,Female,Other not listed,1186_8205,Louisa,KY,41230,99213,Ancillary,1186_24321,Amphetamine-type substance use disorder,37,3Hvg==
+7496,Male,Hispanic or Latino,1081_12867,Tolleson,AZ,85353,H2016,TBD,1081_16742,Other stimulant dependence,29,DqEg==
+8761,Male,Hispanic or Latino,1081_5435,Avondale,AZ,85323,H0018,RTC,1081_6115,Other stimulant dependence,37,CDdg==
+7849,Male,Caucasian,1186_14900,Ashland,KY,411013033,96156,TBD,1186_21034,Tachycardia,27,B3nA==
+4483,Female,Hispanic or Latino,1081_7815,Phoenix,AZ,85040,H0001,Ancillary,1081_14430,Alcohol dependence,51,Eivw==
+4327,Male,Hispanic or Latino,1081_11206,Avondale,AZ,85392,H2016,TBD,1081_14101,Sedative,31,oxHg==
+5287,Male,Not Hispanic or Latino,1081_11901,Phoenix,AZ,85016,H0031,Ancillary,1081_15181,Cocaine dependence,59,t0dQ==
+7490,Male,Hispanic or Latino,1081_12867,Tolleson,AZ,85353,H0046,TBD,1081_16742,Opioid dependence,29,b0vw==
+1930,Male,Not Hispanic or Latino,1081_9406,Gilbert,AZ,85234,H0031,Ancillary,1081_11352,Opioid dependence,31,UNGg==
+3037,Male,Hispanic or Latino,1081_8204,El Mirage,AZ,85335,H0004TH,TBD,1081_12236,Alcohol dependence,39,NkRQ==
+6329,Female,Not Hispanic or Latino,1081_12366,Supai,AZ,86435,H0046,TBD,1081_15905,Other stimulant dependence,31,xCSg==
+3810,Male,Hispanic or Latino,1081_10083,Tolleson,AZ,85353,H0031,Ancillary,1081_13272,Opioid dependence,33,-eLA==
+4982,Female,Not Hispanic or Latino,1081_11747,Scottsdale,AZ,85256,H2016,TBD,1081_14931,Other stimulant dependence,34,U1OQ==
+5230,Male,Not Hispanic or Latino,1081_11826,Mesa,AZ,85210,H0046,TBD,1081_15066,Other stimulant dependence,52,2hug==
+1661,Male,Not Hispanic or Latino,1081_9398,Chandler,AZ,85224,H0018,RTC,1081_11341,Other stimulant dependence,50,aauA==
+5356,Female,Not Hispanic or Latino,1081_11974,Phoenix,AZ,85032,H0015,IOP,1081_15303,Other stimulant dependence,26,BU1g==
+4308,Male,Not Hispanic or Latino,1081_11205,Wofford Heights,CA,9328,H0018,RTC,1081_14100,Opioid dependence,34,Kxzg==
+5271,Male,Not Hispanic or Latino,1081_11900,Glendale,AZ,85301,H0015,IOP,1081_15180,Other stimulant dependence,42,mFJw==
+3713,Female,Not Hispanic or Latino,1081_10223,New River,AZ,85087,H0004,Ancillary,1081_13255,Opioid dependence,29,T_7g==
+3440,Male,Other not listed,1018_5101,SAINT CHARLES,IL,60175,H0035,PHP,1018_6287,Generalized anxiety disorder,25,A6Qw==
+927,Male,Not Hispanic or Latino,1081_8670,Suprise,AZ,85379,H0046,TBD,1081_10267,Opioid dependence,35,KGew==
+6444,Female,Not Hispanic or Latino,1081_12215,Mesa,AZ,85201,H0004,Ancillary,1081_16029,Opioid dependence,33,RbpA==
+9941,Male,Not Hispanic or Latino,1274_548,Visalia,CA,93277,90792,Ancillary,1274_1136,Generalized anxiety disorder,29,uN3A==
+858,Female,Other,1028_1603,Fountain Valley,CA,92708,S9480,IOP,1028_1871,Bipolar disorder,30,Ap2g==
+2860,Male,Other not listed,1018_8138,CRYSTAL LAKE,IL,600148956,H0015,IOP,1018_10764,Opioid use disorder,27,3mVA==
+9048,Male,Caucasian,1186_15546,Owingsville,KY,403608304,H2034,PHP,1186_23558,Opioid use disorder,47,2s7A==
+8439,Male,Hispanic or Latino,1081_1944,Tucson,AZ,85716,H0004TH,TBD,1081_2064,Alcohol dependence,29,-G8Q==
+5341,Female,Hispanic or Latino,1081_11906,Phoenix,AZ,85007,H0046,TBD,1081_15187,Other stimulant dependence,47,J9FQ==
+1987,Male,Not Hispanic or Latino,1081_7946,Sun Lakes,AZ,85248,99999,Interest Payments,1081_11519,Alcohol dependence,36,925w==
+9127,Male,Other,1081_6649,Tolleson,AZ,85353,H0004GT,TBD,1081_7623,Opioid dependence,30,MEdw==
+6994,Male,Hispanic or Latino,1081_12656,Globe,AZ,85501,H0046,TBD,1081_16388,Other stimulant dependence,26,d6ag==
+4665,Male,Not Hispanic or Latino,1081_11585,Goodyear,AZ,85338,H0004,Ancillary,1081_14668,Other stimulant dependence,31,l4aA==
+178,Female,Other,1028_1410,Colorado Springs,CO,80920,S9475,PHP,1028_1623,Tachycardia,59,EOWw==
+622,Male,Other,1028_1268,Sedalia,CO,801358960,MEDDEPOSIT,Detox,1028_1806,Alcohol use disorder,29,j6iw==
+7168,Male,Other not listed,1186_14445,PRESTONSBURG,KY,41653,90832,Ancillary,1186_19576,Anxiety disorder,34,m_Ag==
+6110,Female,Other not listed,1349_2290,Etna,ME,4434,S0201,PHP,1349_2866,Constipation,37,fFpQ==
+7955,Male,Not Hispanic or Latino,1081_8886,Glendale,AZ,85302,H0004TH,TBD,1081_16998,Other stimulant dependence,32,TwaA==
+1110,Female,Hispanic or Latino,1081_9078,Phoenix,AZ,85029,T1016,Ancillary,1081_10847,Other stimulant dependence,38,rpVw==
+2717,Male,Hispanic or Latino,1081_5710,Phoenix,AZ,85008,H0031,Ancillary,1081_11989,Opioid abuse,28,yB8w==
+2577,Female,Other not listed,1018_8833,Jersey City,NJ,7306,H0015,IOP,1018_10727,Unspecified depressive disorder,46,xF2A==
+8253,Male,Not Hispanic or Latino,1081_13217,Mesa,AZ,85205,H0046,TBD,1081_17269,Other stimulant dependence,71,Wkng==
+5737,Male,Not Hispanic or Latino,1081_12132,Meadview,AZ,86444,H2016,TBD,1081_15559,Alcohol dependence,33,Wfig==
+3888,Female,Not Hispanic or Latino,1081_10758,Mesa,AZ,85207,H0046,TBD,1081_13431,Other stimulant dependence,51,bnHg==
+2525,Female,Hispanic or Latino,1081_9078,Phoenix,AZ,85029,T1016,Ancillary,1081_11784,Other stimulant dependence,38,PxeQ==
+2575,Female,Other not listed,1018_8833,Jersey City,NJ,7306,99205,Ancillary,1018_10727,Unspecified depressive disorder,46,W7zw==
+2271,Male,Hispanic or Latino,1081_8749,El Mirage,AZ,85335,H0015,IOP,1081_11783,Opioid dependence,22,XqnA==
+4218,Male,Hispanic or Latino,1081_11108,Tempe,AZ,85283,H0031,Ancillary,1081_13965,Other stimulant dependence,31,y1zQ==
+9495,Male,Not Hispanic or Latino,1081_2907,Tolleson,AZ,85353,H0004TH,TBD,1081_9804,Other stimulant dependence,35,Vobg==
+9293,Male,Hispanic or Latino,1081_7742,Phoenix,AZ,85007,H0004,Ancillary,1081_9239,Opioid; F15.20 Other stimulant; F17.210 Nicotine dependence,36,9r6Q==
+5229,Male,Not Hispanic or Latino,1081_11826,Mesa,AZ,85210,H0004,Ancillary,1081_15066,Other stimulant dependence,52,zUYw==
+8401,Male,Not Hispanic or Latino,1081_4881,Phoenix,AZ,85018,H2016,TBD,1081_17285,Other stimulant dependence,39,sO2w==
+5937,Female,Other not listed,1186_11684,Ludlow,KY,41016,99212SA,TBD,1186_15622,Opioid use disorder,35,rcNg==
+3893,Male,Not Hispanic or Latino,1081_10760,Surprise,AZ,85388,H0004,Ancillary,1081_13433,Opioid dependence,31,POHA==
+3693,Female,Not Hispanic or Latino,1081_10638,Glendale,AZ,85306,H0018,RTC,1081_13252,Other stimulant dependence,32,ZgoA==
+3592,Male,Not Hispanic or Latino,1081_10487,Mesa,AZ,85201,H0046,TBD,1081_13013,Opioid dependence,31,LS5w==
+6008,Male,Not Hispanic or Latino,1081_9441,Glendale,AZ,85302,H0004,Ancillary,1081_15686,Opioid dependence,28,CRHw==
+7210,Female,Hispanic or Latino,1081_12736,Phoenix,AZ,85041,H0046,TBD,1081_16512,Opioid dependence,38,FI3Q==
+8362,Male,Other not listed,1186_15985,Pikeville,KY,41501,90853,Ancillary,1186_22007,Acute hepatitis C without hepatic coma,33,UGlA==
+4123,Male,Hispanic or Latino,1081_10995,Mesa,AZ,85201,H0004,Ancillary,1081_13798,Cannabis dependence,48,oABA==
+4626,Male,Not Hispanic or Latino,1081_11573,Fountain Hills,AZ,85268,H0018,RTC,1081_14653,Other stimulant dependence,34,zY6Q==
+7726,Male,Hispanic or Latino,1081_6779,Phoenix,AZ,85018,H0004GT,TBD,1081_16864,Opioid dependence,25,6Zvg==
+5025,Male,Not Hispanic or Latino,1081_10989,Rock Point,AZ,86545,H0004,Ancillary,1081_15061,Alcohol dependence,48,bnqQ==
+2254,Male,Hispanic or Latino,1081_9699,Avondale,AZ,85323,H0018,RTC,1081_11779,Other stimulant dependence,35,nJpA==
+5838,Female,Other not listed,1186_11603,Burlington,KY,41005,H0031,Ancillary,1186_15521,Drug induced constipation,29,o4_w==
+3034,Female,Not Hispanic or Latino,1081_9992,Phoenix,AZ,855029,99999,Interest Payments,1081_12235,Other stimulant dependence,58,ZLWg==
+613,Male,Other,1028_1268,Sedalia,CO,801358960,S9475,IOP,1028_1806,Adjustment insomnia,29,g5hw==
+506,Male,Other,1028_1518,Monument,CO,80132,MEDDEPOSIT,Detox,1028_1780,Sprain of unspecified ligament of left ankle,45,tfYg==
+9230,Male,Caucasian,1186_15546,Owingsville,KY,403608304,99211,Ancillary,1186_23558,Amphetamine-type substance use disorder,47,Pt-g==
+3558,Male,Not Hispanic or Latino,1081_10485,Phoenix,AZ,85043,H0046,TBD,1081_13009,Alcohol dependence,43,wWOg==
+796,Male,Other,1028_1578,Denver,CO,80237,H0015,IOP,1028_1842,Depression,26,fGjQ==
+3908,Female,Hispanic or Latino,1081_10763,Tucson,AZ,85741,T1016,Ancillary,1081_13436,Other stimulant dependence,27,RLxw==
+777,Female,Other,1028_1575,Colorado Springs,CO,80919,S9475,IOP,1028_1839,Cocaine use disorder,26,Y0hQ==
+4326,Male,Hispanic or Latino,1081_11206,Avondale,AZ,85392,H0046,TBD,1081_14101,Sedative,31,zOAw==
+1968,Male,Hispanic or Latino,1081_9226,Phoenix,AZ,85043,H0018,RTC,1081_11513,Other stimulant dependence,35,E5Xw==
+6742,Male,Not Hispanic or Latino,1081_12583,Mesa,AZ,85204,T1016,Ancillary,1081_16261,Alcohol dependence,22,UNug==
+5522,Male,Not Hispanic or Latino,1081_11138,Mesa,AZ,85204,H0031,Ancillary,1081_15432,Alcohol dependence,31,4XRQ==
+7555,Male,Other not listed,1179_526,Escondido,CA,92027,H0010,Detox,1179_3581,Cannabis use disorder,65,bibg==
+7519,Male,Not Hispanic or Latino,1081_11103,Chandler,AZ,85225,T1016,Ancillary,1081_16744,Cocaine dependence,21,Vb4g==
+9449,Female,Caucasian,1186_17623,Newport,KY,41071,H0031,Ancillary,1186_23897,Nightmare disorder,32,d5EA==
+6303,Male,Hispanic or Latino,1081_11001,Globe,AZ,85501,H0031,Ancillary,1081_15793,Cannabis dependence,33,BbMw==
+4363,Male,Not Hispanic or Latino,1081_11219,Scottsdale,AZ,85260,H0004,Ancillary,1081_14115,Cannabis dependence,55,KdRg==
+8476,Male,Other not listed,1186_15985,Pikeville,KY,41501,S9446,TBD,1186_22007,Encounter for issue of repeat prescription,33,D33Q==
+1365,Male,Hispanic or Latino,1081_9318,Tempe,AZ,85281,H0015,IOP,1081_11227,Cannabis dependence,34,_Qhw==
+2843,Female,Other not listed,1018_8861,Chicago,IL,60647,90792,OP,1018_10759,Social anxiety disorder (social phobia),31,cZbw==
+5007,Male,Hispanic or Latino,1081_11748,ElMirage,AZ,85335,H0046,TBD,1081_14934,Other stimulant dependence,29,FI1w==
+9244,Female,Caucasian,1186_17623,Newport,KY,41071,99484,Ancillary,1186_23897,Periapical abscess without sinus,32,N4AQ==
+4926,Female,Other not listed,1186_9186,Flemingsburg,KY,41041,H2027,Ancillary,1186_11391,Type 2 diabetes mellitus with other skin complications,44,gU6Q==
+686,Male,Other,1028_1551,Denver,CO,80224,90853,OP,1028_1808,Cannabis abuse,37,9dOg==
+294,Male,Other,1028_993,Colorado Springs,CO,80917,S0201,PHP,1028_1674,Cocaine use disorder,27,LyDQ==
+5527,Male,Not Hispanic or Latino,1081_11138,Mesa,AZ,85204,H0018,RTC,1081_15432,Alcohol dependence,31,RWsA==
+9274,Female,Not Hispanic or Latino,1081_7962,Tucson,AZ,85712,H0046,TBD,1081_9222,Alcohol dependence,54,zPhQ==
+5056,Male,Not Hispanic or Latino,1081_11002,Phoenix,AZ,85016,H0018,RTC,1081_15063,Alcohol dependence,31,0WAQ==
+8108,Male,Not Hispanic or Latino,1081_13119,Phoenix,AZ,85028,H0018,RTC,1081_17123,Opioid dependence,32,onCQ==
+8207,Male,Not Hispanic or Latino,1081_13121,Buckeye,AZ,85326,H0046,TBD,1081_17126,Other stimulant dependence,35,NR0Q==
+1371,Male,Hispanic or Latino,1081_9318,Tempe,AZ,85281,H0046,TBD,1081_11227,Other stimulant dependence,34,MRXg==
+5314,Male,Not Hispanic or Latino,1081_11904,Mesa,AZ,85210,H0004,Ancillary,1081_15184,Cocaine dependence,52,WqFQ==
+1098,Male,Hispanic or Latino,1081_9077,Mesa,AZ,85021,T1016,Ancillary,1081_10846,Opioid dependence,30,LYcw==
+7528,Male,Other not listed,1179_8018,Holmdel,NJ,7733,S0201,PHP,1179_27332,Paranoid schizophrenia,27,w9LQ==
+9044,Male,Caucasian,1186_15546,Owingsville,KY,403608304,99072,TBD,1186_23558,Opioid use disorder,47,HMsw==
+6261,Female,Other not listed,1186_8205,Louisa,KY,41230,96372,Ancillary,1186_16907,Anxiety disorder,37,pNuw==
+1854,Male,Other not listed,1018_8696,DYER,IN,463112928,90849,Ancillary,1018_10561,Opioid use disorder,27,vVDA==
+1923,Male,Not Hispanic or Latino,1081_9404,Phoenix,AZ,85016,H0046,TBD,1081_11350,Alcohol dependence,56,8YYA==
+866,Female,Other,1028_1603,Fountain Valley,CA,92708,H0018,RTC,1028_1871,Attention-deficit/hyperactivity disorder,30,3F8w==
+4328,Male,Hispanic or Latino,1081_11207,Phoenix,AZ,85040,H0046,TBD,1081_14102,Other stimulant dependence,31,MFEA==
+8114,Female,Other not listed,1186_15958,Harrodsburg,KY,403301952,99203,Ancillary,1186_21239,Amphetamine-type substance use disorder,38,1hIQ==
+7761,Male,Not Hispanic or Latino,1081_12256,Phoenix,AZ,85023,99999,Interest Payments,1081_16869,Cocaine dependence,27,iprQ==
+1126,Female,Hispanic or Latino,1081_9079,Phoenix,AZ,85007,H0031,Ancillary,1081_10848,Alcohol dependence,47,E-cg==
+6317,Male,Not Hispanic or Latino,1081_9660,Surprise,AZ,85388,T1016,Ancillary,1081_15904,Cannabis dependence,38,35kA==
+4450,Male,Not Hispanic or Latino,1081_11298,Glendale,AZ,85308,H0018,RTC,1081_14242,Opioid dependence,26,EDSw==
+6343,Male,Hispanic or Latino,1081_11612,Phoenix,AZ,85009,H0004,Ancillary,1081_15907,Opioid dependence,21,Lw4A==
+2,Male,Other,1028_1268,Sedalia,CO,801358960,H0018,RTC,1028_1451,Sedative,29,fo4Q==
+3998,Male,Hispanic or Latino,1081_10882,Phoenix,AZ,85037,H0018,RTC,1081_13626,Opioid dependence,45,Hk3g==
+4256,Female,Not Hispanic or Latino,1081_11115,Scottsdale,AZ,85257,H0046,TBD,1081_13977,Opioid dependence,53,PkcA==
+6716,Male,Hispanic or Latino,1081_12518,Phoenix,AZ,85042,99212,Ancillary,1081_16151,Opioid dependence,36,y2pw==
+9799,Male,Caucasian,1186_17944,Newcomb,TN,378195075,H0035,PHP,1186_24394,Amphetamine-type substance use disorder,32,f_LQ==
+4181,Female,Hispanic or Latino,1081_10603,Phoenix,AZ,85008,H0004TH,TBD,1081_13959,Other stimulant dependence,24,rTag==
+8667,Female,Other not listed,1186_2044,Lowmansville,KY,41232,90837,Ancillary,1186_2269,Unspecified depressive disorder,43,yX1g==
+6946,Male,Not Hispanic or Latino,1081_11896,Glendale,AZ,85308,H0018,RTC,1081_16383,Cannabis dependence,23,KTqw==
+7125,Female,Other not listed,1186_13236,Richmond,KY,404759701,H2027,Ancillary,1186_18999,Generalized anxiety disorder,32,-Chw==
+6898,Male,Not Hispanic or Latino,1081_12253,Glendale,AZ,85301,T1016,Ancillary,1081_16269,Other stimulant dependence,36,dXWw==
+7149,Male,Other not listed,1186_14445,PRESTONSBURG,KY,41653,T2023,TBD,1186_19576,Cocaine use disorder,34,EJUg==
+5933,Female,Other not listed,1186_11603,Burlington,KY,41005,90834,Ancillary,1186_15521,Generalized anxiety disorder,29,J0lw==
+590,Male,Other,1028_1534,Monument,CO,80132 6733,S0201,PHP,1028_1782,Other seizures,27,PcHA==
+2059,Male,Other not listed,1018_8589,Philadelphia,PA,19148,99205,Ancillary,1018_10597,Opioid use disorder,23,dNqg==
+4589,Male,Hispanic or Latino,1081_11568,Phoenix,AZ,85008,T1016,Ancillary,1081_14648,Other stimulant dependence,28,PniQ==
+7069,Male,Hispanic or Latino,1081_4521,Glendale,AZ,85303,H0046,TBD,1081_16500,Other stimulant dependence,32,uxGg==
+3060,Male,Not Hispanic or Latino,1081_9994,Peoria,AZ,85345,H0015,IOP,1081_12238,Opioid dependence,30,jLDg==
+6939,Male,Not Hispanic or Latino,1081_11896,Glendale,AZ,85308,H0018,RTC,1081_16383,Opioid dependence,23,YczA==
+7675,Female,Hispanic or Latino,1081_11842,Mesa,AZ,85043,H0031,Ancillary,1081_16746,Opioid dependence,35,ytGw==
+214,Female,Other,1028_792,Firestone,CO,80504,H0015,IOP,1028_1672,Cannabis use disorder,22,PT2w==
+5046,Male,Hispanic or Latino,1081_10995,Mesa,AZ,85201,T1016,Ancillary,1081_15062,Cocaine dependence,48,nPjg==
+7584,Male,Other not listed,1186_14118,Clay City,KY,40312,H0015,IOP,1186_20033,Unspecified depressive disorder,29,sAiQ==
+9067,Male,Other,1081_5480,Phoenix,AZ,85015,H0018,RTC,1081_6175,Other stimulant dependence,31,_KsA==
+6233,Female,Other not listed,1186_11684,Ludlow,KY,41016,H0001,Ancillary,1186_15622,Low back pain,35,n1gQ==
+8037,Male,Hispanic or Latino,1081_13112,Phoenix,AZ,85009,H0015,IOP,1081_17112,Opioid dependence,25,5gwg==
+3927,Male,Hispanic or Latino,1081_10387,Phoenix,AZ,85051,H0018,RTC,1081_13442,Other stimulant dependence,33,Hyrw==
+82,Male,Other,1028_1252,Colorado Springs,CO,809064268,H0018,RTC,1028_1466,Hallucinogen use,28,nMug==
+9861,Male,Caucasian,1186_17944,Newcomb,TN,378195075,87426,TBD,1186_24394,Sleep disorder,32,K8_w==
+1437,Male,Not Hispanic or Latino,1081_9323,Glendale,AZ,85301,99999,Interest Payments,1081_11234,Opioid dependence,23,FbAw==
+9170,Male,Hispanic or Latino,1081_6779,Phoenix,AZ,85018,H0004TH,TBD,1081_7788,Cocaine dependence,25,IxiA==
+5805,Male,Other,1081_4289,Phoenix,AZ,85031,H0031,Ancillary,1081_15681,Other stimulant dependence,43,cMeA==
+7550,Male,Other not listed,1179_526,Escondido,CA,92027,H0010,Detox,1179_3581,Amphetamine-type substance use disorder,65,k64Q==
+9285,Male,Not Hispanic or Latino,1081_7968,Phoenix,AZ,85037,H0046,TBD,1081_9229,Other stimulant dependence,32,oqzQ==
+4791,Male,Not Hispanic or Latino,1081_11744,Phoenix,AZ,85006,T1016,Ancillary,1081_14925,Alcohol dependence,49,UpNg==
+1080,Male,Not Hispanic or Latino,1081_9074,Phoenix,AZ,85053,T1016,Ancillary,1081_10843,Cannabis dependence,28,TJcw==
+8758,Male,Hispanic or Latino,1081_5435,Avondale,AZ,85323,H0001,Ancillary,1081_6115,Other stimulant dependence,37,LizQ==
+7187,Male,Other not listed,1186_14445,PRESTONSBURG,KY,41653,90853,Ancillary,1186_19576,hepatitis C without hepatic coma,34,150g==
+8141,Male,Other not listed,1186_15985,Pikeville,KY,41501,90471,Ancillary,1186_21728,Unspecified depressive disorder,33,vyvw==
+2624,Male,Not Hispanic or Latino,1081_8955,Lake Havasu City,AZ,86403,H0004GT,TBD,1081_11979,Opioid dependence,26,5KMg==
+5687,Female,Not Hispanic or Latino,1081_12126,Scottsdale,AZ,85260,H0046,TBD,1081_15552,Other stimulant dependence,32,sg3g==
+2075,Male,Other not listed,1018_8589,Philadelphia,PA,19148,80305,Ancillary,1018_10597,Cannabis use disorder,23,ruNg==
+397,Male,Other,1028_1482,Aurora,CO,80017,H0018,RTC,1028_1718,Cocaine use disorder,43,5uNQ==
+760,Male,Other,1028_1465,Parker,CO,80134,S9475,IOP,1028_1837,Atopic dermatitis,32,W4PQ==
+4205,Male,Hispanic or Latino,1081_8547,Phoenix,AZ,85016,T1016,Ancillary,1081_13962,Alcohol dependence,53,zlWQ==
+1082,Male,Not Hispanic or Latino,1081_9074,Phoenix,AZ,85053,H0004TH,TBD,1081_10843,Cannabis dependence,28,pr2Q==
+5108,Female,Other not listed,1179_9890,Millville,NJ,8332,80305,Ancillary,1179_12215,Type 1 diabetes mellitus without complications,25,ma7w==
+4105,Male,Not Hispanic or Latino,1081_8681,Scottsdale,AZ,85251,H0018,RTC,1081_13797,Other stimulant dependence,30,tgpA==
+7140,Male,Other not listed,1186_14445,PRESTONSBURG,KY,41653,H0038,Ancillary,1186_19576,Cocaine use disorder,34,xJiA==
+8375,Male,Not Hispanic or Latino,1081_9094,Sun City,AZ,85351,H0018,RTC,1081_17279,Other stimulant dependence,33,9uQw==
+9564,Female,Other not listed,1186_8205,Louisa,KY,41230,H0001,Ancillary,1186_24321,Amphetamine-type substance use disorder,37,dAgw==
+5273,Male,Not Hispanic or Latino,1081_11900,Glendale,AZ,85301,H0046,TBD,1081_15180,Other stimulant dependence,42,X24Q==
+7741,Male,Hispanic or Latino,1081_6779,Phoenix,AZ,85018,H0046,TBD,1081_16864,Cocaine dependence,25,TDXw==
+7779,Female,Not Hispanic or Latino,1081_12194,Anthem,AZ,85086,H0004,Ancillary,1081_16870,Opioid dependence,30,C-aQ==
+7513,Male,Not Hispanic or Latino,1081_11103,Chandler,AZ,85225,T1016,Ancillary,1081_16744,Alcohol dependence,21,bLJg==
+8964,Male,Caucasian,1186_17226,LOUISA,KY,41230,H0031,Ancillary,1186_23290,Amphetamine-type substance use disorder,42,-IyA==
+4082,Male,Not Hispanic or Latino,1081_9497,Phoenix,AZ,85018,H0004,Ancillary,1081_13788,Opioid dependence,38,tgFQ==
+8432,Male,Hispanic or Latino,1081_1944,Tucson,AZ,85716,H0031,Ancillary,1081_2064,Cannabis dependence,29,zT0g==
+5478,Male,Hispanic or Latino,1081_12045,Mesa,AZ,85210,H0018,RTC,1081_15425,Other stimulant dependence,22,C4LA==
+9737,Female,Not Hispanic or Latino,1274_269,San Juan Bautista,CA,95045,H0018,RTC,1274_1009,Opioid use disorder,27,8rUA==
+7731,Male,Hispanic or Latino,1081_6779,Phoenix,AZ,85018,H0018,RTC,1081_16864,Opioid dependence,25,nJRg==
+2878,Female,Other not listed,1018_8889,Chicago,IL,60655,99395,Ancillary,1018_10796,Opioid use disorder,27,0n7A==
+3632,Male,Not Hispanic or Latino,1081_10503,Phoenix,AZ,85051,H0004,Ancillary,1081_13033,Other stimulant dependence,29,ieCw==
+1645,Male,Not Hispanic or Latino,1081_9323,Glendale,AZ,85301,H2016,TBD,1081_11234,Other stimulant dependence,23,s3ow==
+8315,Male,Other not listed,1186_15985,Pikeville,KY,41501,99213,Ancillary,1186_22007,Unspecified anxiety disorder,33,bKWg==
+1670,Male,Not Hispanic or Latino,1081_9400,Tuba City,AZ,86045,T1016,Ancillary,1081_11344,Alcohol dependence,39,q94Q==
+9241,Female,Caucasian,1186_17623,Newport,KY,41071,H0038,Ancillary,1186_23897,Gastro-esophageal reflux disease without esophagitis,32,DDJg==
+1718,Male,Not Hispanic or Latino,1081_9401,Peoria,AZ,85345,H0046,TBD,1081_11347,Other stimulant dependence,27,8MUQ==
+8383,Male,Not Hispanic or Latino,1081_13226,Glendale,AZ,85301,H0031,Ancillary,1081_17282,Other stimulant dependence,32,ezpA==
+7929,Female,Other,1081_13040,Glendale,AZ,85303,T1016,Ancillary,1081_16993,Other stimulant dependence,38,RX6A==
+9496,Male,Not Hispanic or Latino,1081_2907,Tolleson,AZ,85353,H0001,Ancillary,1081_9804,Other stimulant dependence,35,Mrsg==
+6624,Male,Hispanic or Latino,1081_12437,Phoenix,AZ,85007,H0018,RTC,1081_16032,Cocaine dependence,34,Qe9g==
+8316,Male,Other not listed,1186_15985,Pikeville,KY,41501,99212SA,TBD,1186_22007,Unspecified anxiety disorder,33,dyDQ==
+4653,Female,Hispanic or Latino,1081_11580,Chandler,AZ,85225,H0018,RTC,1081_14661,Other stimulant dependence,38,cmRQ==
+9815,Male,Caucasian,1186_17944,Newcomb,TN,378195075,98960,TBD,1186_24394,anxiety disorder,32,7A7A==
+209,Female,Other,1028_792,Firestone,CO,80504,80305,Ancillary,1028_1672,Generalized anxiety disorder,22,8_OA==
+9806,Male,Caucasian,1186_17944,Newcomb,TN,378195075,H0031,Ancillary,1186_24394,anxiety disorder,32,JE8A==
+8949,Male,Caucasian,1186_17226,LOUISA,KY,41230,99212AM,TBD,1186_23290,Opioid use disorder,42,k-qw==
+9131,Male,Other,1081_6649,Tolleson,AZ,85353,H0031,Ancillary,1081_7623,Sedative,30,TrDA==
+5112,Female,Other not listed,1179_9890,Millville,NJ,8332,80305,Ancillary,1179_12215,Adjustment disorder with anxiety,25,r0wg==
+7017,Female,Not Hispanic or Latino,1081_12658,Phoenix,AZ,85051,T1016,Ancillary,1081_16391,Opioid dependence,29,PV9g==
+9386,Female,Not Hispanic or Latino,1274_269,San Juan Bautista,CA,95045,S0201,PHP,1274_1002,Alcohol dependence with withdrawal,27,jqBg==
+6823,Male,Other not listed,1186_14445,PRESTONSBURG,KY,41653,H0038,Ancillary,1186_18911,Anxiety disorder,34,zY1A==
+7254,Male,Hispanic or Latino,1081_12794,Phoenix,AZ,85041,H0015,IOP,1081_16618,Other stimulant dependence,26,MPKg==
+4942,Female,Other not listed,1179_8212,Gloucester City,NJ,8030,H0011,RTC,1179_11972,Periodic headache syndromes in child or adult,40,1iWw==
+8109,Male,Not Hispanic or Latino,1081_13119,Phoenix,AZ,85028,H0046,TBD,1081_17123,Opioid dependence,32,V9tA==
+7085,Male,Not Hispanic or Latino,1081_10364,Tempe,AZ,85282,T1016,Ancillary,1081_16503,Opioid dependence,35,L-yg==
+3249,Male,Hispanic or Latino,1081_9431,Phoenix,AZ,85004,H0004TH,TBD,1081_12459,Opioid dependence,36,B8fQ==
+741,Male,Other,1028_1465,Parker,CO,80134,MEDDEPOSIT,Detox,1028_1837,Insomnia,32,zxpA==
+1907,Male,Other not listed,1018_8696,DYER,IN,463112928,90875,Ancillary,1018_10561,Cannabis use disorder,27,0cRg==
+5978,Male,Other not listed,1179_10396,San Jose,CA,95125,H0010,Detox,1179_17080,Alcohol use disorder,27,PZHA==
+5006,Male,Hispanic or Latino,1081_11748,ElMirage,AZ,85335,H0018,RTC,1081_14934,Opioid use disorder,29,IFyg==
+8303,Female,Other not listed,1186_16295,Louisa,KY,412305430,H0015,IOP,1186_21778,Cannabis use disorder,37,dBPQ==
+6311,Male,Not Hispanic or Latino,1081_9660,Surprise,AZ,85388,H0031,Ancillary,1081_15904,Alcohol dependence,38,i_JQ==
+7747,Male,Hispanic or Latino,1081_6779,Phoenix,AZ,85018,H0004TH,TBD,1081_16864,Other stimulant dependence,25,I9BA==
+3357,Male,Not Hispanic or Latino,1081_10304,Phoenix,AZ,85032,H0015,IOP,1081_12728,Other stimulant dependence,38,zRtA==
+7173,Male,Other not listed,1186_14445,PRESTONSBURG,KY,41653,T2023,TBD,1186_19576,Anxiety disorder,34,egPw==
+2256,Male,Hispanic or Latino,1081_8562,Phoenix,AZ,85017,H0031,Ancillary,1081_11782,Opioid dependence,33,5Y-g==
+1675,Male,Not Hispanic or Latino,1081_9400,Tuba City,AZ,86045,H0001,Ancillary,1081_11344,Alcohol dependence,39,5_sw==
+5281,Male,Not Hispanic or Latino,1081_11901,Phoenix,AZ,85016,H0031,Ancillary,1081_15181,Other stimulant dependence,59,VIUw==
+8318,Male,Other not listed,1186_15985,Pikeville,KY,41501,H0038,Ancillary,1186_22007,Unspecified anxiety disorder,33,0tag==
+2252,Male,Hispanic or Latino,1081_9699,Avondale,AZ,85323,H0018,RTC,1081_11779,Opioid dependence,35,RMAw==
+7793,Male,Not Hispanic or Latino,1081_12259,Cave Creek,AZ,85331,H0004,Ancillary,1081_16872,Opioid dependence,40,V0bg==
+6746,Male,Not Hispanic or Latino,1081_12583,Mesa,AZ,85204,H0001,Ancillary,1081_16261,Alcohol dependence,22,6eIw==
+2952,Male,Not Hispanic or Latino,1081_9166,Phoenix,AZ,85018,T1016,Ancillary,1081_12226,Other stimulant dependence,45,_jcQ==
+7884,Male,Caucasian,1186_14900,Ashland,KY,411013033,90832,Ancillary,1186_21034,Other insomnia,27,4VXQ==
+9253,Male,Not Hispanic or Latino,1081_5764,Gilbert,AZ,85234,H0031,Ancillary,1081_7877,Opioid dependence,44,7VBA==
+6024,Female,Not Hispanic or Latino,1081_12215,Mesa,AZ,85201,T1016,Ancillary,1081_15688,Other stimulant dependence,33,HhLw==
+4259,Male,Hispanic or Latino,1081_11118,Phoenix,AZ,85009,H0046,TBD,1081_13980,Opioid dependence,21,EXmA==
+3585,Male,Not Hispanic or Latino,1081_10487,Mesa,AZ,85201,H2016,TBD,1081_13013,Opioid dependence,31,0Gpw==
+1162,Male,Other,1081_8524,Phoenix,AZ,85004,H0001,Ancillary,1081_10851,Other stimulant dependence,31,_vYw==
+1886,Male,Other not listed,1018_8696,DYER,IN,463112928,H0006,Ancillary,1018_10561,Cocaine use disorder,27,hz9g==
+3590,Male,Not Hispanic or Latino,1081_10487,Mesa,AZ,85201,T1016,Ancillary,1081_13013,Opioid dependence,31,vq5Q==
+4842,Female,Not Hispanic or Latino,1081_11747,Scottsdale,AZ,85256,H2016,TBD,1081_14931,Opioid dependence,34,h73A==
+4245,Female,Not Hispanic or Latino,1081_10238,Whiteriver,AZ,85941,H2016,TBD,1081_13975,Alcohol dependence,42,Z9dQ==
+6699,Male,Other,1081_11741,Peridot,AZ,85542,H0015,IOP,1081_16148,Other stimulant dependence,52,4UDg==
+6731,Female,Hispanic or Latino,1081_12519,Phoenix,AZ,85008,H0046,TBD,1081_16152,Cannabis dependence,32,TH-g==
+5639,Male,Hispanic or Latino,1081_12052,Phoenix,AZ,85035,H0046,TBD,1081_15435,Other stimulant dependence,25,Lsew==
+7859,Male,Caucasian,1186_14900,Ashland,KY,411013033,H0035,PHP,1186_21034,Tachycardia,27,nEJA==
+4813,Male,Not Hispanic or Latino,1081_11305,Litchfield Park,AZ,85340,H0015,IOP,1081_14926,Other stimulant dependence,36,wG9A==
+839,Male,Other,1028_1601,New York,NY,10018,S0201,PHP,1028_1869,Anxiety disorder,34,XKAA==
+6930,Male,Not Hispanic or Latino,1081_11706,Phoenix,AZ,85007,99999,Interest Payments,1081_16382,Other stimulant dependence,51,yWCg==
+982,Male,Not Hispanic or Latino,1081_625,Phoenix,AZ,85015,H0046,TBD,1081_10557,Sedative,32,P9JQ==
+748,Male,Other,1028_1465,Parker,CO,80134,S9475,IOP,1028_1837,Generalized anxiety disorder,32,1Pxw==
+9128,Male,Other,1081_6649,Tolleson,AZ,85353,H0004,Ancillary,1081_7623,Opioid dependence,30,CFCA==
+3528,Male,Not Hispanic or Latino,1081_10326,Phoenix,AZ,85051,H0004,Ancillary,1081_12758,Opioid dependence,44,I9fg==
+7719,Male,Hispanic or Latino,1081_6779,Phoenix,AZ,85018,H0001,Ancillary,1081_16864,Alcohol dependence,25,-w9Q==
+3948,Female,Hispanic or Latino,1081_10772,Phoenix,AZ,85008,H0018,RTC,1081_13449,Other stimulant dependence,38,9lQQ==
+9946,Male,Not Hispanic or Latino,1274_548,Visalia,CA,93277,S0201,PHP,1274_1136,Generalized idiopathic epilepsy and epileptic syndromes,29,92ug==
+1444,Male,Not Hispanic or Latino,1081_9323,Glendale,AZ,85301,T1016,Ancillary,1081_11234,Opioid dependence,23,zLdw==
+3637,Male,Hispanic or Latino,1081_5435,Avondale,AZ,85323,H0004,Ancillary,1081_13245,Alcohol dependence,37,YkIA==
+5715,Male,Not Hispanic or Latino,1081_12131,Mesa,AZ,85201,H0031,Ancillary,1081_15557,Alcohol dependence,30,xzTQ==
+4050,Male,Not Hispanic or Latino,1081_10893,Holbrook,AZ,86025,H0004TH,TBD,1081_13640,Other stimulant dependence,27,a-QQ==
+6668,Male,Not Hispanic or Latino,1081_11737,Mesa,AZ,85215,H2016,TBD,1081_16144,Opioid dependence,28,lmAA==
+3894,Male,Not Hispanic or Latino,1081_10760,Surprise,AZ,85388,T1016,Ancillary,1081_13433,Opioid dependence,31,caSg==
+8471,Male,Other not listed,1186_15985,Pikeville,KY,41501,99211,Ancillary,1186_22007,Encounter for issue of repeat prescription,33,tW4Q==
+4207,Male,Hispanic or Latino,1081_11108,Tempe,AZ,85283,H0001,Ancillary,1081_13965,Opioid dependence,31,_Raw==
+1919,Male,Other not listed,1018_8696,DYER,IN,463112928,90834,OP,1018_10561,Bipolar II disorder,27,3n6Q==
+3396,Male,Hispanic or Latino,1081_10321,Phoenix,AZ,85051,H0046,TBD,1081_12750,Other stimulant dependence,27,NStQ==
+4534,Female,Hispanic or Latino,1081_11432,Phoenix,AZ,85007,H0004TH,TBD,1081_14448,Opioid dependence,34,0kHA==
+5916,Female,Other not listed,1186_11603,Burlington,KY,41005,90834,Ancillary,1186_15521,Major depressive disorder,29,FPQQ==
+1408,Male,Hispanic or Latino,1081_6017,Phoenix,AZ,85018,99999,Interest Payments,1081_11233,Alcohol dependence,26,-GzQ==
+8275,Male,Hispanic or Latino,1081_13221,Phoenix,AZ,85009,H0046,TBD,1081_17275,Opioid dependence,26,-dlg==
+8391,Male,Not Hispanic or Latino,1081_13228,San Tan Valley,AZ,85142,T1016,Ancillary,1081_17284,Opioid dependence,37,MvXg==
+2684,Male,Other not listed,1018_8836,Adelphi,MD,20783,99354,Ancillary,1018_10730,Bipolar disorder,65,McMw==
+3552,Male,Not Hispanic or Latino,1081_9814,Phoenix,AZ,85032,H0004,Ancillary,1081_13004,Other stimulant dependence,45,iDCw==
+6689,Female,Hispanic or Latino,1081_12515,Phoenix,AZ,85023,H0031,Ancillary,1081_16147,Other stimulant dependence,44,FQTA==
+630,Male,Other,1028_1268,Sedalia,CO,801358960,90837,OP,1028_1806,Amphetamine-type substance use disorder,29,7H0w==
+650,Male,Other,1028_1551,Denver,CO,80224,90853,OP,1028_1808,Suicidal ideations,37,ch3A==
+2874,Female,Other not listed,1018_8889,Chicago,IL,60655,90837,OP,1018_10796,Opioid use disorder,27,WRQA==
+5048,Male,Hispanic or Latino,1081_10995,Mesa,AZ,85201,H2016,TBD,1081_15062,Cocaine dependence,48,5G3Q==
+5079,Male,Other not listed,1179_526,Escondido,CA,92027,H0015,IOP,1179_12002,Alcohol use disorder,65,XJQA==
+4946,Female,Other not listed,1179_8212,Gloucester City,NJ,8030,H0011,RTC,1179_11972,Unspecified abnormal findings in urine,40,wTfg==
+9284,Male,Not Hispanic or Latino,1081_7968,Phoenix,AZ,85037,H0018,RTC,1081_9229,Other stimulant dependence,32,SdvQ==
+4166,Male,Hispanic or Latino,1081_10996,Phoenix,AZ,85032,H0015,IOP,1081_13799,Sedative,28,gU-A==
+4169,Male,Hispanic or Latino,1081_10996,Phoenix,AZ,85032,H0031,Ancillary,1081_13799,Sedative,28,JhYg==
+6022,Female,Not Hispanic or Latino,1081_12215,Mesa,AZ,85201,H0018,RTC,1081_15688,Opioid dependence,33,fOJQ==
+1078,Male,Not Hispanic or Latino,1081_9074,Phoenix,AZ,85053,H0031,Ancillary,1081_10843,Cannabis dependence,28,2ovw==
+1084,Male,Not Hispanic or Latino,1081_9074,Phoenix,AZ,85053,H0004HQ,TBD,1081_10843,Cannabis dependence,28,idOA==
+5523,Male,Not Hispanic or Latino,1081_11138,Mesa,AZ,85204,T1016,Ancillary,1081_15432,Alcohol dependence,31,ugwA==
+6380,Male,Not Hispanic or Latino,1081_11399,Queen Creek,AZ,85142,H0004,Ancillary,1081_15912,Other stimulant dependence,23,GJXw==
+2716,Male,Hispanic or Latino,1081_5710,Phoenix,AZ,85008,H0004TH,TBD,1081_11989,Opioid abuse,28,suQQ==
+9736,Female,Not Hispanic or Latino,1274_269,San Juan Bautista,CA,95045,90834,Ancillary,1274_1009,Opioid use disorder,27,xidQ==
+5708,Male,Not Hispanic or Latino,1081_12131,Mesa,AZ,85201,H0004,Ancillary,1081_15557,Other stimulant dependence,30,sTxg==
+1015,Female,Not Hispanic or Latino,1081_8433,Glendale,AZ,85301,T1016,Ancillary,1081_10567,Other stimulant dependence,46,vxZA==
+8086,Female,Hispanic or Latino,1081_12696,Avondale,AZ,85232,H0004,Ancillary,1081_17118,Opioid dependence,28,eSCA==
+848,Male,Other,1028_1601,New York,NY,10018,S0201,PHP,1028_1869,Sedative-,34,aWcg==
+4349,Male,Not Hispanic or Latino,1081_11214,Phoenix,AZ,85035,H0018,RTC,1081_14110,Other stimulant dependence,21,JXQA==
+955,Male,Not Hispanic or Latino,1081_8674,Glendale,AZ,85310,H2016,TBD,1081_10274,Opioid dependence,23,Wk3Q==
+1871,Male,Other not listed,1018_8696,DYER,IN,463112928,99212,Ancillary,1018_10561,Sedative,27,0irQ==
+2215,Male,Other,1081_9529,Lakeside,AZ,85929,H0004,Ancillary,1081_11524,Alcohol dependence,41,pRtA==
+4654,Female,Hispanic or Latino,1081_11580,Chandler,AZ,85225,H0046,TBD,1081_14661,Other stimulant dependence,38,21eg==
+3571,Male,Not Hispanic or Latino,1081_10485,Phoenix,AZ,85043,H0018,RTC,1081_13009,Cannabis dependence,43,ibFQ==
+6072,Female,Not Hispanic or Latino,1081_11479,Mesa,AZ,85210,H0004,Ancillary,1081_15786,Other stimulant dependence,35,hW1g==
+9464,Female,Other not listed,1186_8205,Louisa,KY,41230,90853,Ancillary,1186_24321,Opioid use disorder,37,v9tA==
+1857,Male,Other not listed,1018_8696,DYER,IN,463112928,H0015,IOP,1018_10561,Opioid use disorder,27,u1cg==
+7271,Male,Not Hispanic or Latino,1081_12797,Mesa,AZ,85201,H0046,TBD,1081_16622,Opioid dependence,38,iiuw==
+5113,Female,Other not listed,1179_9890,Millville,NJ,8332,99213,Ancillary,1179_12215,Adjustment disorder with anxiety,25,xb4g==
+6372,Male,Not Hispanic or Latino,1081_11399,Queen Creek,AZ,85142,H0004,Ancillary,1081_15912,Opioid dependence,23,5rkg==
+3441,Male,Other not listed,1018_5101,SAINT CHARLES,IL,60175,H0018,RTC,1018_6287,Generalized anxiety disorder,25,MPFw==
+984,Male,Not Hispanic or Latino,1081_8753,Glendale,AZ,85301,T1016,Ancillary,1081_10563,Other stimulant dependence,36,NKOg==
+8112,Female,Other not listed,1186_15958,Harrodsburg,KY,403301952,H0011,Detox,1186_21239,Amphetamine-type substance use disorder,38,7_kA==
+7952,Male,Not Hispanic or Latino,1081_8886,Glendale,AZ,85302,H0004HQ,TBD,1081_16998,Opioid dependence,32,sK6A==
+9450,Female,Caucasian,1186_17623,Newport,KY,41071,H0038,Ancillary,1186_23897,Nightmare disorder,32,OwMw==
+1073,Male,Not Hispanic or Latino,1081_9074,Phoenix,AZ,85053,H0004HQ,TBD,1081_10843,Opioid dependence,28,AniA==
+4793,Male,Not Hispanic or Latino,1081_11744,Phoenix,AZ,85006,H0001,Ancillary,1081_14925,Other stimulant dependence,49,Yv3A==
+2079,Male,Other not listed,1018_8589,Philadelphia,PA,19148,H0035,PHP,1018_10597,Alcohol use disorder,23,4H3A==
+4174,Male,Not Hispanic or Latino,1081_10478,Laveen Village,AZ,85339,H0031,Ancillary,1081_13800,Other stimulant dependence,42,DidA==
+9411,Female,Not Hispanic or Latino,1274_269,San Juan Bautista,CA,95045,90791,Ancillary,1274_1002,Amphetamine-type substance use disorder,27,mMnA==
+3553,Male,Not Hispanic or Latino,1081_9814,Phoenix,AZ,85032,H0018,RTC,1081_13004,Other stimulant dependence,45,FrPQ==
+6922,Male,Hispanic or Latino,1081_12590,Tempe,AZ,85282,H0018,RTC,1081_16273,Opioid dependence,37,fZyA==
+1226,Male,Other not listed,1018_8138,CRYSTAL LAKE,IL,600148956,H0006,Ancillary,1018_10239,Cannabis use disorder,27,aTQA==
+7927,Female,Other,1081_13040,Glendale,AZ,85303,H0031,Ancillary,1081_16993,Other stimulant dependence,38,oSqw==
+1949,Male,Hispanic or Latino,1081_8951,Phoenix,AZ,85018,H0018,RTC,1081_11509,Other stimulant dependence,24,tFbg==
+6962,Male,Hispanic or Latino,1081_12289,Phoenix,AZ,85017,H0038,Ancillary,1081_16384,Other stimulant dependence,30,8XKg==
+6477,Female,Other not listed,1186_8205,Louisa,KY,41230,90832,Ancillary,1186_16907,Person consulting for explanation of examination or test findings,37,YQ4w==
+4195,Male,Hispanic or Latino,1081_10558,Avondale,AZ,85323,H0046,TBD,1081_13961,Other stimulant dependence,22,FZIA==
+7684,Female,Hispanic or Latino,1081_11842,Mesa,AZ,85043,H0018,RTC,1081_16746,Cannabis dependence,35,OoXg==
+6397,Female,Not Hispanic or Latino,1081_12374,Mesa,AZ,85209,H0018,RTC,1081_15917,Opioid dependence,28,yc2w==
+4463,Female,Hispanic or Latino,1081_10763,Tucson,AZ,85741,H0018,RTC,1081_14243,Other stimulant dependence,27,80wg==
+1081,Male,Not Hispanic or Latino,1081_9074,Phoenix,AZ,85053,H0046,TBD,1081_10843,Cannabis dependence,28,JZGw==
+4614,Male,Not Hispanic or Latino,1081_11573,Fountain Hills,AZ,85268,H2016,TBD,1081_14653,Opioid dependence,34,xAiA==
+4949,Female,Other not listed,1179_8212,Gloucester City,NJ,8030,H0015,IOP,1179_11972,Bipolar disorder,40,O9Sg==
+779,Male,Other,1028_1578,Denver,CO,80237,90834,OP,1028_1842,Alcohol use disorder,26,EjIA==
+5127,Female,Other not listed,1186_9186,Flemingsburg,KY,41041,81025,Ancillary,1186_11391,Low back pain,44,uhDQ==
+1913,Male,Other not listed,1018_8696,DYER,IN,463112928,90837,IOP,1018_10561,Cannabis use disorder,27,Fc2w==
+8062,Male,Not Hispanic or Latino,1081_13114,Peoria,AZ,85435,H2016,TBD,1081_17115,Other stimulant dependence,36,IQdw==
+1706,Male,Hispanic or Latino,1081_5710,Phoenix,AZ,85008,T1016,Ancillary,1081_11346,Cannabis dependence,28,SRmg==
+3581,Female,Not Hispanic or Latino,1081_9172,Mesa,AZ,85207,H0046,TBD,1081_13010,Other stimulant dependence,31,4mrg==
+202,Female,Other,1028_792,Firestone,CO,80504,S9480,IOP,1028_1672,Major depressive disorder,22,XWfg==
+3333,Male,Not Hispanic or Latino,1081_10155,Gilbert,AZ,85295,H0046,TBD,1081_12491,Alcohol dependence,22,r7mA==
+2979,Female,Not Hispanic or Latino,1081_9992,Phoenix,AZ,855029,H0001,Ancillary,1081_12235,Other stimulant dependence,58,fCbA==
+5427,Male,Not Hispanic or Latino,1081_11975,Phoenix,AZ,85041,H0046,TBD,1081_15313,Other stimulant dependence,40,uZww==
+3029,Female,Not Hispanic or Latino,1081_9992,Phoenix,AZ,855029,H0046,TBD,1081_12235,Other stimulant dependence,58,0bNw==
+7440,Male,Not Hispanic or Latino,1081_12799,Mesa,AZ,85204,T1016,Ancillary,1081_16628,Opioid dependence,27,oEsA==
+3717,Female,Not Hispanic or Latino,1081_10223,New River,AZ,85087,H0004TH,TBD,1081_13255,Other stimulant dependence,29,IlkQ==
+5727,Male,Not Hispanic or Latino,1081_101,Phoenix,AZ,85032,H0004,Ancillary,1081_15558,Opioid dependence,32,1XTg==
+8443,Male,Hispanic or Latino,1081_1944,Tucson,AZ,85716,H0004,Ancillary,1081_2064,Alcohol dependence,29,_O6Q==
+9846,Male,Caucasian,1186_17944,Newcomb,TN,378195075,96372,Ancillary,1186_24394,Unspecified depressive disorder,32,MymQ==
+9222,Male,Caucasian,1186_15546,Owingsville,KY,403608304,H2034,PHP,1186_23558,Amphetamine-type substance use disorder,47,awHg==
+1643,Male,Not Hispanic or Latino,1081_9323,Glendale,AZ,85301,H0018,RTC,1081_11234,Other stimulant dependence,23,tE-g==
+7466,Female,Not Hispanic or Latino,1081_9012,Phoenix,AZ,85033,H0001,Ancillary,1081_16740,Opioid dependence,35,BSuw==
+9378,Female,Not Hispanic or Latino,1274_269,San Juan Bautista,CA,95045,90791,Ancillary,1274_1002,Alcohol use disorder,27,zB-A==
+4214,Male,Hispanic or Latino,1081_11108,Tempe,AZ,85283,H0001,Ancillary,1081_13965,Other stimulant dependence,31,kpQg==
+2898,Female,Other not listed,1018_8889,Chicago,IL,60655,99395,Ancillary,1018_10796,Bipolar disorder,27,urxA==
+4042,Female,Not Hispanic or Latino,1081_8923,Phoenix,AZ,85042,H0018,RTC,1081_13636,Alcohol dependence,58,FE9w==
+7114,Female,Other not listed,1186_13236,Richmond,KY,404759701,90832,Ancillary,1186_18999,Generalized anxiety disorder,32,3h0g==
+1382,Male,Hispanic or Latino,1081_9320,Phoenix,AZ,85015,H0015,IOP,1081_11230,Cannabis dependence,29,gmiA==
+9594,Female,Other not listed,1186_8205,Louisa,KY,41230,90792,Ancillary,1186_24321,Unspecified depressive disorder,37,P6lQ==
+3229,Male,Not Hispanic or Latino,1081_9994,Peoria,AZ,85345,H0031,Ancillary,1081_12238,Other stimulant dependence,30,meVg==
+5679,Male,Not Hispanic or Latino,1081_11344,Kaibito,AZ,86053,H0046,TBD,1081_15551,Alcohol dependence,33,UhEA==
+2555,Male,Hispanic or Latino,1081_9713, hoenix,AZ,85016,H0004,Ancillary,1081_11803,Alcohol dependence,27,HBZA==
+7010,Male,Hispanic or Latino,1081_9197,Phoenix,AZ,85043,H0031,Ancillary,1081_16389,Opioid dependence,29,LoDw==
+5379,Female,Hispanic or Latino,1081_11174,Glendale,AZ,85304,T1016,Ancillary,1081_15306,Other stimulant dependence,53,xcvw==
+2722,Male,Hispanic or Latino,1081_5710,Phoenix,AZ,85008,99999,Interest Payments,1081_11989,Opioid abuse,28,2O2w==
+4212,Male,Hispanic or Latino,1081_11108,Tempe,AZ,85283,H0015,IOP,1081_13965,Opioid dependence,31,Ke0w==
+4436,Male,Not Hispanic or Latino,1081_11293,Mesa,AZ,85204,T1016,Ancillary,1081_14235,Other stimulant dependence,52,96hw==
+670,Male,Other,1028_1551,Denver,CO,80224,90853,OP,1028_1808,Major depressive disorder,37,g4yg==
+1911,Male,Other not listed,1018_8696,DYER,IN,463112928,90849,Ancillary,1018_10561,Cannabis use disorder,27,Cikw==
+6373,Male,Not Hispanic or Latino,1081_11399,Queen Creek,AZ,85142,H0046,TBD,1081_15912,Opioid dependence,23,GWEQ==
+9330,Male,Not Hispanic or Latino,1081_7991,Phoenix,AZ,85016,H0031,Ancillary,1081_9254,Opioid dependence,29,5q3Q==
+6023,Female,Not Hispanic or Latino,1081_12215,Mesa,AZ,85201,H0031,Ancillary,1081_15688,Other stimulant dependence,33,W-gQ==
+9342,Male,Other not listed,1179_526,Escondido,CA,92027,H0010,Detox,1179_3787,Bipolar II disorder,65,tsVw==
+5952,Female,Other not listed,1179_10380,Summit,NJ,7901,H2036,PHP,1179_16878,Generalized anxiety disorder,27,9HJQ==
+2561,Male,Hispanic or Latino,1081_9713, hoenix,AZ,85016,H0004GT,TBD,1081_11803,Opioid dependence,27,uxyA==
+5216,Male,Not Hispanic or Latino,1081_11002,Phoenix,AZ,85016,H0046,TBD,1081_15063,Cannabis dependence,31,AmyQ==
+4756,Female,Not Hispanic or Latino,1081_11675,Mesa,AZ,85201,H0046,TBD,1081_14815,Alcohol dependence,55,Gsfg==
+5496,Female,Not Hispanic or Latino,1081_12047,Phoenix,AZ,85037,H0031,Ancillary,1081_15427,Other stimulant dependence,33,Ox2Q==
+1931,Male,Not Hispanic or Latino,1081_9406,Gilbert,AZ,85234,H0046,TBD,1081_11352,Opioid dependence,31,jb3g==
+7711,Female,Not Hispanic or Latino,1081_12949,Phoenix,AZ,85024,H0046,TBD,1081_16862,Sedative,26,36uA==
+7867,Male,Caucasian,1186_14900,Ashland,KY,411013033,KS-RB,TBD,1186_21034,Tachycardia,27,8Smw==
+3375,Male,Not Hispanic or Latino,1081_1182,Suprise,AZ,85388,H0015,IOP,1081_1274,Opioid dependence,29,4DRw==
+4404,Male,Not Hispanic or Latino,1081_8744,Phoenix,AZ,85007,H0004HQ,TBD,1081_14232,Opioid dependence,32,sctg==
+3240,Male,Hispanic or Latino,1081_10130,El Mirage,AZ,85335,H0018,RTC,1081_12455,Opioid dependence,22,9WGw==
+7928,Female,Other,1081_13040,Glendale,AZ,85303,H0004,Ancillary,1081_16993,Other stimulant dependence,38,8PaQ==
+1060,Male,Not Hispanic or Latino,1081_8312,Glendale,AZ,85310,H2016,TBD,1081_10574,Sedative,32,ylNg==
+6320,Male,Not Hispanic or Latino,1081_9660,Surprise,AZ,85388,H0046,TBD,1081_15904,Cannabis dependence,38,vgNw==
+9349,Male,Other not listed,1179_526,Escondido,CA,92027,H0015,IOP,1179_4526,Alcohol use disorder,65,gZsQ==
+6365,Female,Not Hispanic or Latino,1081_12370,Surprise,AZ,85374,H0018,RTC,1081_15910,Other stimulant dependence,31,K0WQ==
+6222,Female,Other not listed,1186_11684,Ludlow,KY,41016,99212SA,TBD,1186_15622,Cocaine use disorder,35,iqkw==
+1345,Female,Hispanic or Latino,1081_9188,Tempe,AZ,85281,H0031,Ancillary,1081_11026,Alcohol dependence,32,079Q==
+8631,Female,Other not listed,1186_2044,Lowmansville,KY,41232,T1007,Ancillary,1186_2269,use disorder,43,Vtcw==
+4217,Male,Hispanic or Latino,1081_11108,Tempe,AZ,85283,H0004,Ancillary,1081_13965,Other stimulant dependence,31,D5rA==
+8255,Male,Not Hispanic or Latino,1081_13217,Mesa,AZ,85205,H2016,TBD,1081_17269,Other stimulant dependence,71,LKLQ==
+654,Male,Other,1028_1551,Denver,CO,80224,90853,OP,1028_1808,Unspecified attention-deficit/hyperactivity disorder,37,ohQw==
+7956,Male,Not Hispanic or Latino,1081_8886,Glendale,AZ,85302,H0004GT,TBD,1081_16998,Other stimulant dependence,32,DKqg==
+7366,Male,Other not listed,1186_14118,Clay City,KY,40312,H0001,Ancillary,1186_20033,Opioid use disorder,29,jLmQ==
+4981,Female,Not Hispanic or Latino,1081_11747,Scottsdale,AZ,85256,H0046,TBD,1081_14931,Other stimulant dependence,34,FzGA==
+1115,Female,Hispanic or Latino,1081_9078,Phoenix,AZ,85029,H0004HQ,TBD,1081_10847,Other stimulant dependence,38,jujw==
+2881,Female,Other not listed,1018_8889,Chicago,IL,60655,H0018,RTC,1018_10796,Opioid use disorder,27,3gNg==
+5649,Female,Not Hispanic or Latino,1081_12123,Litchfield Park,AZ,853,H0046,TBD,1081_15548,Opioid dependence,36,SHqA==
+6567,Male,Caucasian,1186_13431,Raven,KY,418619021,99213,Ancillary,1186_17804,Attention-deficit hyperactivity disorders,27,AfIQ==
+9169,Male,Hispanic or Latino,1081_6779,Phoenix,AZ,85018,H0001,Ancillary,1081_7788,Cocaine dependence,25,IfBQ==
+9302,Female,Not Hispanic or Latino,1081_7981,Apache Junction,AZ,85119,H0018,RTC,1081_9243,Other stimulant dependence,32,t1Iw==
+7231,Male,Not Hispanic or Latino,1081_12790,Phoenix,AZ,85013,H0046,TBD,1081_16612,Alcohol dependence,1,whyg==
+6057,Female,Not Hispanic or Latino,1081_11479,Mesa,AZ,85210,H2016,TBD,1081_15786,Cannabis dependence,35,AR8w==
+6447,Female,Not Hispanic or Latino,1081_12215,Mesa,AZ,85201,T1016,Ancillary,1081_16029,Opioid dependence,33,p0FA==
+4297,Male,Not Hispanic or Latino,1081_11204,Glendale,AZ,85308,H0004,Ancillary,1081_14099,Alcohol dependence,64,vD2w==
+2877,Female,Other not listed,1018_8889,Chicago,IL,60655,90792,OP,1018_10796,Opioid use disorder,27,QItA==
+1317,Male,Not Hispanic or Latino,1081_5462,Phoenix,AZ,85032,H0031,Ancillary,1081_11025,Opioid dependence,56,WL_w==
+6626,Male,Hispanic or Latino,1081_12437,Phoenix,AZ,85007,H0001,Ancillary,1081_16032,Other stimulant dependence,34,Zv8A==
+887,Male,Hispanic or Latino,1081_8661,Sacaton,AZ,85147,T1016,Ancillary,1081_10252,Other stimulant dependence,50,gg-g==
+3531,Male,Not Hispanic or Latino,1081_10326,Phoenix,AZ,85051,H0046,TBD,1081_12758,Other stimulant dependence,44,_GAA==
+7234,Male,Not Hispanic or Latino,1081_12791,Phoenix,AZ,85008,H0018,RTC,1081_16614,Opioid dependence,27,ULig==
+1170,Male,Not Hispanic or Latino,1081_8624,Tucson,AZ,85730,H0001,Ancillary,1081_11010,Sedative,39,YlUQ==
+7749,Male,Hispanic or Latino,1081_6779,Phoenix,AZ,85018,H0018,RTC,1081_16864,Other stimulant dependence,25,An4g==
+2795,Male,Other not listed,1018_8860,Palatine,IL,60067,80305,Ancillary,1018_10758,Alcohol use disorder,43,0U7g==
+4701,Male,Not Hispanic or Latino,1081_10396,Phoenix,AZ,85016,H0046,TBD,1081_14800,Cannabis dependence,33,Ja2g==
+8166,Male,Other not listed,1186_15985,Pikeville,KY,41501,86580,Ancillary,1186_21728,Acute hepatitis C without hepatic coma,33,W20w==
+7694,Male,Not Hispanic or Latino,1081_12159,Tempe,AZ,85281,H0018,RTC,1081_16748,Other stimulant dependence,41,f8Ow==
+5424,Male,Hispanic or Latino,1081_10476,Phoenix,AZ,85019,H2016,TBD,1081_15312,Other stimulant dependence,52,VLlg==
+5308,Male,Not Hispanic or Latino,1081_11903,Lakeside,AZ,85929,H0046,TBD,1081_15183,Alcohol dependence,61,Rwuw==
+762,Male,Other,1028_1465,Parker,CO,80134,H0018,RTC,1028_1837,Atopic dermatitis,32,uh0A==
+4597,Male,Not Hispanic or Latino,1081_11572,Phoenix,AZ,85008,H0046,TBD,1081_14652,Opioid dependence,46,0wlQ==
+2623,Male,Not Hispanic or Latino,1081_8955,Lake Havasu City,AZ,86403,H0031,Ancillary,1081_11979,Opioid dependence,26,gXXg==
+8705,Male,Not Hispanic or Latino,1081_249,Phoenix,AZ,85018,T1016,Ancillary,1081_221,use disorder,30,yOQQ==
+7172,Male,Other not listed,1186_14445,PRESTONSBURG,KY,41653,H2027,Ancillary,1186_19576,Anxiety disorder,34,UqaQ==
+799,Male,Other,1028_1578,Denver,CO,80237,90834,OP,1028_1842,Post-traumatic stress disorder,26,kukA==
+4650,Female,Hispanic or Latino,1081_11579,Phoenix,AZ,85019,H0004,Ancillary,1081_14660,Other stimulant dependence,43,sTPg==
+292,Male,Other,1028_993,Colorado Springs,CO,80917,H0018,RTC,1028_1674,Opioid use disorder,27,EtoA==
+8682,Female,Other not listed,1186_2044,Lowmansville,KY,41232,T2023,TBD,1186_2269,Anxiety disorder,43,6acQ==
+5995,Male,Hispanic or Latino,1081_11043,Phoenix,AZ,85017,H0018,RTC,1081_15683,Other stimulant dependence,38,VHxA==
+1118,Female,Hispanic or Latino,1081_9078,Phoenix,AZ,85029,H0004,Ancillary,1081_10847,Other stimulant dependence,38,TgPA==
+4480,Female,Hispanic or Latino,1081_7815,Phoenix,AZ,85040,T1016,Ancillary,1081_14430,Alcohol dependence,51,dsGg==
+9414,Female,Not Hispanic or Latino,1274_269,San Juan Bautista,CA,95045,Q9992,Ancillary,1274_1002,Amphetamine-type substance use disorder,27,rGtw==
+5776,Female,Not Hispanic or Latino,1081_12210,Mesa,AZ,85201,H0018,RTC,1081_15678,Cocaine dependence,34,1kmw==
+995,Female,Not Hispanic or Latino,1081_8879,Chandler,AZ,85224,H0031,Ancillary,1081_10564,Opioid dependence,44,buLQ==
+8076,Male,Hispanic or Latino,1081_9077,Mesa,AZ,85021,H0018,RTC,1081_17117,Opioid dependence,30,F87A==
+7275,Male,Not Hispanic or Latino,1081_7421,Phoenix,AZ,85021,H0004,Ancillary,1081_16623,Opioid dependence,38,a3iA==
+2282,Male,Hispanic or Latino,1081_8749,El Mirage,AZ,85335,H0004,Ancillary,1081_11783,Other stimulant dependence,22,P6mg==
+302,Male,Other,1028_1476,Parker,CO,80134,MEDDEPOSIT,Detox,1028_1711,Sedative,24,l9HQ==
+4303,Male,Not Hispanic or Latino,1081_11205,Wofford Heights,CA,9328,H2016,TBD,1081_14100,Opioid dependence,34,SK9Q==
+3709,Female,Not Hispanic or Latino,1081_10223,New River,AZ,85087,H0018,RTC,1081_13255,Opioid dependence,29,FuZQ==
+1988,Male,Not Hispanic or Latino,1081_7946,Sun Lakes,AZ,85248,H0046,TBD,1081_11519,Alcohol dependence,36,m7Kw==
+6312,Male,Not Hispanic or Latino,1081_9660,Surprise,AZ,85388,H0015,IOP,1081_15904,Alcohol dependence,38,lj8g==
+6462,Female,Not Hispanic or Latino,1081_9273,Glendale,AZ,85308,H0031,Ancillary,1081_16031,Opioid dependence,60,g_EQ==
+16,Male,Other,1028_1268,Sedalia,CO,801358960,H0018,RTC,1028_1451,Sedative,29,PhMw==
+4596,Female,Hispanic or Latino,1081_11569,Prescott Valley,AZ,86315,H0046,TBD,1081_14649,Other stimulant dependence,38,XpQQ==
+8973,Male,Caucasian,1186_17226,LOUISA,KY,41230,90832,Ancillary,1186_23290,Amphetamine-type substance use disorder,42,cmig==
+9300,Female,Not Hispanic or Latino,1081_7981,Apache Junction,AZ,85119,H0018,RTC,1081_9243,Opioid dependence,32,DkEw==
+6458,Male,Hispanic or Latino,1081_12436,Phoenix,AZ,85051,H0004,Ancillary,1081_16030,Other stimulant dependence,52,2f8w==
+8388,Male,Not Hispanic or Latino,1081_13228,San Tan Valley,AZ,85142,H0018,RTC,1081_17284,Opioid dependence,37,URAA==
+5326,Male,Not Hispanic or Latino,1081_11905,Phoenix,AZ,85007,H0046,TBD,1081_15185,Alcohol dependence,45,wEAw==
+6178,Female,Not Hispanic or Latino,1081_12286,San Tan Valley,AZ,85143,H0046,TBD,1081_15787,Other stimulant dependence,40,FsgA==
+8500,Female,Other not listed,1186_16496,Ft Mitchell,KY,41017,90834,Ancillary,1186_22117,Amphetamine-type substance use disorder,40,6sFA==
+4083,Male,Not Hispanic or Latino,1081_9497,Phoenix,AZ,85018,T1016,Ancillary,1081_13788,Opioid dependence,38,P3IQ==
+7815,Male,Other not listed,1186_15175,RICHMOND,KY,40475,99213,Ancillary,1186_20662,Person consulting for explanation of examination or test findings,55,qOyQ==
+6719,Male,Hispanic or Latino,1081_12518,Phoenix,AZ,85042,T1002,TBD,1081_16151,Opioid dependence,36,nRBA==
+2174,Male,Other not listed,1018_8749,Atlantic City,NJ,8401,H0006,Ancillary,1018_10630,Alcohol use disorder,46,hZ0w==
+6199,Male,Hispanic or Latino,1081_12289,Phoenix,AZ,85017,T1016,Ancillary,1081_15791,Other stimulant dependence,30,VXjQ==
+6752,Male,Not Hispanic or Latino,1081_12583,Mesa,AZ,85204,H2016,TBD,1081_16261,Cannabis dependence,22,FBMQ==
+7664,Male,Not Hispanic or Latino,1081_11103,Chandler,AZ,85225,H0018,RTC,1081_16744,Other stimulant dependence,21,Htdw==
+7264,Female,Not Hispanic or Latino,1081_12796,Flagstaff,AZ,86004,H0001,Ancillary,1081_16621,Alcohol dependence,58,lATA==
+8730,Male,Not Hispanic or Latino,1081_5383,Phoenix,AZ,85041,H0046,TBD,1081_6052,Other stimulant dependence,35,OH-w==
+808,Male,Other,1028_784,Colorado Springs,CO,80919,S9475,PHP,1028_1867,Attention-deficit hyperactivity disorder,36,9f1A==
+9465,Female,Other not listed,1186_8205,Louisa,KY,41230,T2023,TBD,1186_24321,Opioid use disorder,37,0_FA==
+9213,Male,Caucasian,1186_15546,Owingsville,KY,403608304,H0011,Detox,1186_23558,Amphetamine-type substance use disorder,47,I3uw==
+8175,Male,Other not listed,1186_15985,Pikeville,KY,41501,H0001,Ancillary,1186_21728,Acute hepatitis C without hepatic coma,33,AeWA==
+8359,Male,Other not listed,1186_15985,Pikeville,KY,41501,S9446,TBD,1186_22007,Acute hepatitis C without hepatic coma,33,HzJg==
+4417,Male,Not Hispanic or Latino,1081_8681,Scottsdale,AZ,85251,H0046,TBD,1081_14233,Other stimulant dependence,30,LyRg==
+4028,Female,Hispanic or Latino,1081_10617,Phoenix,AZ,85041,H0015,IOP,1081_13631,Opioid dependence,26,OrxQ==
+2017,Male,Other not listed,1018_8696,DYER,IN,463112928,90849,IOP,1018_10561,Bipolar II disorder,27,KAJw==
+6171,Female,Not Hispanic or Latino,1081_11479,Mesa,AZ,85210,H0015,IOP,1081_15786,Opioid dependence,35,2_Rg==
+9872,Male,Caucasian,1186_17944,Newcomb,TN,378195075,T2023,TBD,1186_24394,Sleep disorder,32,IFLw==
+7977,Male,Caucasian,1186_14900,Ashland,KY,411013033,80307,Ancillary,1186_21034,Other insomnia,27,T6nw==
+1659,Male,Not Hispanic or Latino,1081_9398,Chandler,AZ,85224,H0004,Ancillary,1081_11341,Other stimulant dependence,50,-iUA==
+5898,Female,Other not listed,1186_11603,Burlington,KY,41005,90832,Ancillary,1186_15521,Drug induced constipation,29,q1CQ==
+4691,Male,Not Hispanic or Latino,1081_10396,Phoenix,AZ,85016,H0004TH,TBD,1081_14800,Opioid dependence,33,GMwg==
+3046,Male,Hispanic or Latino,1081_8204,El Mirage,AZ,85335,H0031,Ancillary,1081_12236,Opioid dependence,39,S1bQ==
+6383,Male,Not Hispanic or Latino,1081_11399,Queen Creek,AZ,85142,T1016,Ancillary,1081_15912,Other stimulant dependence,23,_Igw==
+1166,Male,Other,1081_8524,Phoenix,AZ,85004,H0018,RTC,1081_10851,Other stimulant dependence,31,dSag==
+2632,Male,Not Hispanic or Latino,1081_8955,Lake Havasu City,AZ,86403,H0004TH,TBD,1081_11979,Other stimulant dependence,26,iZaA==
+13,Male,Other,1028_1268,Sedalia,CO,801358960,90837,OP,1028_1451,Sedative,29,GMgw==
+5657,Female,Not Hispanic or Latino,1081_12124,Phoenix,AZ,85017,H0031,Ancillary,1081_15549,Opioid dependence,32,EozA==
+1875,Male,Other not listed,1018_8696,DYER,IN,463112928,90837,IOP,1018_10561,Sedative,27,a3sQ==
+6099,Female,Other not listed,1349_2290,Etna,ME,4434,H0018,RTC,1349_2866,Insomnia,37,qLNw==
+4743,Male,Hispanic or Latino,1081_11671,Glendale,AZ,85303,H0046,TBD,1081_14811,Other stimulant dependence,46,8p_Q==
+8966,Male,Caucasian,1186_17226,LOUISA,KY,41230,80307,Ancillary,1186_23290,Amphetamine-type substance use disorder,42,4gMg==
+4809,Male,Not Hispanic or Latino,1081_11305,Litchfield Park,AZ,85340,H0031,Ancillary,1081_14926,Other stimulant dependence,36,3k-w==
+692,Female,Other,1028_1552,Winthrop,WA,98862,S9480,IOP,1028_1809,Bipolar I disorder,26,FLFw==
+5881,Male,Other not listed,1179_10396,San Jose,CA,95125,H2036,PHP,1179_16864,Alcohol use disorder,27,hzGw==
+1150,Male,Not Hispanic or Latino,1081_3926,Goodyear,AZ,85395,H0018,RTC,1081_10849,Opioid dependence,36,pZWg==
+8354,Male,Other not listed,1186_15985,Pikeville,KY,41501,99211,Ancillary,1186_22007,Acute hepatitis C without hepatic coma,33,JdaA==
+2969,Female,Not Hispanic or Latino,1081_9992,Phoenix,AZ,855029,H0015,IOP,1081_12235,Opioid dependence,58,SBdQ==
+4987,Male,Hispanic or Latino,1081_11483,Phoenix,AZ,85009,H0001,Ancillary,1081_14932,Alcohol dependence,31,5gjQ==
+9248,Female,Caucasian,1186_17623,Newport,KY,41071,81025,Ancillary,1186_23897,Periapical abscess without sinus,32,DZEw==
+6844,Female,Other not listed,1186_13236,Richmond,KY,404759701,86580,Ancillary,1186_18999,Opioid use disorder,32,-RFQ==
+8890,Female,Caucasian,1186_17014,Inez,KY,41224,99211,Ancillary,1186_22957,Opioid use disorder,41,skvg==
+1213,Male,Not Hispanic or Latino,1081_8523,Gilbert,AZ,85298,H2016,TBD,1081_11024,Other stimulant dependence,35,8VgQ==
+286,Male,Other,1028_993,Colorado Springs,CO,80917,S0201,PHP,1028_1674,Sedative,27,K1Ng==
+4121,Male,Hispanic or Latino,1081_10995,Mesa,AZ,85201,H0015,IOP,1081_13798,Alcohol dependence,48,3Tyg==
+4279,Female,Not Hispanic or Latino,1081_11203,Mesa,AZ,85201,H0004,Ancillary,1081_14098,Alcohol dependence,37,jjgw==
+4636,Male,Not Hispanic or Latino,1081_11576,Scottsdale,AZ,85251,H2016,TBD,1081_14657,Alcohol dependence,33,00FA==
+3438,Male,Other not listed,1018_5101,SAINT CHARLES,IL,60175,90792,Ancillary,1018_6287,Generalized anxiety disorder,25,bKFQ==
+6297,Male,Hispanic or Latino,1081_11001,Globe,AZ,85501,H0031,Ancillary,1081_15793,Opioid dependence,33,LT7A==
+2687,Male,Other not listed,1018_8836,Adelphi,MD,20783,99214,Ancillary,1018_10730,Bipolar disorder,65,ertQ==
+2558,Male,Hispanic or Latino,1081_9713, hoenix,AZ,85016,H0031,Ancillary,1081_11803,Opioid dependence,27,9mQQ==
+6422,Male,Not Hispanic or Latino,1081_8242,Mesa,AZ,85202,T1016,Ancillary,1081_16024,Sedative,42,SPFg==
+2553,Male,Hispanic or Latino,1081_9713, hoenix,AZ,85016,H0018,RTC,1081_11803,Alcohol dependence,27,l_kA==
+4985,Male,Hispanic or Latino,1081_11483,Phoenix,AZ,85009,H0031,Ancillary,1081_14932,Alcohol dependence,31,gDSQ==
+2542,Male,Not Hispanic or Latino,1081_9179,Phoenix,AZ,85029,H0004,Ancillary,1081_11799,Other stimulant dependence,57,_5hw==
+6702,Female,Not Hispanic or Latino,1081_12516,Mesa,AZ,85201,H0046,TBD,1081_16149,Other stimulant dependence,41,_SPQ==
+2550,Male,Hispanic or Latino,1081_9713, hoenix,AZ,85016,H0046,TBD,1081_11803,Alcohol dependence,27,-hzA==
+4419,Male,Not Hispanic or Latino,1081_8681,Scottsdale,AZ,85251,44444,Custom,1081_14233,Alcohol dependence,30,tKdQ==
+6352,Male,Not Hispanic or Latino,1081_12369,Phoenix,AZ,85009,H0018,RTC,1081_15909,Other stimulant dependence,27,XEHQ==
+8503,Female,Other not listed,1186_16496,Ft Mitchell,KY,41017,80307,Ancillary,1186_22117,Amphetamine-type substance use disorder,40,SQkQ==
+3634,Male,Hispanic or Latino,1081_5435,Avondale,AZ,85323,H0031,Ancillary,1081_13245,Alcohol dependence,37,PvMw==
+1936,Male,Not Hispanic or Latino,1081_9407,Safford,AZ,85546,H0046,TBD,1081_11353,Other stimulant dependence,31,AIjA==
+6473,Male,Hispanic or Latino,1081_12437,Phoenix,AZ,85007,H0001,Ancillary,1081_16032,Opioid dependence,34,EqbQ==
+3783,Male,Hispanic or Latino,1081_10642,Phoenix,AZ,85032,H0046,TBD,1081_13261,Alcohol dependence,31,Hfow==
+5884,Male,Other not listed,1179_10396,San Jose,CA,95125,H2036,PHP,1179_16864,Cocaine use disorder,27,X-1A==
+3798,Female,Not Hispanic or Latino,1081_10647,Mesa,AZ,85209,H0004,Ancillary,1081_13269,Other stimulant dependence,32,Y3Dw==
+7286,Male,Hispanic or Latino,1081_9985,Glendale,AZ,85301,H0001,Ancillary,1081_16627,Other stimulant dependence,38,XAIw==
+6911,Female,Hispanic or Latino,1081_12211,Phoenix,AZ,85035,H0015,IOP,1081_16272,Alcohol dependence,33,_Y8w==
+6825,Male,Other not listed,1186_14445,PRESTONSBURG,KY,41653,90853,Ancillary,1186_18911,Anxiety disorder,34,LPaQ==
+2221,Male,Not Hispanic or Latino,1081_9531,Payson,AZ,85541,H0031,Ancillary,1081_11526,Alcohol dependence,38,S_Wg==
+6860,Female,Other not listed,1186_13236,Richmond,KY,404759701,H0015,IOP,1186_18999,Major depressive disorder,32,bpZw==
+8250,Male,Not Hispanic or Latino,1081_13216,Scottsdale,AZ,85254,H0018,RTC,1081_17268,Opioid dependence,41,NYlg==
+9501,Male,Not Hispanic or Latino,1081_2907,Tolleson,AZ,85353,H0031,Ancillary,1081_9804,Alcohol dependence,35,9vtQ==
+4969,Female,Other not listed,1179_8212,Gloucester City,NJ,8030,H0015,IOP,1179_11972,Post-traumatic stress disorder,40,FKUg==
+3623,Male,Not Hispanic or Latino,1081_10503,Phoenix,AZ,85051,H0018,RTC,1081_13033,Opioid dependence,29,Yj9g==
+167,Female,Other,1028_1410,Colorado Springs,CO,80920,80305,Ancillary,1028_1623,Alcohol use disorder,59,M6UA==
+7700,Male,Not Hispanic or Latino,1081_12636,PHOENIX,AZ,85020,H0015,IOP,1081_16860,Other stimulant dependence,51,3J8A==
+9835,Male,Caucasian,1186_17944,Newcomb,TN,378195075,86580,Ancillary,1186_24394,Unspecified depressive disorder,32,P2cQ==
+4927,Female,Other not listed,1186_9186,Flemingsburg,KY,41041,99213,Ancillary,1186_11391,Type 2 diabetes mellitus with other skin complications,44,IiSA==
+7279,Female,Hispanic or Latino,1081_12676,Gilbert,AZ,85295,H0018,RTC,1081_16624,Other stimulant dependence,59,P7zg==
+7868,Male,Caucasian,1186_14900,Ashland,KY,411013033,H0015,IOP,1186_21034,Tachycardia,27,9MFg==
+8371,Male,Other not listed,1186_15985,Pikeville,KY,41501,T1007,Ancillary,1186_22007,Encounter for issue of repeat prescription,33,VlAg==
+3541,Male,Hispanic or Latino,1081_2224,Phoenix,AZ,85051,H0018,RTC,1081_12999,Cocaine dependence,32,8NUQ==
+4254,Male,Not Hispanic or Latino,1081_10565,Kayenta,AZ,86033,H0018,RTC,1081_13976,Alcohol dependence,30,Hx8Q==
+1653,Male,Not Hispanic or Latino,1081_9398,Chandler,AZ,85224,H0004,Ancillary,1081_11341,Opioid dependence,50,NjHQ==
+8419,Male,Not Hispanic or Latino,1081_1933,Suprise,AZ,85374,H0031,Ancillary,1081_2053,Other stimulant dependence,37,9XHQ==
+4591,Female,Hispanic or Latino,1081_11569,Prescott Valley,AZ,86315,T1016,Ancillary,1081_14649,Other stimulant dependence,38,1WMw==
+8307,Female,Other not listed,1186_16295,Louisa,KY,412305430,99211,Ancillary,1186_21778,Cannabis use disorder,37,6yhA==
+4555,Male,Hispanic or Latino,1081_8047,Mesa,AZ,85201,99999,Interest Payments,1081_14453,Other stimulant dependence,40,4ftw==
+6468,Female,Not Hispanic or Latino,1081_9273,Glendale,AZ,85308,H0018,RTC,1081_16031,Other stimulant dependence,60,t9eg==
+8022,Male,Not Hispanic or Latino,1081_10290,Buckeye,AZ,85326,H0018,RTC,1081_17001,Alcohol dependence,29,JAMA==
+6986,Male,Not Hispanic or Latino,1081_2565,Mesa,AZ,85201,H0004,Ancillary,1081_16387,Sedative,27,wu1w==
+9864,Male,Caucasian,1186_17944,Newcomb,TN,378195075,H2034,PHP,1186_24394,Sleep disorder,32,tNrg==
+7161,Male,Other not listed,1186_14445,PRESTONSBURG,KY,41653,T2023,TBD,1186_19576,Unspecified depressive disorder,34,uUig==
+5722,Male,Not Hispanic or Latino,1081_12131,Mesa,AZ,85201,H0018,RTC,1081_15557,Opioid dependence,30,G-cQ==
+8956,Male,Caucasian,1186_17226,LOUISA,KY,41230,H0001,Ancillary,1186_23290,Opioid use disorder,42,MNuw==
+5675,Male,Not Hispanic or Latino,1081_11344,Kaibito,AZ,86053,H0031,Ancillary,1081_15551,Alcohol dependence,33,7I4Q==
+662,Male,Other,1028_1551,Denver,CO,80224,90853,OP,1028_1808,Testicular hypofunction,37,cufw==
+4997,Male,Hispanic or Latino,1081_11483,Phoenix,AZ,85009,H0015,IOP,1081_14932,Cocaine dependence,31,Rl6g==
+5223,Male,Not Hispanic or Latino,1081_11826,Mesa,AZ,85210,H0004,Ancillary,1081_15066,Alcohol dependence,52,R3mA==
+6475,Male,Hispanic or Latino,1081_12437,Phoenix,AZ,85007,H0031,Ancillary,1081_16032,Opioid dependence,34,jfJw==
+5683,Female,Not Hispanic or Latino,1081_12126,Scottsdale,AZ,85260,H0046,TBD,1081_15552,Alcohol dependence,32,sB8w==
+4587,Male,Hispanic or Latino,1081_11568,Phoenix,AZ,85008,H0046,TBD,1081_14648,Other stimulant dependence,28,cMnQ==
+168,Female,Other,1028_1410,Colorado Springs,CO,80920,S9475,PHP,1028_1623,Alcohol use disorder,59,d8Dg==
+4815,Male,Not Hispanic or Latino,1081_11305,Litchfield Park,AZ,85340,H0018,RTC,1081_14926,Other stimulant dependence,36,N7nA==
+9332,Male,Not Hispanic or Latino,1081_7991,Phoenix,AZ,85016,H0018,RTC,1081_9254,Opioid dependence,29,80TA==
+3880,Female,Not Hispanic or Latino,1081_8669,Tolleson,AZ,85353,H0046,TBD,1081_13427,Opioid dependence,32,ZAxw==
+6149,Female,Other not listed,1349_1654,Scarborough,ME,4074,H0018,RTC,1349_2885,Personal history of COVID-19,63,U9DQ==
+7018,Female,Not Hispanic or Latino,1081_12658,Phoenix,AZ,85051,H0018,RTC,1081_16391,Opioid dependence,29,3jXw==
+8992,Male,Caucasian,1186_17226,LOUISA,KY,41230,H0038,Ancillary,1186_23290,Fever,42,6NoA==
+2818,Female,Other not listed,1018_8861,Chicago,IL,60647,99212,Ancillary,1018_10759,Cocaine use disorder,31,PFQw==
+7723,Male,Hispanic or Latino,1081_6779,Phoenix,AZ,85018,H0046,TBD,1081_16864,Alcohol dependence,25,cADw==
+101,Female,Other,1028_983,Colorado Springs,CO,80924,90837,OP,1028_1605,Attention-deficit hyperactivity disorder,27,vmxQ==
+2230,Male,Not Hispanic or Latino,1081_7691,Phoenix,AZ,85016,H0004HQ,TBD,1081_11773,Opioid dependence,34,n5cQ==
+5842,Female,Other not listed,1186_11603,Burlington,KY,41005,H0038,Ancillary,1186_15521,Drug induced constipation,29,urUw==
+4449,Male,Not Hispanic or Latino,1081_11296,Flagstaff,AZ,86001,H0004,Ancillary,1081_14239,Cannabis dependence,27,An1g==
+5736,Male,Not Hispanic or Latino,1081_12132,Meadview,AZ,86444,H0046,TBD,1081_15559,Alcohol dependence,33,P3zw==
+6150,Female,Other not listed,1349_1654,Scarborough,ME,4074,H0011,Detox,1349_2885,Personal history of COVID-19,63,g2Uw==
+5123,Female,Other not listed,1186_9186,Flemingsburg,KY,41041,99212SA,TBD,1186_11391,Low back pain,44,xfOw==
+949,Male,Hispanic or Latino,1081_8469,Phoenix,AZ,85017,99999,Interest Payments,1081_10270,Opioid dependence,28,kTMQ==
+1049,Male,Not Hispanic or Latino,1081_8312,Glendale,AZ,85310,T1016,Ancillary,1081_10574,Opioid dependence,32,t-qA==
+4484,Female,Hispanic or Latino,1081_7815,Phoenix,AZ,85040,H0031,Ancillary,1081_14430,Alcohol dependence,51,p1EA==
+6777,Male,Not Hispanic or Latino,1081_12587,Phoenix,AZ,85004,99999,Interest Payments,1081_16265,Alcohol dependence,29,dykg==
+4940,Female,Other not listed,1179_8212,Gloucester City,NJ,8030,S0201,PHP,1179_11972,Periodic headache syndromes in child or adult,40,4rNg==
+7162,Male,Other not listed,1186_14445,PRESTONSBURG,KY,41653,99212,Ancillary,1186_19576,Anxiety disorder,34,jMRQ==
+3711,Female,Not Hispanic or Latino,1081_10223,New River,AZ,85087,H0015,IOP,1081_13255,Opioid dependence,29,68Kw==
+3815,Male,Hispanic or Latino,1081_10083,Tolleson,AZ,85353,H0004TH,TBD,1081_13272,Other stimulant dependence,33,yXAQ==
+7278,Male,Not Hispanic or Latino,1081_7421,Phoenix,AZ,85021,H0046,TBD,1081_16623,Opioid dependence,38,VkRg==
+303,Male,Other,1028_1476,Parker,CO,80134,H0018,RTC,1028_1711,Sedative,24,CiwQ==
+2831,Female,Other not listed,1018_8861,Chicago,IL,60647,H0006,Ancillary,1018_10759,Cannabis use disorder,31,3Ubw==
+2057,Male,Other not listed,1018_8589,Philadelphia,PA,19148,H0035,PHP,1018_10597,Opioid use disorder,23,JSvA==
+4795,Male,Not Hispanic or Latino,1081_11744,Phoenix,AZ,85006,H0031,Ancillary,1081_14925,Other stimulant dependence,49,GNUQ==
+7906,Male,Not Hispanic or Latino,1081_12771,Apache Junction,AZ,85119,H0001,Ancillary,1081_16989,Opioid dependence,67,Cd2w==
+9413,Female,Not Hispanic or Latino,1274_269,San Juan Bautista,CA,95045,H0010,Detox,1274_1002,Amphetamine-type substance use disorder,27,E9dQ==
+8283,Male,Not Hispanic or Latino,1081_9094,Sun City,AZ,85351,T1016,Ancillary,1081_17279,Opioid dependence,33,tssw==
+5012,Male,Not Hispanic or Latino,1081_11824,Coolidge,AZ,85128,H0031,Ancillary,1081_15060,Opioid dependence,24,6IyQ==
+5894,Female,Other not listed,1179_10380,Summit,NJ,7901,H2036,PHP,1179_16877,Attention-deficit hyperactivity disorder,27,FrxA==
+3548,Male,Hispanic or Latino,1081_9151,Peoria,AZ,85381,H0046,TBD,1081_13002,Alcohol dependence,54,dCXw==
+1075,Male,Not Hispanic or Latino,1081_9074,Phoenix,AZ,85053,H0018,RTC,1081_10843,Opioid dependence,28,PyIA==
+8438,Male,Hispanic or Latino,1081_1944,Tucson,AZ,85716,H0018,RTC,1081_2064,Alcohol dependence,29,UYbg==
+8465,Male,Other not listed,1186_15985,Pikeville,KY,41501,90837,Ancillary,1186_22007,Encounter for issue of repeat prescription,33,H66w==
+3871,Male,Not Hispanic or Latino,1081_7429,Phoenix,AZ,85016,H0004,Ancillary,1081_13273,Opioid; F15.20 Other stimulant,42,HKBg==
+6727,Female,Hispanic or Latino,1081_12519,Phoenix,AZ,85008,H0004,Ancillary,1081_16152,Cannabis dependence,32,UAIA==
+7775,Male,Not Hispanic or Latino,1081_12256,Phoenix,AZ,85023,H0015,IOP,1081_16869,Alcohol dependence,27,T-cQ==
+9581,Female,Other not listed,1186_8205,Louisa,KY,41230,90834,Ancillary,1186_24321,Amphetamine-type substance use disorder,37,i8aw==
+1140,Female,Hispanic or Latino,1081_9079,Phoenix,AZ,85007,H0018,RTC,1081_10848,Other stimulant dependence,47,PGmg==
+8961,Male,Caucasian,1186_17226,LOUISA,KY,41230,99212SA,TBD,1186_23290,Opioid use disorder,42,5Pqw==
+4201,Male,Hispanic or Latino,1081_8547,Phoenix,AZ,85016,H0031,Ancillary,1081_13962,Alcohol dependence,53,lFng==
+4124,Male,Hispanic or Latino,1081_10995,Mesa,AZ,85201,H0046,TBD,1081_13798,Cannabis dependence,48,s79g==
+6384,Male,Other,1081_12372,Mesa,AZ,85202,H0018,RTC,1081_15913,Opioid dependence,30,cONg==
+792,Male,Other,1028_1578,Denver,CO,80237,S0201,PHP,1028_1842,Generalized anxiety disorder,26,QSrg==
+3934,Male,Hispanic or Latino,1081_10387,Phoenix,AZ,85051,H0046,TBD,1081_13442,Other stimulant dependence,33,ztHA==
+1862,Male,Other not listed,1018_8696,DYER,IN,463112928,90834,OP,1018_10561,Sedative,27,oGJg==
+4216,Male,Hispanic or Latino,1081_11108,Tempe,AZ,85283,H2016,TBD,1081_13965,Other stimulant dependence,31,d59w==
+3403,Male,Hispanic or Latino,1081_10321,Phoenix,AZ,85051,H0004,Ancillary,1081_12750,Other stimulant dependence,27,QWFw==
+7514,Male,Not Hispanic or Latino,1081_11103,Chandler,AZ,85225,H0018,RTC,1081_16744,Alcohol dependence,21,EzbA==
+895,Male,Hispanic or Latino,1081_8662,Avondale,AZ,85392,H0046,TBD,1081_10254,Opioid dependence,32,_15w==
+7129,Female,Other not listed,1186_13236,Richmond,KY,404759701,99354,Ancillary,1186_18999,Amphetamine-type substance use disorder,32,MNuQ==
+9135,Male,Other,1081_6649,Tolleson,AZ,85353,99999,Interest Payments,1081_7623,Sedative,30,w4Lg==
+5755,Male,Not Hispanic or Latino,1081_12208,Tempe,AZ,85283,H2016,TBD,1081_15675,Opioid dependence,31,xxWw==
+1165,Male,Other,1081_8524,Phoenix,AZ,85004,T1016,Ancillary,1081_10851,Other stimulant dependence,31,uopw==
+888,Male,Hispanic or Latino,1081_8661,Sacaton,AZ,85147,H0031,Ancillary,1081_10252,Other stimulant dependence,50,9tZA==
+1948,Male,Hispanic or Latino,1081_8951,Phoenix,AZ,85018,H0046,TBD,1081_11509,Opioid dependence,24,mrGg==
+3283,Male,Not Hispanic or Latino,1081_3974,Phoenix,AZ,85004,H2016,TBD,1081_12484,Opioid dependence,38,tfAw==
+9113,Female,Hispanic or Latino,1081_5290,Phoenix,AZ,85023,H0004,Ancillary,1081_7543,Cannabis dependence,48,1Q_A==
+2222,Male,Not Hispanic or Latino,1081_9531,Payson,AZ,85541,H0015,IOP,1081_11526,Alcohol dependence,38,YLYQ==
+905,Male,Hispanic or Latino,1081_8662,Avondale,AZ,85392,H0018,RTC,1081_10254,Other stimulant dependence,32,DNdw==
+2715,Male,Not Hispanic or Latino,1081_9829,Tempe,AZ,85283,H0046,TBD,1081_11987,Other stimulant dependence,25,zIBg==
+1946,Male,Hispanic or Latino,1081_8951,Phoenix,AZ,85018,H0031,Ancillary,1081_11509,Opioid dependence,24,yYlg==
+4782,Male,Hispanic or Latino,1081_11241,Phoenix,AZ,85027,H0031,Ancillary,1081_14923,Opioid dependence,36,WqXQ==
+9306,Female,Not Hispanic or Latino,1081_7989,Laveen,AZ,85339,H0001,Ancillary,1081_9252,Opioid dependence,37,if0Q==
+9829,Male,Caucasian,1186_17944,Newcomb,TN,378195075,80307,Ancillary,1186_24394,anxiety disorder,32,naXA==
+164,Male,Other,1028_1409,Aurora,CO,80015,S9475,IOP,1028_1622,Other seizures,38,mO4w==
+6577,Male,Caucasian,1186_13431,Raven,KY,418619021,99212AM,TBD,1186_17804,Attention-deficit hyperactivity disorders,27,Q3VQ==
+2276,Male,Hispanic or Latino,1081_8749,El Mirage,AZ,85335,H0046,TBD,1081_11783,Opioid dependence,22,qQtw==
+7770,Male,Not Hispanic or Latino,1081_12256,Phoenix,AZ,85023,99999,Interest Payments,1081_16869,Alcohol dependence,27,p2AA==
+2178,Male,Other not listed,1018_8749,Atlantic City,NJ,8401,90792,OP,1018_10630,Cannabis use disorder,46,MVfw==
+4580,Male,Hispanic or Latino,1081_11568,Phoenix,AZ,85008,H0031,Ancillary,1081_14648,Opioid dependence,28,x3og==
+8335,Male,Other not listed,1186_15985,Pikeville,KY,41501,H0018,RTC,1186_22007,Unspecified depressive disorder,33,ytVQ==
+1419,Male,Hispanic or Latino,1081_6017,Phoenix,AZ,85018,H0004TH,TBD,1081_11233,Cocaine dependence,26,altA==
+3260,Male,Hispanic or Latino,1081_9431,Phoenix,AZ,85004,H0004TH,TBD,1081_12459,Other stimulant dependence,36,MZnA==
+8430,Male,Hispanic or Latino,1081_1944,Tucson,AZ,85716,H0018,RTC,1081_2064,Cannabis dependence,29,xncA==
+9798,Male,Caucasian,1186_17944,Newcomb,TN,378195075,99211,Ancillary,1186_24394,Amphetamine-type substance use disorder,32,X5tw==
+8745,Male,Not Hispanic or Latino,1081_5386,Goodyear,AZ,85338,T1016,Ancillary,1081_6055,Cocaine dependence,29,nkog==
+9267,Male,Other,1081_7942,Phoenix,AZ,85037,H0031,Ancillary,1081_9195,Opioid dependence,25,VnSg==
+8367,Male,Other not listed,1186_15985,Pikeville,KY,41501,99213,Ancillary,1186_22007,Acute hepatitis C without hepatic coma,33,vx8g==
+4107,Male,Not Hispanic or Latino,1081_8681,Scottsdale,AZ,85251,44444,Custom,1081_13797,Sedative,30,-vFw==
+2956,Male,Other,1081_9990,Glendale,AZ,85306,H0031,Ancillary,1081_12229,Opioid dependence,25,JgVw==
+7922,Female,Not Hispanic or Latino,1081_13039,Mesa,AZ,85210,H0018,RTC,1081_16992,Opioid dependence,40,JyWA==
+9333,Male,Not Hispanic or Latino,1081_7991,Phoenix,AZ,85016,H0015,IOP,1081_9254,Opioid dependence,29,JNAg==
+6809,Male,Other not listed,1186_14445,PRESTONSBURG,KY,41653,H2027,Ancillary,1186_18911,Cocaine use disorder,34,Zg4A==
+5711,Male,Not Hispanic or Latino,1081_12131,Mesa,AZ,85201,T1016,Ancillary,1081_15557,Other stimulant dependence,30,RvIA==
+7835,Male,Prefers not to answer,1186_15746,RICHMOND,KY,40475,90792,Ancillary,1186_20863,Amphetamine-type substance use disorder,50,NzOg==
+9145,Male,Hispanic or Latino,1081_741,Phoenix,AZ,85302,H0018,RTC,1081_772,Cannabis-Related Disorder,39,r0Lg==
+2564,Male,Other,1081_9358,Phoenix,AZ,85015,H0018,RTC,1081_11974,Other stimulant dependence,38,0psw==
+9273,Female,Not Hispanic or Latino,1081_7962,Tucson,AZ,85712,H0018,RTC,1081_9222,Alcohol dependence,54,WL_A==
+1028,Male,Not Hispanic or Latino,1081_8886,Glendale,AZ,85302,H0004GT,TBD,1081_10573,Opioid dependence,32,cZGg==
+6653,Male,Not Hispanic or Latino,1081_12514,Peoria,AZ,85381,H0018,RTC,1081_16143,Alcohol dependence,28,S7SQ==
+4719,Male,Not Hispanic or Latino,1081_11664,Phoenix,AZ,85033,H0031,Ancillary,1081_14801,Alcohol dependence,35,d7HQ==
+4938,Female,Other not listed,1179_8212,Gloucester City,NJ,8030,H0011,RTC,1179_11972,Opioid use disorder,40,gJSg==
+4509,Female,Not Hispanic or Latino,1081_11423,Tempe,AZ,85282,H0018,RTC,1081_14437,Other stimulant dependence,44,neSQ==
+2534,Male,Hispanic or Latino,1081_9132,Phoenix,AZ,85016,H0046,TBD,1081_11789,Opioid dependence,31,SrQg==
+4401,Male,Not Hispanic or Latino,1081_8744,Phoenix,AZ,85007,H0046,TBD,1081_14232,Alcohol dependence,32,qUTQ==
+7949,Male,Not Hispanic or Latino,1081_8886,Glendale,AZ,85302,H0018,RTC,1081_16998,Opioid dependence,32,nnlw==
+8169,Male,Other not listed,1186_15985,Pikeville,KY,41501,H0018,RTC,1186_21728,Acute hepatitis C without hepatic coma,33,Cfzw==
+1051,Male,Not Hispanic or Latino,1081_8312,Glendale,AZ,85310,H0004HQ,TBD,1081_10574,Other stimulant dependence,32,g5FQ==
+1216,Male,Not Hispanic or Latino,1081_8523,Gilbert,AZ,85298,H0001,Ancillary,1081_11024,Other stimulant dependence,35,a9Fg==
+988,Male,Not Hispanic or Latino,1081_8753,Glendale,AZ,85301,H0004,Ancillary,1081_10563,Cannabis dependence,36,M-FQ==
+5026,Male,Not Hispanic or Latino,1081_10989,Rock Point,AZ,86545,T1016,Ancillary,1081_15061,Alcohol dependence,48,v6yQ==
+8042,Male,Hispanic or Latino,1081_13112,Phoenix,AZ,85009,H0004,Ancillary,1081_17112,Opioid dependence,25,m_KA==
+9506,Male,Not Hispanic or Latino,1081_7817,Mesa,AZ,85210,H0031,Ancillary,1081_9807,Cocaine dependence,26,doFQ==
+6958,Male,Not Hispanic or Latino,1081_11896,Glendale,AZ,85308,T1016,Ancillary,1081_16383,Alcohol dependence,23,XxMg==
+5420,Male,Hispanic or Latino,1081_10476,Phoenix,AZ,85019,T1016,Ancillary,1081_15312,Other stimulant dependence,52,ufIw==
+4986,Male,Hispanic or Latino,1081_11483,Phoenix,AZ,85009,T1016,Ancillary,1081_14932,Alcohol dependence,31,NLmQ==
+7498,Male,Hispanic or Latino,1081_12867,Tolleson,AZ,85353,H0031,Ancillary,1081_16742,Cocaine dependence,29,BjaQ==
+4278,Female,Not Hispanic or Latino,1081_11203,Mesa,AZ,85201,H0018,RTC,1081_14098,Alcohol dependence,37,vTAA==
+9498,Male,Not Hispanic or Latino,1081_2907,Tolleson,AZ,85353,T1016,Ancillary,1081_9804,Alcohol dependence,35,S3Tg==
+5406,Male,Not Hispanic or Latino,1081_10169,Phoenix,AZ,85034,H0018,RTC,1081_15310,Other stimulant dependence,49,zW9A==
+7422,Male,Other not listed,1179_8018,Holmdel,NJ,7733,S0201,PHP,1179_27332,Amphetamine-type substance use disorder,27,rUfg==
+3984,Male,Hispanic or Latino,1081_10881,Phoenix,AZ,85051,T1016,Ancillary,1081_13625,Cannabis dependence,34,n0LQ==
+5829,Female,Other not listed,1186_11603,Burlington,KY,41005,90837,Ancillary,1186_15521,Opioid use disorder,29,TrWA==
+7480,Male,Hispanic or Latino,1081_1318,Phoenix,AZ,85028,H0046,TBD,1081_16741,Alcohol dependence,41,rDgw==
+4806,Male,Not Hispanic or Latino,1081_11305,Litchfield Park,AZ,85340,H0004,Ancillary,1081_14926,Opioid dependence,36,niaA==
+6175,Female,Not Hispanic or Latino,1081_11479,Mesa,AZ,85210,H0046,TBD,1081_15786,Opioid dependence,35,tSlg==
+1960,Male,Not Hispanic or Latino,1081_5068,Phoenix,AZ,85023,99999,Interest Payments,1081_11511,Alcohol dependence,40,2awg==
+2718,Male,Hispanic or Latino,1081_5710,Phoenix,AZ,85008,H0001,Ancillary,1081_11989,Opioid abuse,28,SPMg==
+2536,Male,Hispanic or Latino,1081_9132,Phoenix,AZ,85016,H0031,Ancillary,1081_11789,Opioid dependence,31,dymw==
+890,Male,Hispanic or Latino,1081_8662,Avondale,AZ,85392,H0004,Ancillary,1081_10254,Opioid dependence,32,1Isw==
+819,Male,Other,1028_784,Colorado Springs,CO,80919,H0015,IOP,1028_1867,Social anxiety disorder (social phobia),36,6-Vw==
+3807,Male,Hispanic or Latino,1081_10083,Tolleson,AZ,85353,H0046,TBD,1081_13272,Opioid dependence,33,hiFQ==
+56,Male,Other,1028_1268,Sedalia,CO,801358960,S9475,IOP,1028_1451,Cannabis-induced psychotic disorder,29,GJ5A==
+2071,Male,Other not listed,1018_8589,Philadelphia,PA,19148,82075,Ancillary,1018_10597,Cannabis use disorder,23,WuXA==
+1690,Male,Not Hispanic or Latino,1081_8727,Mesa,AZ,85213,H0046,TBD,1081_11345,Alcohol dependence,54,pTKA==
+7718,Male,Hispanic or Latino,1081_6779,Phoenix,AZ,85018,H0004,Ancillary,1081_16864,Alcohol dependence,25,SiAA==
+8464,Male,Not Hispanic or Latino,1081_2011,Phoenix,AZ,85009,H0004,Ancillary,1081_2135,Other stimulant dependence,33,8_ng==
+6559,Male,Caucasian,1186_13431,Raven,KY,418619021,90792,Ancillary,1186_17804,Attention-deficit hyperactivity disorders,27,tjTQ==
+3546,Male,Hispanic or Latino,1081_9151,Peoria,AZ,85381,H0031,Ancillary,1081_13002,Alcohol dependence,54,f0WA==
+7194,Male,Other not listed,1186_14445,PRESTONSBURG,KY,41653,80307,Ancillary,1186_19576,hepatitis C without hepatic coma,34,tODg==
+4807,Male,Not Hispanic or Latino,1081_11305,Litchfield Park,AZ,85340,H0018,RTC,1081_14926,Opioid dependence,36,07LQ==
+1648,Male,Hispanic or Latino,1081_9397,Phoenix,AZ,85017,H0018,RTC,1081_11340,Other stimulant dependence,37,nN7w==
+6295,Female,Other not listed,1186_8205,Louisa,KY,41230,99213,Ancillary,1186_16907,Person consulting for explanation of examination or test findings,37,LJYw==
+7382,Male,Other not listed,1186_14118,Clay City,KY,40312,99354,Ancillary,1186_20033,Opioid use disorder,29,UzcA==
+8329,Male,Other not listed,1186_15985,Pikeville,KY,41501,H0031,Ancillary,1186_22007,Unspecified depressive disorder,33,Fg8Q==
+3567,Male,Not Hispanic or Latino,1081_10485,Phoenix,AZ,85043,H0004HQ,TBD,1081_13009,Cocaine dependence,43,bMIQ==
+2077,Male,Other not listed,1018_8589,Philadelphia,PA,19148,99395,Ancillary,1018_10597,Cannabis use disorder,23,Zx5Q==
+5482,Male,Not Hispanic or Latino,1081_12046,Phoenix,AZ,85032,H0046,TBD,1081_15426,Opioid dependence,45,hK-w==
+8202,Male,Not Hispanic or Latino,1081_9540,Phoenix,AZ,85051,T1016,Ancillary,1081_17125,Opioid dependence,47,uBfg==
+5226,Male,Not Hispanic or Latino,1081_11826,Mesa,AZ,85210,H2016,TBD,1081_15066,Alcohol dependence,52,jldw==
+7834,Male,Prefers not to answer,1186_15746,RICHMOND,KY,40475,90853,Ancillary,1186_20863,Opioid use disorder,50,bnvg==
+3562,Male,Not Hispanic or Latino,1081_10485,Phoenix,AZ,85043,H0031,Ancillary,1081_13009,Alcohol dependence,43,7Xsg==
+4064,Male,Not Hispanic or Latino,1081_10895,Scottsdale,AZ,85257,H0004,Ancillary,1081_13642,Alcohol dependence,23,z67A==
+946,Male,Hispanic or Latino,1081_8469,Phoenix,AZ,85017,T1016,Ancillary,1081_10270,Opioid dependence,28,VT8A==
+8368,Male,Other not listed,1186_15985,Pikeville,KY,41501,99212SA,TBD,1186_22007,Acute hepatitis C without hepatic coma,33,Ie7Q==
+5505,Male,Not Hispanic or Latino,1081_11730,Phoenix,AZ,85037,H0031,Ancillary,1081_15428,Other stimulant dependence,36,0V_g==
+826,Male,Other,1028_784,Colorado Springs,CO,80919,H0015,IOP,1028_1867,Post-traumatic stress disorder,36,cyBw==
+1915,Male,Other not listed,1018_8696,DYER,IN,463112928,90853,Ancillary,1018_10561,Cannabis use disorder,27,agkg==
+8773,Male,Not Hispanic or Latino,1081_2804,Phoenix,AZ,85019,H0046,TBD,1081_6127,Opioid dependence,44,0TlA==
+8296,Female,Other not listed,1186_16295,Louisa,KY,412305430,81025,Ancillary,1186_21778,Cannabis use disorder,37,X3KQ==
+9134,Male,Other,1081_6649,Tolleson,AZ,85353,H0004HQ,TBD,1081_7623,Sedative,30,7Vvg==
+816,Male,Other,1028_784,Colorado Springs,CO,80919,INTEREST,IOP,1028_1867,Social anxiety disorder (social phobia),36,AlbA==
+3904,Female,Hispanic or Latino,1081_10763,Tucson,AZ,85741,H0018,RTC,1081_13436,Opioid dependence,27,tuLQ==
+30,Male,Other,1028_1268,Sedalia,CO,801358960,H0018,RTC,1028_1451,Generalized anxiety disorder,29,iaZA==
+9385,Female,Not Hispanic or Latino,1274_269,San Juan Bautista,CA,95045,90834,Ancillary,1274_1002,Alcohol use disorder,27,YnJg==
+3259,Male,Hispanic or Latino,1081_9431,Phoenix,AZ,85004,H0004,Ancillary,1081_12459,Other stimulant dependence,36,cIUg==
+1901,Male,Other not listed,1018_8696,DYER,IN,463112928,90849,OP,1018_10561,Cannabis use disorder,27,uRgg==
+3940,Male,Not Hispanic or Latino,1081_10771,Glendale,AZ,85301,H0018,RTC,1081_13447,Alcohol dependence,32,DSSQ==
+6743,Male,Not Hispanic or Latino,1081_12583,Mesa,AZ,85204,H0004,Ancillary,1081_16261,Alcohol dependence,22,4BMg==
+8724,Male,Not Hispanic or Latino,1081_2163,Scottsdale,AZ,85016,H0004HQ,TBD,1081_2293,Opioid dependence,38,gQqQ==
+940,Male,Hispanic or Latino,1081_8671,Phoenix,AZ,85048,H0004,Ancillary,1081_10268,Alcohol dependence,51,HZ6A==
+2021,Male,Other not listed,1018_8696,DYER,IN,463112928,99212,IOP,1018_10561,Bipolar II disorder,27,lkPQ==
+6555,Male,Caucasian,1186_13431,Raven,KY,418619021,H0038,Ancillary,1186_17804,Social anxiety disorder (social phobia),27,CYtw==
+9545,Female,Other,1081_8378,Phoenix,AZ,85020,H0004,Ancillary,1081_9828,Opioid dependence,41,q3gQ==
+227,Female,Other,1028_792,Firestone,CO,80504,80305,Ancillary,1028_1672,Trichotillomania,22,xAfA==
+3606,Male,Not Hispanic or Latino,1081_10501,Glendale,AZ,85301,H0004,Ancillary,1081_13031,Alcohol dependence,36,GMMA==
+5399,Male,Not Hispanic or Latino,1081_10169,Phoenix,AZ,85034,H0046,TBD,1081_15310,Alcohol dependence,49,VkoA==
+4290,Female,Not Hispanic or Latino,1081_11203,Mesa,AZ,85201,H2016,TBD,1081_14098,Sedative,37,0Slg==
+6441,Male,Not Hispanic or Latino,1081_12435,Mesa,AZ,85208,T1016,Ancillary,1081_16028,Opioid dependence,34,w6bg==
+5859,Male,Other not listed,1179_2051,Culver City,CA,90230,H0015,IOP,1179_12257,Generalized anxiety disorder,52,qqtw==
+1021,Male,Hispanic or Latino,1081_8883,Peoria,AZ,85345,H0015,IOP,1081_10570,Opioid dependence,46,f5rA==
+7431,Male,Other not listed,1179_8018,Holmdel,NJ,7733,H0011,RTC,1179_27332,Alcohol abuse,27,_GdQ==
+5394,Male,Not Hispanic or Latino,1081_9879,Tempe,AZ,85281,H0018,RTC,1081_15309,Opioid dependence,31,1P0Q==
+9165,Male,Hispanic or Latino,1081_6778,Guadelupe,AZ,85283,H0018,RTC,1081_7787,Opioid dependence,25,r2xw==
+5035,Male,Hispanic or Latino,1081_10995,Mesa,AZ,85201,H0046,TBD,1081_15062,Alcohol dependence,48,cfIQ==
+5696,Female,Hispanic or Latino,1081_12130,Phoenix,AZ,85051,H0004,Ancillary,1081_15556,Opioid dependence,28,RBFA==
+5053,Male,Not Hispanic or Latino,1081_11002,Phoenix,AZ,85016,H0015,IOP,1081_15063,Alcohol dependence,31,ytmA==
+4616,Male,Not Hispanic or Latino,1081_11573,Fountain Hills,AZ,85268,H0004,Ancillary,1081_14653,Opioid dependence,34,b1hw==
+7474,Female,Not Hispanic or Latino,1081_9012,Phoenix,AZ,85033,H0001,Ancillary,1081_16740,Other stimulant dependence,35,Zbog==
+7696,Male,Not Hispanic or Latino,1081_12871,Phoenix,AZ,85007,H0018,RTC,1081_16749,Alcohol dependence,59,Upxw==
+5747,Male,Hispanic or Latino,1081_12207,Avondale,AZ,85323,H0046,TBD,1081_15674,Opioid dependence,40,KkTQ==
+3561,Male,Not Hispanic or Latino,1081_10485,Phoenix,AZ,85043,H0004HQ,TBD,1081_13009,Alcohol dependence,43,8snQ==
+8958,Male,Caucasian,1186_17226,LOUISA,KY,41230,99211,Ancillary,1186_23290,Opioid use disorder,42,-x1Q==
+3366,Male,Not Hispanic or Latino,1081_10309,Tucson,AZ,85713,T1016,Ancillary,1081_12733,Other stimulant dependence,49,-Pxg==
+8298,Female,Other not listed,1186_16295,Louisa,KY,412305430,99484,Ancillary,1186_21778,Cannabis use disorder,37,Wdyw==
+6049,Male,Not Hispanic or Latino,1081_12285,Phoenix,AZ,85015,H0004,Ancillary,1081_15785,Other stimulant dependence,50,X2lp8=
+6331,Female,Not Hispanic or Latino,1081_12366,Supai,AZ,86435,H0046,TBD,1081_15905,Alcohol dependence,31,D24A==
+3922,Male,Not Hispanic or Latino,1081_10767,Phoenix,AZ,85042,H0046,TBD,1081_13441,Alcohol dependence,42,Z9bA==
+7995,Female,Other not listed,1186_15958,Harrodsburg,KY,403301952,H0018,RTC,1186_21239,Opioid use disorder,38,5dpA==
+8008,Female,Other not listed,1186_15958,Harrodsburg,KY,403301952,90834,Ancillary,1186_21239,Opioid use disorder,38,QY3Q==
+8123,Male,Other not listed,1186_15985,Pikeville,KY,41501,H0001,Ancillary,1186_21728,Unspecified anxiety disorder,33,UyoA==
+5628,Male,Not Hispanic or Latino,1081_12051,Phoenix,AZ,85051,H0018,RTC,1081_15433,Other stimulant dependence,32,LRxQ==
+8192,Female,Other not listed,1186_16295,Louisa,KY,412305430,H0015,IOP,1186_21778,Opioid use disorder,37,1rYQ==
+7467,Female,Not Hispanic or Latino,1081_9012,Phoenix,AZ,85033,H0031,Ancillary,1081_16740,Opioid dependence,35,HQBQ==
+7375,Male,Other not listed,1186_14118,Clay City,KY,40312,99214,Ancillary,1186_20033,Opioid use disorder,29,4tdg==
+4714,Male,Not Hispanic or Latino,1081_10396,Phoenix,AZ,85016,T1016,Ancillary,1081_14800,Other stimulant dependence,33,YcJQ==
+3801,Female,Not Hispanic or Latino,1081_10647,Mesa,AZ,85209,H2016,TBD,1081_13269,Other stimulant dependence,32,ShPQ==
+1201,Male,Not Hispanic or Latino,1081_8523,Gilbert,AZ,85298,H2016,TBD,1081_11024,Opioid dependence,35,C0zQ==
+9520,Male,Not Hispanic or Latino,1081_7817,Mesa,AZ,85210,T1016,Ancillary,1081_9807,Alcohol dependence,26,tgyg==
+3272,Male,Other,1081_9892,Phoenix,AZ,85051,H0018,RTC,1081_12472,Alcohol dependence,36,hOBw==
+7003,Male,Hispanic or Latino,1081_9197,Phoenix,AZ,85043,H0018,RTC,1081_16389,Cocaine dependence,29,tZzQ==
+4313,Male,Not Hispanic or Latino,1081_11205,Wofford Heights,CA,9328,T1016,Ancillary,1081_14100,Other stimulant dependence,34,K4tg==
+2220,Male,Not Hispanic or Latino,1081_9531,Payson,AZ,85541,H0018,RTC,1081_11526,Alcohol dependence,38,2zgw==
+4941,Female,Other not listed,1179_8212,Gloucester City,NJ,8030,H0015,IOP,1179_11972,Periodic headache syndromes in child or adult,40,oFEg==
+6760,Male,Hispanic or Latino,1081_12585,Glendale,AZ,85302,H0018,RTC,1081_16263,Other stimulant dependence,37,lwEA==
+5034,Male,Hispanic or Latino,1081_10995,Mesa,AZ,85201,H0015,IOP,1081_15062,Alcohol dependence,48,yehQ==
+1182,Male,Not Hispanic or Latino,1081_9179,Phoenix,AZ,85029,T1016,Ancillary,1081_11012,Other stimulant dependence,57,Gq7Q==
+4240,Male,Hispanic or Latino,1081_1341,Scottsdale,AZ,85257,H0031,Ancillary,1081_13974,Other stimulant dependence,34,jSWg==
+1374,Male,Not Hispanic or Latino,1081_8572,Phoenix,AZ,85019,T1016,Ancillary,1081_11228,Alcohol dependence,48,zSyg==
+4519,Female,Hispanic or Latino,1081_11431,Scottsdale,AZ,85257,H0046,TBD,1081_14447,Alcohol dependence,35,T8Eg==
+8415,Male,Not Hispanic or Latino,1081_1916,Mesa,AZ,85206,H0046,TBD,1081_2035,Alcohol dependence,60,DMmA==
+6872,Female,Other not listed,1186_13236,Richmond,KY,404759701,81025,Ancillary,1186_18999,Major depressive disorder,32,AMfA==
+8189,Female,Other not listed,1186_16295,Louisa,KY,412305430,90832,Ancillary,1186_21778,Opioid use disorder,37,_7sA==
+6205,Male,Hispanic or Latino,1081_11001,Globe,AZ,85501,H0046,TBD,1081_15793,Alcohol dependence,33,8jeg==
+2034,Male,Other not listed,1018_8696,DYER,IN,463112928,90837,OP,1018_10561,Major depressive disorder,27,HjJA==
+9361,Male,Other not listed,1179_526,Escondido,CA,92027,H0015,IOP,1179_5431,Other or unspecified stimulant use disorder,65,k3_w==
+5938,Female,Other not listed,1186_11684,Ludlow,KY,41016,90837,Ancillary,1186_15622,Opioid use disorder,35,Mqtw==
+1872,Male,Other not listed,1018_8696,DYER,IN,463112928,90792,OP,1018_10561,Sedative,27,WSww==
+1032,Male,Not Hispanic or Latino,1081_8886,Glendale,AZ,85302,H2016,TBD,1081_10573,Opioid dependence,32,xEWg==
+4843,Female,Not Hispanic or Latino,1081_11747,Scottsdale,AZ,85256,H0018,RTC,1081_14931,Opioid dependence,34,oG9Q==
+3901,Female,Hispanic or Latino,1081_10763,Tucson,AZ,85741,H0031,Ancillary,1081_13436,Opioid dependence,27,8yGg==
+4752,Female,Not Hispanic or Latino,1081_11675,Mesa,AZ,85201,T1016,Ancillary,1081_14815,Alcohol dependence,55,ifZg==
+4136,Male,Hispanic or Latino,1081_10995,Mesa,AZ,85201,H2016,TBD,1081_13798,Cocaine dependence,48,c29w==
+4348,Male,Not Hispanic or Latino,1081_11214,Phoenix,AZ,85035,H0046,TBD,1081_14110,Other stimulant dependence,21,MfgA==
+8144,Male,Other not listed,1186_15985,Pikeville,KY,41501,90853,Ancillary,1186_21728,Unspecified depressive disorder,33,t8Jg==
+6818,Male,Other not listed,1186_14445,PRESTONSBURG,KY,41653,90832,Ancillary,1186_18911,Unspecified depressive disorder,34,gIgQ==
+4846,Female,Not Hispanic or Latino,1081_11747,Scottsdale,AZ,85256,H0001,Ancillary,1081_14931,Other stimulant dependence,34,BxSw==
+2204,Male,Not Hispanic or Latino,1081_9156,Parker,AZ,85344,H0015,IOP,1081_11522,Alcohol dependence,40,ilNQ==
+7464,Female,Not Hispanic or Latino,1081_9012,Phoenix,AZ,85033,H0004TH,TBD,1081_16740,Opioid dependence,35,Y-Zg==
+6430,Female,Not Hispanic or Latino,1081_12433,Mesa,AZ,85206,H2016,TBD,1081_16025,Other stimulant dependence,50,4FAQ==
+6877,Female,Other not listed,1186_13236,Richmond,KY,404759701,99213,Ancillary,1186_18999,Major depressive disorder,32,BgUA==
+5122,Female,Other not listed,1186_9186,Flemingsburg,KY,41041,99484,Ancillary,1186_11391,Low back pain,44,IjNQ==
+4141,Male,Hispanic or Latino,1081_10996,Phoenix,AZ,85032,H2016,TBD,1081_13799,Opioid dependence,28,ft_Q==
+8158,Male,Other not listed,1186_15985,Pikeville,KY,41501,99212,Ancillary,1186_21728,Acute hepatitis C without hepatic coma,33,2RUA==
+4708,Male,Not Hispanic or Latino,1081_10396,Phoenix,AZ,85016,H0004,Ancillary,1081_14800,Cannabis dependence,33,DfTQ==
+7434,Male,Hispanic or Latino,1081_9985,Glendale,AZ,85301,H0018,RTC,1081_16627,Other stimulant dependence,38,pRqQ==
+8652,Female,Other not listed,1186_2044,Lowmansville,KY,41232,H2027,Ancillary,1186_2269,personality disorder,43,ndYw==
+2735,Male,Hispanic or Latino,1081_5710,Phoenix,AZ,85008,H0018,RTC,1081_11989,Other stimulant dependence,28,8tmw==
+5264,Male,Hispanic or Latino,1081_7218,Phoenix,AZ,85016,H0018,RTC,1081_15179,Other stimulant dependence,50,jQ1w==
+6322,Male,Not Hispanic or Latino,1081_9660,Surprise,AZ,85388,H0018,RTC,1081_15904,Other stimulant dependence,38,3tng==
+7878,Male,Caucasian,1186_14900,Ashland,KY,411013033,87426,TBD,1186_21034,Other insomnia,27,_H4g==
+3969,Female,Not Hispanic or Latino,1081_10774,Chandler,AZ,85225,T1016,Ancillary,1081_13451,Other stimulant dependence,47,eSlw==
+6470,Female,Not Hispanic or Latino,1081_9273,Glendale,AZ,85308,H0046,TBD,1081_16031,Other stimulant dependence,60,r1Dw==
+3321,Male,Not Hispanic or Latino,1081_9155,Maricopa,AZ,85138,H0018,RTC,1081_12489,Other stimulant dependence,52,1HRg==
+9457,Female,Other not listed,1186_8205,Louisa,KY,41230,81025,Ancillary,1186_24321,Opioid use disorder,37,V-PQ==
+2286,Male,Hispanic or Latino,1081_8749,El Mirage,AZ,85335,H0046,TBD,1081_11783,Other stimulant dependence,22,rYgQ==
+7787,Male,Not Hispanic or Latino,1081_12259,Cave Creek,AZ,85331,H0046,TBD,1081_16872,Opioid dependence,40,weJA==
+8016,Female,Other not listed,1186_15958,Harrodsburg,KY,403301952,81025,Ancillary,1186_21239,Amphetamine-type substance use disorder,38,_XJw==
+1385,Male,Hispanic or Latino,1081_9320,Phoenix,AZ,85015,H0018,RTC,1081_11230,Other stimulant dependence,29,qMLQ==
+5217,Male,Not Hispanic or Latino,1081_11790,Mesa,AZ,85203,H0046,TBD,1081_15064,Opioid dependence,31,LQCg==
+2812,Female,Other not listed,1018_8861,Chicago,IL,60647,82075,Ancillary,1018_10759,Cocaine use disorder,31,wh6A==
+4537,Female,Hispanic or Latino,1081_11432,Phoenix,AZ,85007,H0046,TBD,1081_14448,Opioid dependence,34,bqvg==
+5891,Male,Other not listed,1179_10396,San Jose,CA,95125,H0010,Detox,1179_16864,Major depressive disorder,27,rHYQ==
+9221,Male,Caucasian,1186_15546,Owingsville,KY,403608304,T1007,Ancillary,1186_23558,Amphetamine-type substance use disorder,47,raig==
+5049,Male,Hispanic or Latino,1081_10995,Mesa,AZ,85201,H0004,Ancillary,1081_15062,Cocaine dependence,48,O-dA==
+4611,Male,Not Hispanic or Latino,1081_11572,Phoenix,AZ,85008,H0001,Ancillary,1081_14652,Other stimulant dependence,46,lQ_Q==
+7274,Male,Not Hispanic or Latino,1081_7421,Phoenix,AZ,85021,H0031,Ancillary,1081_16623,Opioid dependence,38,YsqA==
+5714,Male,Not Hispanic or Latino,1081_12131,Mesa,AZ,85201,H0004,Ancillary,1081_15557,Alcohol dependence,30,r--g==
+6204,Male,Hispanic or Latino,1081_11001,Globe,AZ,85501,T1016,Ancillary,1081_15793,Alcohol dependence,33,7zLg==
+73,Male,Other,1028_1268,Sedalia,CO,801358960,H0015,IOP,1028_1451,Primary insomnia,29,Oy1g==
+9360,Male,Other not listed,1179_526,Escondido,CA,92027,H0010,Detox,1179_5431,Other or unspecified stimulant use disorder,65,1ZZg==
+3621,Male,Not Hispanic or Latino,1081_10503,Phoenix,AZ,85051,H0046,TBD,1081_13033,Opioid dependence,29,JBxA==
+3530,Male,Not Hispanic or Latino,1081_10326,Phoenix,AZ,85051,H0031,Ancillary,1081_12758,Opioid dependence,44,okEA==
+4630,Male,Not Hispanic or Latino,1081_8171,Phoenix,AZ,85050,H0018,RTC,1081_14654,Alcohol dependence,34,N6Hg==
+8727,Male,Not Hispanic or Latino,1081_2163,Scottsdale,AZ,85016,H0018,RTC,1081_2293,Opioid dependence,38,071Q==
+222,Female,Other,1028_792,Firestone,CO,80504,ZEROCREDIT,IOP,1028_1672,Trichotillomania,22,IXLQ==
+810,Male,Other,1028_784,Colorado Springs,CO,80919,90837,OP,1028_1867,Attention-deficit hyperactivity disorder,36,-5_Q==
+5318,Male,Not Hispanic or Latino,1081_11904,Mesa,AZ,85210,H0046,TBD,1081_15184,Cocaine dependence,52,_Nbg==
+2639,Male,Not Hispanic or Latino,1081_8955,Lake Havasu City,AZ,86403,H0015,IOP,1081_11979,Other stimulant dependence,26,CCpA==
+8766,Male,Not Hispanic or Latino,1081_2804,Phoenix,AZ,85019,H0018,RTC,1081_6127,Other stimulant dependence,44,yivg==
+8622,Female,Other not listed,1186_2044,Lowmansville,KY,41232,99214,Ancillary,1186_2269,use disorder,43,QiSw==
+57,Male,Other,1028_1268,Sedalia,CO,801358960,S9475,PHP,1028_1451,Cannabis-induced psychotic disorder,29,5SOQ==
+5309,Male,Not Hispanic or Latino,1081_11904,Mesa,AZ,85210,H0004,Ancillary,1081_15184,Opioid dependence,52,PvQg==
+8032,Male,Hispanic or Latino,1081_13112,Phoenix,AZ,85009,H0001,Ancillary,1081_17112,Other stimulant dependence,25,g8pg==
+1655,Male,Not Hispanic or Latino,1081_9398,Chandler,AZ,85224,H0018,RTC,1081_11341,Opioid dependence,50,9WJQ==
+6755,Male,Not Hispanic or Latino,1081_12583,Mesa,AZ,85204,H0018,RTC,1081_16261,Cannabis dependence,22,7uew==
+4698,Male,Not Hispanic or Latino,1081_10396,Phoenix,AZ,85016,H0031,Ancillary,1081_14800,Opioid dependence,33,JIDg==
+953,Male,Hispanic or Latino,1081_8469,Phoenix,AZ,85017,H0015,IOP,1081_10270,Opioid dependence,28,jftw==
+6568,Male,Caucasian,1186_13431,Raven,KY,418619021,99212SA,TBD,1186_17804,Attention-deficit hyperactivity disorders,27,xYjQ==
+4794,Male,Not Hispanic or Latino,1081_11744,Phoenix,AZ,85006,H0046,TBD,1081_14925,Other stimulant dependence,49,begA==
+5743,Male,Hispanic or Latino,1081_11346,Phoenix,AZ,85040,T1016,Ancillary,1081_15561,Other stimulant dependence,46,761Q==
+8285,Male,Not Hispanic or Latino,1081_9094,Sun City,AZ,85351,H0004,Ancillary,1081_17279,Other stimulant dependence,33,jQEw==
+2033,Male,Other not listed,1018_8696,DYER,IN,463112928,H0006,Ancillary,1018_10561,Major depressive disorder,27,ecnQ==
+1173,Male,Not Hispanic or Latino,1081_8624,Tucson,AZ,85730,H0018,RTC,1081_11010,Sedative,39,n_jw==
+3941,Male,Not Hispanic or Latino,1081_10771,Glendale,AZ,85301,H2016,TBD,1081_13447,Alcohol dependence,32,_l8A==
+5103,Female,Other not listed,1179_9890,Millville,NJ,8332,90791,Ancillary,1179_12215,Opioid use disorder,25,ZQdA==
+7148,Male,Other not listed,1186_14445,PRESTONSBURG,KY,41653,H2027,Ancillary,1186_19576,Cocaine use disorder,34,2z_Q==
+4091,Male,Not Hispanic or Latino,1081_10992,Maricopa,AZ,85138,H0018,RTC,1081_13794,Other stimulant dependence,38,esPw==
+4134,Male,Hispanic or Latino,1081_10995,Mesa,AZ,85201,H0031,Ancillary,1081_13798,Cocaine dependence,48,_z9A==
+6531,Male,Caucasian,1186_13431,Raven,KY,418619021,H0015,IOP,1186_17804,Panic disorder,27,4Grg==
+4177,Male,Not Hispanic or Latino,1081_11103,Chandler,AZ,85225,H2016,TBD,1081_13957,Cocaine dependence,21,4ggg==
+6279,Female,Other not listed,1186_8205,Louisa,KY,41230,81025,Ancillary,1186_16907,Person consulting for explanation of examination or test findings,37,1K-A==
+5672,Female,Not Hispanic or Latino,1081_12125,Phoenix,AZ,85043,H0004,Ancillary,1081_15550,Alcohol dependence,42,LfgA==
+4836,Male,Not Hispanic or Latino,1081_9540,Phoenix,AZ,85051,H0046,TBD,1081_14930,Opioid dependence,47,B3YQ==
+2971,Female,Not Hispanic or Latino,1081_9992,Phoenix,AZ,855029,H0004TH,TBD,1081_12235,Opioid dependence,58,mxow==
+6874,Female,Other not listed,1186_13236,Richmond,KY,404759701,99214,Ancillary,1186_18999,Major depressive disorder,32,y8AQ==
+4758,Female,Not Hispanic or Latino,1081_11675,Mesa,AZ,85201,T1016,Ancillary,1081_14815,Cannabis dependence,55,EBOg==
+6916,Female,Hispanic or Latino,1081_12211,Phoenix,AZ,85035,H0018,RTC,1081_16272,Cocaine dependence,33,S_Ug==
+7439,Male,Hispanic or Latino,1081_9985,Glendale,AZ,85301,H0015,IOP,1081_16627,Other stimulant dependence,38,cnag==
+9499,Male,Not Hispanic or Latino,1081_2907,Tolleson,AZ,85353,H0004,Ancillary,1081_9804,Alcohol dependence,35,hpYg==
+7565,Male,Other not listed,1179_526,Escondido,CA,92027,H0010,Detox,1179_3787,Alcohol use disorder,65,YA9A==
+4548,Female,Hispanic or Latino,1081_11432,Phoenix,AZ,85007,H0018,RTC,1081_14448,Other stimulant dependence,34,iEDw==
+7560,Male,Other not listed,1179_526,Escondido,CA,92027,H0010,Detox,1179_3716,Alcohol use disorder,65,GfQw==
+735,Male,Other,1028_1465,Parker,CO,80134,MEDDEPOSIT,Detox,1028_1837,Other (or unknown) substance use disorder,32,NamQ==
+9938,Male,Not Hispanic or Latino,1274_548,Visalia,CA,93277,99214,Ancillary,1274_1136,Generalized anxiety disorder,29,INMQ==
+609,Male,Other,1028_1268,Sedalia,CO,801358960,90837,OP,1028_1806,Adjustment insomnia,29,ebiQ==
+8639,Female,Other not listed,1186_2044,Lowmansville,KY,41232,90834,Ancillary,1186_2269,personality disorder,43,Od6Q==
+3297,Male,Not Hispanic or Latino,1081_3974,Phoenix,AZ,85004,H2016,TBD,1081_12484,Other stimulant dependence,38,Phrw==
+3566,Male,Not Hispanic or Latino,1081_10485,Phoenix,AZ,85043,T1016,Ancillary,1081_13009,Cocaine dependence,43,iSLA==
+8304,Female,Other not listed,1186_16295,Louisa,KY,412305430,90853,Ancillary,1186_21778,Cannabis use disorder,37,wPHA==
+6757,Male,Hispanic or Latino,1081_12584,Phoenix,AZ,85037,H0018,RTC,1081_16262,Opioid dependence,64,5gLA==
+2269,Male,Hispanic or Latino,1081_8749,El Mirage,AZ,85335,H0001,Ancillary,1081_11783,Opioid dependence,22,kpBA==
+7103,Male,Not Hispanic or Latino,1081_12731,Phoenix,AZ,85016,H0046,TBD,1081_16507,Cocaine dependence,41,OOGA==
+6291,Female,Other not listed,1186_8205,Louisa,KY,41230,99211,Ancillary,1186_16907,Person consulting for explanation of examination or test findings,37,JQ1w==
+9041,Male,Caucasian,1186_15546,Owingsville,KY,403608304,90792,Ancillary,1186_23558,Opioid use disorder,47,iKmQ==
+5366,Male,Not Hispanic or Latino,1081_10822,Phoenix,AZ,85004,H0001,Ancillary,1081_15304,Opioid dependence,26,mPzg==
+646,Male,Other,1028_1551,Denver,CO,80224,90853,OP,1028_1808,Bipolar disorder,37,Zs2g==
+8421,Male,Not Hispanic or Latino,1081_1933,Suprise,AZ,85374,H2016,TBD,1081_2053,Other stimulant dependence,37,Qprw==
+8235,Male,Hispanic or Latino,1081_13213,Phoenix,AZ,85007,H0018,RTC,1081_17265,Opioid dependence,29,hYPQ==
+4294,Female,Not Hispanic or Latino,1081_11203,Mesa,AZ,85201,H0004,Ancillary,1081_14098,Other stimulant dependence,37,z-vw==
+9109,Male,Not Hispanic or Latino,1081_3974,Phoenix,AZ,85004,H0004,Ancillary,1081_6226,Opioid dependence,38,wWJQ==
+6211,Male,Hispanic or Latino,1081_11001,Globe,AZ,85501,H0046,TBD,1081_15793,Opioid dependence,33,lssA==
+4514,Male,Not Hispanic or Latino,1081_11430,Page,AZ,86040,H0018,RTC,1081_14445,Alcohol dependence,37,NBMQ==
+3793,Female,Not Hispanic or Latino,1081_10647,Mesa,AZ,85209,H0031,Ancillary,1081_13269,Opioid dependence,32,wToQ==
+7368,Male,Other not listed,1186_14118,Clay City,KY,40312,90837,Ancillary,1186_20033,Opioid use disorder,29,P8Lw==
+9837,Male,Caucasian,1186_17944,Newcomb,TN,378195075,H2034,PHP,1186_24394,Unspecified depressive disorder,32,7gGQ==
+4905,Female,Other not listed,1186_9186,Flemingsburg,KY,41041,99484,Ancillary,1186_11391,Opioid use disorder,44,5Gvw==
+514,Male,Other,1028_1518,Monument,CO,80132,MEDDEPOSIT,Detox,1028_1780,Dehydration,45,qQ6g==
+9486,Male,Hispanic or Latino,1081_8358,Mesa,AZ,85208,H0046,TBD,1081_9802,Cannabis dependence,49,REog==
+8883,Female,Other not listed,1186_2044,Lowmansville,KY,41232,80307,Ancillary,1186_2269,Anxiety disorder,43,auvQ==
+4783,Male,Hispanic or Latino,1081_11241,Phoenix,AZ,85027,H0018,RTC,1081_14923,Opioid dependence,36,yK2g==
+4066,Male,Not Hispanic or Latino,1081_10895,Scottsdale,AZ,85257,T1016,Ancillary,1081_13642,Cannabis dependence,23,qPiQ==
+7923,Female,Not Hispanic or Latino,1081_13039,Mesa,AZ,85210,H0046,TBD,1081_16992,Opioid dependence,40,56TA==
+5391,Female,Not Hispanic or Latino,1081_11696,Mesa,AZ,85201,H0004,Ancillary,1081_15307,Opioid dependence,31,PGPA==
+8043,Male,Hispanic or Latino,1081_13112,Phoenix,AZ,85009,H0018,RTC,1081_17112,Opioid dependence,25,ge4g==
+4189,Female,Not Hispanic or Latino,1081_11105,Phoenix,AZ,85021,H0018,RTC,1081_13960,Other stimulant dependence,34,cNWA==
+6063,Female,Not Hispanic or Latino,1081_11479,Mesa,AZ,85210,H0046,TBD,1081_15786,Cannabis dependence,35,AONQ==
+8763,Male,Not Hispanic or Latino,1081_2804,Phoenix,AZ,85019,T1016,Ancillary,1081_6127,Other stimulant dependence,44,5vzA==
+7850,Male,Caucasian,1186_14900,Ashland,KY,411013033,H2034,PHP,1186_21034,Tachycardia,27,LIKg==
+173,Female,Other,1028_1410,Colorado Springs,CO,80920,S9475,PHP,1028_1623,Drug induced akathisia,59,777g==
+6657,Male,Not Hispanic or Latino,1081_12514,Peoria,AZ,85381,H0004,Ancillary,1081_16143,Alcohol dependence,28,w-DQ==
+8148,Male,Other not listed,1186_15985,Pikeville,KY,41501,80307,Ancillary,1186_21728,Unspecified depressive disorder,33,rTRg==
+730,Male,Other,1028_1465,Parker,CO,80134,S9475,IOP,1028_1837,Cannabis use disorder,32,8yqw==
+717,Male,Other,1028_1465,Parker,CO,80134,MEDDEPOSIT,Detox,1028_1837,Alcohol intoxication,32,eK7g==
+1146,Male,Not Hispanic or Latino,1081_3926,Goodyear,AZ,85395,T1016,Ancillary,1081_10849,Opioid dependence,36,BSdA==
+6185,Female,Not Hispanic or Latino,1081_8009,Phoenix,AZ,85029,H0018,RTC,1081_15788,Alcohol dependence,51,cp9Q==
+6396,Female,Not Hispanic or Latino,1081_12374,Mesa,AZ,85209,H0004,Ancillary,1081_15917,Opioid dependence,28,DVAg==
+2844,Female,Other not listed,1018_8861,Chicago,IL,60647,99205,Ancillary,1018_10759,Social anxiety disorder (social phobia),31,nNcQ==
+2773,Male,Hispanic Latino,1018_8858,Elgin,IL,60120,H0015,IOP,1018_10756,Generalized anxiety disorder,49,IIIA==
+2277,Male,Hispanic or Latino,1081_8749,El Mirage,AZ,85335,H0031,Ancillary,1081_11783,Other stimulant dependence,22,IoqA==
+4453,Female,Hispanic or Latino,1081_10763,Tucson,AZ,85741,H0046,TBD,1081_14243,Opioid dependence,27,XPsw==
+194,Female,Other,1028_1410,Colorado Springs,CO,80920,S9475,IOP,1028_1623,Anorexia nervosa,59,F_9w==
+6098,Female,Other not listed,1349_2290,Etna,ME,4434,S0201,PHP,1349_2866,Insomnia,37,vLIA==
+8985,Male,Caucasian,1186_17226,LOUISA,KY,41230,T1007,Ancillary,1186_23290,Fever,42,8WUw==
+4838,Female,Not Hispanic or Latino,1081_11747,Scottsdale,AZ,85256,H0001,Ancillary,1081_14931,Opioid dependence,34,SuTA==
+2660,Male,Other not listed,1018_8836,Adelphi,MD,20783,H0006,Ancillary,1018_10730,Alcohol use disorder,65,j48Q==
+7132,Male,Other not listed,1186_14445,PRESTONSBURG,KY,41653,90832,Ancillary,1186_19576,Opioid use disorder,34,bkPg==
+733,Male,Other,1028_1465,Parker,CO,80134,S9475,PHP,1028_1837,Cannabis use disorder,32,9m2A==
+2567,Male,Other,1081_9358,Phoenix,AZ,85015,H0001,Ancillary,1081_11974,Other stimulant dependence,38,y3Bg==
+5465,Male,Not Hispanic or Latino,1081_11760,Worley,ID,83876,H0031,Ancillary,1081_15424,Alcohol dependence,34,G0FQ==
+8181,Female,Other not listed,1186_16295,Louisa,KY,412305430,99214,Ancillary,1186_21778,Opioid use disorder,37,0CuA==
+1439,Male,Not Hispanic or Latino,1081_9323,Glendale,AZ,85301,H0004GT,TBD,1081_11234,Opioid dependence,23,jc5g==
+9442,Female,Caucasian,1186_17623,Newport,KY,41071,99204,Ancillary,1186_23897,Nightmare disorder,32,m4QA==
+4110,Male,Not Hispanic or Latino,1081_8681,Scottsdale,AZ,85251,99999,Interest Payments,1081_13797,Alcohol dependence,30,DtUw==
+587,Male,Other,1028_1534,Monument,CO,80132 6733,MEDDEPOSIT,Detox,1028_1782,Alcohol induced acute pancreatitis without necrosis or infection,27,RGbA==
+8262,Male,Hispanic or Latino,1081_12793,Phoenix,AZ,85031,H0004,Ancillary,1081_17270,Cannabis dependence,20,EqJA==
+906,Female,Hispanic or Latino,1081_8665,Gilbert,AZ,85234,T1016,Ancillary,1081_10262,Opioid dependence,47,umGw==
+5959,Female,Other not listed,1179_10380,Summit,NJ,7901,H0010,Detox,1179_16878,Alcohol use disorder,27,pzhA==
+7573,Male,Other not listed,1186_14118,Clay City,KY,40312,T2023,TBD,1186_20033,Unspecified depressive disorder,29,gYuw==
+7004,Male,Hispanic or Latino,1081_9197,Phoenix,AZ,85043,H0004TH,TBD,1081_16389,Cocaine dependence,29,tzCg==
+1944,Male,Hispanic or Latino,1081_8951,Phoenix,AZ,85018,H0018,RTC,1081_11509,Opioid dependence,24,b3YA==
+2087,Male,Other not listed,1018_8589,Philadelphia,PA,19148,90792,OP,1018_10597,Alcohol use disorder,23,tBzA==
+6170,Female,Not Hispanic or Latino,1081_11479,Mesa,AZ,85210,H0031,Ancillary,1081_15786,Opioid dependence,35,9dkA==
+9574,Female,Other not listed,1186_8205,Louisa,KY,41230,90792,Ancillary,1186_24321,Amphetamine-type substance use disorder,37,5xmg==
+1716,Male,Hispanic or Latino,1081_5710,Phoenix,AZ,85008,H0046,TBD,1081_11346,Other stimulant dependence,28,wabw==
+1694,Male,Hispanic or Latino,1081_5710,Phoenix,AZ,85008,H0031,Ancillary,1081_11346,Opioid abuse,28,OETw==
+7374,Male,Other not listed,1186_14118,Clay City,KY,40312,90832,Ancillary,1186_20033,Opioid use disorder,29,NcNw==
+1377,Male,Not Hispanic or Latino,1081_8572,Phoenix,AZ,85019,H0015,IOP,1081_11228,Alcohol dependence,48,ElOA==
+734,Male,Other,1028_1465,Parker,CO,80134,90837,OP,1028_1837,Cannabis use disorder,32,wWcw==
+7083,Male,Not Hispanic or Latino,1081_10364,Tempe,AZ,85282,H0018,RTC,1081_16503,Opioid dependence,35,0egw==
+5836,Female,Other not listed,1186_11603,Burlington,KY,41005,90834,Ancillary,1186_15521,Opioid use disorder,29,tUNw==
+7814,Male,Other not listed,1186_15175,RICHMOND,KY,40475,80307,Ancillary,1186_20662,Abnormal results of liver function studies,55,k6pA==
+8126,Male,Other not listed,1186_15985,Pikeville,KY,41501,T2023,TBD,1186_21728,Unspecified anxiety disorder,33,gEBg==
+4044,Female,Not Hispanic or Latino,1081_8923,Phoenix,AZ,85042,H0018,RTC,1081_13636,Cocaine abuse,58,9lug==
+8098,Female,Hispanic or Latino,1081_12696,Avondale,AZ,85232,H0015,IOP,1081_17118,Other stimulant dependence,28,R-gQ==
+987,Male,Not Hispanic or Latino,1081_8753,Glendale,AZ,85301,H0018,RTC,1081_10563,Other stimulant dependence,36,LwMQ==
+8494,Female,Other not listed,1186_16496,Ft Mitchell,KY,41017,90839,Ancillary,1186_22117,Amphetamine-type substance use disorder,40,k93w==
+5418,Male,Hispanic or Latino,1081_10476,Phoenix,AZ,85019,H2016,TBD,1081_15312,Opioid dependence,52,8TGQ==
+5632,Male,Not Hispanic or Latino,1081_11709,New River,AZ,85087,H0001,Ancillary,1081_15434,Other stimulant dependence,48,zoBA==
+7885,Male,Caucasian,1186_14900,Ashland,KY,411013033,H0035,PHP,1186_21034,Other insomnia,27,8n0Q==
+6664,Male,Not Hispanic or Latino,1081_11737,Mesa,AZ,85215,H0018,RTC,1081_16144,Alcohol dependence,28,T20g==
+1158,Male,Not Hispanic or Latino,1081_3926,Goodyear,AZ,85395,H0046,TBD,1081_10849,Other stimulant dependence,36,apaA==
+3777,Female,Not Hispanic or Latino,1081_8852,Surprise,AZ,85379,H0004,Ancillary,1081_13258,Opioid; F12.20 Cannabis; F15.20 Other stimulant; F43.10 Post-traumatic stress dis,46,4fPw==
+6011,Male,Not Hispanic or Latino,1081_9441,Glendale,AZ,85302,H0046,TBD,1081_15686,Opioid dependence,28,XZCQ==
+3559,Male,Not Hispanic or Latino,1081_10485,Phoenix,AZ,85043,H0018,RTC,1081_13009,Alcohol dependence,43,g2mA==
+4051,Male,Not Hispanic or Latino,1081_10893,Holbrook,AZ,86025,H0031,Ancillary,1081_13640,Other stimulant dependence,27,4qJw==
+3346,Male,Not Hispanic or Latino,1081_10304,Phoenix,AZ,85032,H0031,Ancillary,1081_12728,Opioid dependence,38,kjdg==
+8054,Male,Not Hispanic or Latino,1081_13114,Peoria,AZ,85435,H0031,Ancillary,1081_17115,Opioid dependence,36,xkCg==
+1107,Male,Hispanic or Latino,1081_9077,Mesa,AZ,85021,H0015,IOP,1081_10846,Other stimulant dependence,30,cL8A==
+6474,Male,Hispanic or Latino,1081_12437,Phoenix,AZ,85007,T1016,Ancillary,1081_16032,Opioid dependence,34,q8pQ==
+9859,Male,Caucasian,1186_17944,Newcomb,TN,378195075,96156,TBD,1186_24394,Sleep disorder,32,ykLA==
+6276,Female,Other not listed,1186_8205,Louisa,KY,41230,90834,Ancillary,1186_16907,Anxiety disorder,37,-SEQ==
+6638,Male,Not Hispanic or Latino,1081_6893,Phoenix,AZ,85029,H2016,TBD,1081_16034,Cocaine dependence,55,aFEg==
+9854,Male,Caucasian,1186_17944,Newcomb,TN,378195075,H0018,RTC,1186_24394,Unspecified depressive disorder,32,vJ-A==
+7276,Male,Not Hispanic or Latino,1081_7421,Phoenix,AZ,85021,H0018,RTC,1081_16623,Opioid dependence,38,RICQ==
+871,Male,Not Hispanic or Latino,1081_8660,Phoenix,AZ,85018,H0015,IOP,1081_10250,Alcohol dependence,60,UftA==
+1945,Male,Hispanic or Latino,1081_8951,Phoenix,AZ,85018,H0004,Ancillary,1081_11509,Opioid dependence,24,JToA==
+9860,Male,Caucasian,1186_17944,Newcomb,TN,378195075,H0031,Ancillary,1186_24394,Sleep disorder,32,gCTA==
+832,Male,Other,1028_1601,New York,NY,10018,MEDDEPOSIT,Detox,1028_1869,Sedative,34,6jsA==
+3250,Male,Hispanic or Latino,1081_9431,Phoenix,AZ,85004,H0015,IOP,1081_12459,Opioid dependence,36,77EA==
+7227,Male,Hispanic or Latino,1081_12789,Ajo,AZ,85321,H0046,TBD,1081_16611,Other stimulant dependence,48,DqHw==
+6572,Male,Caucasian,1186_13431,Raven,KY,418619021,82075,Ancillary,1186_17804,Attention-deficit hyperactivity disorders,27,O4zg==
+6772,Male,Hispanic or Latino,1081_12586,Phoenix,AZ,85016,T1016,Ancillary,1081_16264,Cocaine dependence,35,Hq3A==
+6732,Female,Hispanic or Latino,1081_12519,Phoenix,AZ,85008,H0031,Ancillary,1081_16152,Other stimulant dependence,32,nI1g==
+3879,Male,Not Hispanic or Latino,1081_10753,Flagstaff,AZ,86001,H0015,IOP,1081_13422,Cannabis dependence,43,mCWA==
+6188,Female,Not Hispanic or Latino,1081_12287,Phoenix,AZ,85007,H0018,RTC,1081_15789,Other stimulant dependence,55,v8AA==
+4613,Male,Not Hispanic or Latino,1081_11573,Fountain Hills,AZ,85268,H0001,Ancillary,1081_14653,Opioid dependence,34,fF3g==
+7712,Female,Not Hispanic or Latino,1081_12949,Phoenix,AZ,85024,H0018,RTC,1081_16862,Sedative,26,3DbA==
+6750,Male,Not Hispanic or Latino,1081_12583,Mesa,AZ,85204,H0004,Ancillary,1081_16261,Cannabis dependence,22,BNnA==
+1411,Male,Hispanic or Latino,1081_6017,Phoenix,AZ,85018,H0018,RTC,1081_11233,Cocaine dependence,26,F3Lg==
+7093,Male,Not Hispanic or Latino,1081_12729,Phoenix,AZ,85007,H0046,TBD,1081_16504,Other stimulant dependence,36,luYQ==
+4263,Male,Not Hispanic or Latino,1081_10661,Glendale,AZ,85310,H0004TH,TBD,1081_13982,Other stimulant dependence,47,WZGQ==
+6621,Male,Hispanic or Latino,1081_12437,Phoenix,AZ,85007,H2016,TBD,1081_16032,Cocaine dependence,34,VNaQ==
+1029,Male,Not Hispanic or Latino,1081_8886,Glendale,AZ,85302,H0004,Ancillary,1081_10573,Opioid dependence,32,xb9A==
+6392,Male,Hispanic or Latino,1081_11988,Phoenix,AZ,85009,H0004,Ancillary,1081_15915,Opioid dependence,31,qbsA==
+4673,Male,Not Hispanic or Latino,1081_11585,Goodyear,AZ,85338,H0046,TBD,1081_14668,Sedative,31,b4hA==
+9532,Female,Hispanic or Latino,1081_8370,Avondale,AZ,85323,H0004HQ,TBD,1081_9819,Other stimulant dependence,52,pcuA==
+7143,Male,Other not listed,1186_14445,PRESTONSBURG,KY,41653,99484,Ancillary,1186_19576,Cocaine use disorder,34,sO-Q==
+3058,Male,Not Hispanic or Latino,1081_9993,Phoenix,AZ,85006,H0004,Ancillary,1081_12237,Other stimulant dependence,59,OFLg==
+5786,Female,Hispanic or Latino,1081_12211,Phoenix,AZ,85035,H0015,IOP,1081_15679,Alcohol dependence,33,gBTw==
+4738,Male,Not Hispanic or Latino,1081_11668,Peach Springs,AZ,86434,H0046,TBD,1081_14808,Other stimulant dependence,22,XUuA==
+5312,Male,Not Hispanic or Latino,1081_11904,Mesa,AZ,85210,H0018,RTC,1081_15184,Opioid dependence,52,JnJg==
+595,Male,Other,1028_1534,Monument,CO,80132 6733,S0201,PHP,1028_1782,Essential (primary) hypertension,27,eeCw==
+2963,Male,Other,1081_9990,Glendale,AZ,85306,H0018,RTC,1081_12229,Other stimulant dependence,25,sT-Q==
+8627,Female,Other not listed,1186_2044,Lowmansville,KY,41232,99484,Ancillary,1186_2269,use disorder,43,WM9Q==
+7710,Female,Not Hispanic or Latino,1081_12949,Phoenix,AZ,85024,H0018,RTC,1081_16862,Amphetamine-type substance use disorder,26,AbbA==
+1389,Male,Hispanic or Latino,1081_9322,Glendale,AZ,85307,H0001,Ancillary,1081_11232,Other stimulant dependence,30,E4vQ==
+7272,Male,Not Hispanic or Latino,1081_12797,Mesa,AZ,85201,H0018,RTC,1081_16622,Other stimulant dependence,38,oTFg==
+7886,Female,Not Hispanic or Latino,1081_12956,Phoenix,AZ,85018,H0018,RTC,1081_16873,Other stimulant dependence,29,nrig==
+835,Male,Other,1028_1601,New York,NY,10018,MEDDEPOSIT,Detox,1028_1869,Suicidal ideations,34,EBFg==
+3522,Male,Not Hispanic or Latino,1081_8430,Phoenix,AZ,85345,T1016,Ancillary,1081_12757,Other stimulant dependence,39,Brcg==
+6323,Male,Not Hispanic or Latino,1081_9660,Surprise,AZ,85388,H0004,Ancillary,1081_15904,Other stimulant dependence,38,X0rg==
+1448,Male,Not Hispanic or Latino,1081_9323,Glendale,AZ,85301,H0015,IOP,1081_11234,Opioid dependence,23,4WfA==
+3697,Male,Not Hispanic or Latino,1081_8674,Glendale,AZ,85310,H0004,Ancillary,1081_13253,Opioid dependence,23,9VEA==
+152,Male,Other,1028_1409,Aurora,CO,80015,S9475,IOP,1028_1622,Attention-deficit hyperactivity disorder,38,yjTQ==
+6810,Male,Other not listed,1186_14445,PRESTONSBURG,KY,41653,99213,Ancillary,1186_18911,Cocaine use disorder,34,fSBw==
+2853,Male,Other not listed,1018_8864,Rock Hill,SC,29730,H0010,Detox,1018_10762,Alcohol use disorder,50,B9lA==
+8024,Male,Not Hispanic or Latino,1081_10290,Buckeye,AZ,85326,H0004,Ancillary,1081_17001,Alcohol dependence,29,a_NA==
+2683,Male,Other not listed,1018_8836,Adelphi,MD,20783,99213,Ancillary,1018_10730,Bipolar disorder,65,BRPw==
+1135,Female,Hispanic or Latino,1081_9079,Phoenix,AZ,85007,H0004,Ancillary,1081_10848,Other stimulant dependence,47,9Pfw==
+746,Male,Other,1028_1465,Parker,CO,80134,90837,OP,1028_1837,Insomnia,32,np4g==
+784,Male,Other,1028_1578,Denver,CO,80237,90834,OP,1028_1842,Alcohol withdrawal,26,lebQ==
+3237,Male,Hispanic or Latino,1081_9397,Phoenix,AZ,85017,H0015,IOP,1081_12242,Other stimulant dependence,37,xX_w==
+5826,Female,Other not listed,1186_11603,Burlington,KY,41005,99484,Ancillary,1186_15521,Opioid use disorder,29,548Q==
+774,Male,Other,1028_1465,Parker,CO,80134,H0018,RTC,1028_1837,Attention-deficit hyperactivity disorder,32,JcPA==
+718,Male,Other,1028_1465,Parker,CO,80134,S9475,IOP,1028_1837,Alcohol intoxication,32,XD9Q==
+1159,Male,Not Hispanic or Latino,1081_3926,Goodyear,AZ,85395,H0018,RTC,1081_10849,Other stimulant dependence,36,vOXg==
+6784,Male,Not Hispanic or Latino,1081_12277,Glendale,AZ,85305,H0046,TBD,1081_16266,Cannabis dependence,40,1I-Q==
+7795,Female,Not Hispanic or Latino,1081_12956,Phoenix,AZ,85018,H0046,TBD,1081_16873,Opioid dependence,29,G69w==
+627,Male,Other,1028_1268,Sedalia,CO,801358960,S9475,IOP,1028_1806,Alcohol use disorder,29,fEFQ==
+3582,Female,Not Hispanic or Latino,1081_9172,Mesa,AZ,85207,H0018,RTC,1081_13010,Other stimulant dependence,31,lXnA==
+6339,Male,Hispanic or Latino,1081_11612,Phoenix,AZ,85009,H2016,TBD,1081_15907,Opioid dependence,21,fNvg==
+4069,Male,Not Hispanic or Latino,1081_10895,Scottsdale,AZ,85257,H0001,Ancillary,1081_13642,Cannabis dependence,23,3QEg==
+3540,Male,Hispanic or Latino,1081_2224,Phoenix,AZ,85051,H0046,TBD,1081_12999,Alcohol dependence,32,1QJA==
+981,Male,Not Hispanic or Latino,1081_625,Phoenix,AZ,85015,H0004,Ancillary,1081_10557,Sedative,32,njoA==
+9186,Male,Not Hispanic or Latino,1081_5122,Goodyear,AZ,85395,H0015,IOP,1081_7847,Alcohol dependence,46,Pt9A==
+9512,Male,Not Hispanic or Latino,1081_7817,Mesa,AZ,85210,T1016,Ancillary,1081_9807,Cocaine dependence,26,R59g==
+7735,Male,Hispanic or Latino,1081_6779,Phoenix,AZ,85018,H0004GT,TBD,1081_16864,Cocaine dependence,25,zKgw==
+5431,Male,Not Hispanic or Latino,1081_11814,Phoenix,AZ,85009,H0046,TBD,1081_15314,Cannabis dependence,42,9vKw==
+3401,Male,Hispanic or Latino,1081_10321,Phoenix,AZ,85051,H0031,Ancillary,1081_12750,Other stimulant dependence,27,OCbA==
+4945,Female,Other not listed,1179_8212,Gloucester City,NJ,8030,H0015,IOP,1179_11972,Unspecified abnormal findings in urine,40,ExSw==
+6189,Male,Hispanic or Latino,1081_12288,Mesa,AZ,85208,H0046,TBD,1081_15790,Opioid dependence,29,BOtg==
+3319,Male,Not Hispanic or Latino,1081_9155,Maricopa,AZ,85138,H0046,TBD,1081_12489,Other stimulant dependence,52,yiZQ==
+9508,Male,Not Hispanic or Latino,1081_7817,Mesa,AZ,85210,H0004TH,TBD,1081_9807,Cocaine dependence,26,5_ag==
+2775,Male,Hispanic Latino,1018_8858,Elgin,IL,60120,H0010,Detox,1018_10756,Generalized anxiety disorder,49,jBOA==
+9543,Male,Not Hispanic or Latino,1081_8377,Phoenix,AZ,85306,H0018,RTC,1081_9827,Other stimulant dependence,35,EK3g==
+7588,Male,Other not listed,1186_14118,Clay City,KY,40312,H0038,Ancillary,1186_20033,Unspecified depressive disorder,29,OW-Q==
+7908,Male,Not Hispanic or Latino,1081_12771,Apache Junction,AZ,85119,T1016,Ancillary,1081_16989,Opioid dependence,67,R2Xw==
+7228,Male,Hispanic or Latino,1081_12789,Ajo,AZ,85321,H0004,Ancillary,1081_16611,Other stimulant dependence,48,I_Ig==
+4337,Male,Hispanic or Latino,1081_11209,Phoenix,AZ,85051,H0018,RTC,1081_14104,Sedative,22,qktA==
+1349,Male,Not Hispanic or Latino,1081_9189,Safford,AZ,85546,H0018,RTC,1081_11027,Alcohol dependence,32,JMkw==
+2743,Male,Hispanic or Latino,1081_9833,Goodyear,AZ,85338,H0031,Ancillary,1081_11992,Opioid dependence,29,LwdQ==
+9400,Female,Not Hispanic or Latino,1274_269,San Juan Bautista,CA,95045,90791,Ancillary,1274_1002,Opioid use disorder,27,9Rdg==
+4779,Male,Hispanic or Latino,1081_11241,Phoenix,AZ,85027,H0004,Ancillary,1081_14923,Opioid dependence,36,hsrA==
+6912,Female,Hispanic or Latino,1081_12211,Phoenix,AZ,85035,H0046,TBD,1081_16272,Alcohol dependence,33,kedg==
+7273,Male,Not Hispanic or Latino,1081_12797,Mesa,AZ,85201,H0046,TBD,1081_16622,Other stimulant dependence,38,CPPA==
+5367,Male,Not Hispanic or Latino,1081_10822,Phoenix,AZ,85004,T1016,Ancillary,1081_15304,Opioid dependence,26,nRzA==
+9415,Female,Not Hispanic or Latino,1274_269,San Juan Bautista,CA,95045,99212,Ancillary,1274_1002,Amphetamine-type substance use disorder,27,xgzA==
+4073,Male,Hispanic or Latino,1081_10896,Buckeye,AZ,85326,T1016,Ancillary,1081_13643,Opioid dependence,28,8GNg==
+7905,Female,Not Hispanic or Latino,1081_13037,Mesa,AZ,85202,H0015,IOP,1081_16988,Other stimulant dependence,40,hN8Q==
+2028,Male,Other not listed,1018_8696,DYER,IN,463112928,90834,OP,1018_10561,Major depressive disorder,27,Hk_g==
+55,Male,Other,1028_1268,Sedalia,CO,801358960,90837,OP,1028_1451,Cannabis-induced psychotic disorder,29,VV7g==
+4381,Female,Not Hispanic or Latino,1081_10841,Goodyear,AZ,85338,H0004TH,TBD,1081_14229,Other stimulant dependence,32,4i9g==
+2897,Female,Other not listed,1018_8889,Chicago,IL,60655,90792,OP,1018_10796,Bipolar disorder,27,PbUg==
+147,Male,Other,1028_1409,Aurora,CO,80015,S9475,PHP,1028_1622,Foot drop,38,hBnQ==
+8004,Female,Other not listed,1186_15958,Harrodsburg,KY,403301952,96372,Ancillary,1186_21239,Opioid use disorder,38,hxRQ==
+4170,Male,Not Hispanic or Latino,1081_10478,Laveen Village,AZ,85339,T1016,Ancillary,1081_13800,Other stimulant dependence,42,g0Qw==
+892,Male,Hispanic or Latino,1081_8662,Avondale,AZ,85392,H0031,Ancillary,1081_10254,Opioid dependence,32,KZug==
+4239,Male,Hispanic or Latino,1081_1341,Scottsdale,AZ,85257,T1016,Ancillary,1081_13974,Other stimulant dependence,34,_RWg==
+156,Male,Other,1028_1409,Aurora,CO,80015,S9475,PHP,1028_1622,Major depressive disorder,38,7x0g==
+8151,Male,Other not listed,1186_15985,Pikeville,KY,41501,99212SA,TBD,1186_21728,Unspecified depressive disorder,33,6pHA==
+6151,Female,Other not listed,1349_1654,Scarborough,ME,4074,H0018,Detox,1349_2885,Gastro-esophageal reflux disease without esophagitis,63,38QQ==
+6793,Male,Not Hispanic or Latino,1081_12277,Glendale,AZ,85305,H0018,RTC,1081_16266,Alcohol dependence,40,JFsA==
+7287,Male,Other not listed,1186_14445,PRESTONSBURG,KY,41653,T2023,TBD,1186_19576,hepatitis C without hepatic coma,34,h_1g==
+4814,Male,Not Hispanic or Latino,1081_11305,Litchfield Park,AZ,85340,H0004,Ancillary,1081_14926,Other stimulant dependence,36,-lNQ==
+8779,Male,Not Hispanic or Latino,1081_5457,Chandler,AZ,85224,H0018,RTC,1081_6145,Opioid dependence,27,BFng==
+9592,Female,Other not listed,1186_8205,Louisa,KY,41230,99211,Ancillary,1186_24321,Unspecified depressive disorder,37,VVBQ==
+2892,Female,Other not listed,1018_8889,Chicago,IL,60655,H0006,Ancillary,1018_10796,Cocaine use disorder,27,U5Xw==
+602,Male,Other,1028_1268,Sedalia,CO,801358960,90837,OP,1028_1806,Cannabis-induced psychotic disorder,29,1VDA==
+7266,Female,Not Hispanic or Latino,1081_12796,Flagstaff,AZ,86004,T1016,Ancillary,1081_16621,Alcohol dependence,58,jeJg==
+5479,Male,Hispanic or Latino,1081_12045,Mesa,AZ,85210,H0046,TBD,1081_15425,Other stimulant dependence,22,o2IQ==
+4155,Male,Hispanic or Latino,1081_10996,Phoenix,AZ,85032,99999,Interest Payments,1081_13799,Cannabis dependence,28,bCYw==
+9043,Male,Caucasian,1186_15546,Owingsville,KY,403608304,99212SA,TBD,1186_23558,Opioid use disorder,47,4NRg==
+9814,Male,Caucasian,1186_17944,Newcomb,TN,378195075,99213,Ancillary,1186_24394,anxiety disorder,32,BCuQ==
+2739,Male,Hispanic or Latino,1081_5710,Phoenix,AZ,85008,H0046,TBD,1081_11989,Other stimulant dependence,28,5-Ew==
+4780,Male,Hispanic or Latino,1081_11241,Phoenix,AZ,85027,H0046,TBD,1081_14923,Opioid dependence,36,L2Mw==
+7663,Male,Not Hispanic or Latino,1081_11103,Chandler,AZ,85225,T1016,Ancillary,1081_16744,Other stimulant dependence,21,9sEQ==
+6200,Male,Not Hispanic or Latino,1081_11771,Glendale,AZ,85301,H0018,RTC,1081_15792,Other stimulant dependence,22,8bCA==
+1229,Male,Other not listed,1018_8138,CRYSTAL LAKE,IL,600148956,82075,Ancillary,1018_10239,Cannabis use disorder,27,MJYg==
+2236,Male,Not Hispanic or Latino,1081_7691,Phoenix,AZ,85016,H0004,Ancillary,1081_11773,Opioid dependence,34,a_yg==
+8632,Female,Other not listed,1186_2044,Lowmansville,KY,41232,99211,Ancillary,1186_2269,use disorder,43,6jpQ==
+9164,Male,Hispanic or Latino,1081_6778,Guadelupe,AZ,85283,H2016,TBD,1081_7787,Opioid dependence,25,0uUw==
+8989,Male,Caucasian,1186_17226,LOUISA,KY,41230,90832,Ancillary,1186_23290,Fever,42,9B5w==
+109,Female,Other,1028_983,Colorado Springs,CO,80924,H0018,RTC,1028_1605,Nightmare disorder,27,JtKA==
+4059,Male,Not Hispanic or Latino,1081_10893,Holbrook,AZ,86025,H0004,Ancillary,1081_13640,Alcohol dependence,27,8Zjw==
+2251,Male,Hispanic or Latino,1081_9699,Avondale,AZ,85323,H0046,TBD,1081_11779,Opioid dependence,35,oqfg==
+5823,Female,Other not listed,1186_11603,Burlington,KY,41005,T2023,TBD,1186_15521,Opioid use disorder,29,hzKQ==
+1019,Female,Not Hispanic or Latino,1081_8433,Glendale,AZ,85301,H0018,RTC,1081_10567,Other stimulant dependence,46,jpTw==
+6976,Male,Not Hispanic or Latino,1081_2565,Mesa,AZ,85201,H2016,TBD,1081_16387,Alcohol dependence,27,OOoQ==
+7994,Female,Other not listed,1186_15958,Harrodsburg,KY,403301952,H2027,Ancillary,1186_21239,Opioid use disorder,38,gnrA==
+4972,Male,Other not listed,1179_526,Escondido,CA,92027,H2036,PHP,1179_11990,Alcohol use disorder,65,FgoQ==
+8655,Female,Other not listed,1186_2044,Lowmansville,KY,41232,90853,Ancillary,1186_2269,personality disorder,43,7SFw==
+7512,Male,Not Hispanic or Latino,1081_11103,Chandler,AZ,85225,H0046,TBD,1081_16744,Alcohol dependence,21,Nr1w==
+2231,Male,Not Hispanic or Latino,1081_7691,Phoenix,AZ,85016,H0015,IOP,1081_11773,Opioid dependence,34,DGbg==
+6789,Male,Not Hispanic or Latino,1081_12277,Glendale,AZ,85305,T1016,Ancillary,1081_16266,Other stimulant dependence,40,PtvQ==
+8891,Female,Caucasian,1186_17014,Inez,KY,41224,90832,Ancillary,1186_22957,Opioid use disorder,41,Yh0Q==
+9238,Female,Caucasian,1186_17623,Newport,KY,41071,H0015,IOP,1186_23897,Gastro-esophageal reflux disease without esophagitis,32,bDJA==
+4687,Male,Not Hispanic or Latino,1081_10396,Phoenix,AZ,85016,T1016,Ancillary,1081_14800,Alcohol dependence,33,EkNA==
+1951,Male,Hispanic or Latino,1081_8951,Phoenix,AZ,85018,H0031,Ancillary,1081_11509,Other stimulant dependence,24,kEfw==
+6367,Male,Not Hispanic or Latino,1081_12371,Tsaile,AZ,86556,H0031,Ancillary,1081_15911,Alcohol dependence,57,dWRw==
+6408,Male,Hispanic or Latino,1081_12432,Goodyear,AZ,85338,H0046,TBD,1081_16023,Alcohol dependence,53,iiHQ==
+6112,Female,Other not listed,1349_2290,Etna,ME,4434,H0011,Detox,1349_2866,Constipation,37,ukig==
+3342,Male,Not Hispanic or Latino,1081_10304,Phoenix,AZ,85032,H0004HQ,TBD,1081_12728,Opioid dependence,38,GAow==
+2634,Male,Not Hispanic or Latino,1081_8955,Lake Havasu City,AZ,86403,H0004GT,TBD,1081_11979,Other stimulant dependence,26,LWAw==
+3954,Female,Hispanic or Latino,1081_10772,Phoenix,AZ,85008,H0031,Ancillary,1081_13449,Opioid dependence,38,dqgg==
+3978,Male,Hispanic or Latino,1081_10881,Phoenix,AZ,85051,T1016,Ancillary,1081_13625,Opioid dependence,34,KtpA==
+1210,Male,Not Hispanic or Latino,1081_8523,Gilbert,AZ,85298,H0004,Ancillary,1081_11024,Opioid dependence,35,CnMw==
+8291,Female,Other not listed,1186_16295,Louisa,KY,412305430,H2027,Ancillary,1186_21778,Opioid use disorder,37,f0hw==
+4315,Male,Not Hispanic or Latino,1081_11205,Wofford Heights,CA,9328,H0018,RTC,1081_14100,Other stimulant dependence,34,sh6g==
+1707,Male,Hispanic or Latino,1081_5710,Phoenix,AZ,85008,99999,Interest Payments,1081_11346,Cannabis dependence,28,uDhA==
+3324,Male,Not Hispanic or Latino,1081_8653,Mesa,AZ,85204,H0031,Ancillary,1081_12490,Other stimulant dependence,39,_RWw==
+50,Male,Other,1028_1268,Sedalia,CO,801358960,S9475,PHP,1028_1451,Cannabis-induced psychotic disorder,29,AZDQ==
+605,Male,Other,1028_1268,Sedalia,CO,801358960,S9475,PHP,1028_1806,Cannabis-induced psychotic disorder,29,9leQ==
+7943,Male,Hispanic or Latino,1081_13042,Glendale,AZ,85304,H0046,TBD,1081_16997,Other stimulant dependence,23,Jkag==
+673,Male,Other,1028_1551,Denver,CO,80224,MEDDEPOSIT,Detox,1028_1808,Social anxiety disorder (social phobia),37,hHkA==
+6433,Male,Hispanic or Latino,1081_12434,Phoenix,AZ,85043,H0018,RTC,1081_16027,Opioid dependence,27,b5Ww==
+5668,Female,Not Hispanic or Latino,1081_12124,Phoenix,AZ,85017,H0046,TBD,1081_15549,Other stimulant dependence,32,g9yg==
+7982,Male,Caucasian,1186_14900,Ashland,KY,411013033,T1007,Ancillary,1186_21034,Other insomnia,27,RUUQ==
+6018,Female,Not Hispanic or Latino,1081_12215,Mesa,AZ,85201,T1016,Ancillary,1081_15688,Opioid dependence,33,gllw==
+9843,Male,Caucasian,1186_17944,Newcomb,TN,378195075,90792,Ancillary,1186_24394,Unspecified depressive disorder,32,xX_Q==
+6355,Female,Not Hispanic or Latino,1081_12370,Surprise,AZ,85374,H0004,Ancillary,1081_15910,Opioid dependence,31,MZrA==
+5953,Female,Other not listed,1179_10380,Summit,NJ,7901,H0010,Detox,1179_16878,Generalized anxiety disorder,27,BB1g==
+5334,Female,Hispanic or Latino,1081_11906,Phoenix,AZ,85007,T1016,Ancillary,1081_15187,Opioid dependence,47,Cx1g==
+573,Male,Other,1028_1534,Monument,CO,80132 6733,H0018,RTC,1028_1782,Alcohol use disorder,27,aFFg==
+3584,Male,Not Hispanic or Latino,1081_10487,Mesa,AZ,85201,H0004,Ancillary,1081_13013,Opioid dependence,31,DXPA==
+4135,Male,Hispanic or Latino,1081_10995,Mesa,AZ,85201,T1016,Ancillary,1081_13798,Cocaine dependence,48,Ev5w==
+6378,Male,Not Hispanic or Latino,1081_11399,Queen Creek,AZ,85142,H0015,IOP,1081_15912,Other stimulant dependence,23,xFDw==
+8650,Female,Other not listed,1186_2044,Lowmansville,KY,41232,T1007,Ancillary,1186_2269,personality disorder,43,envA==
+7604,Male,Other not listed,1186_14118,Clay City,KY,40312,H0015,IOP,1186_20033,Anxiety disorder,29,Zgcw==
+7998,Female,Other not listed,1186_15958,Harrodsburg,KY,403301952,99203,Ancillary,1186_21239,Opioid use disorder,38,vtaQ==
+5014,Male,Not Hispanic or Latino,1081_11824,Coolidge,AZ,85128,H0004,Ancillary,1081_15060,Opioid dependence,24,iFuw==
+5415,Male,Hispanic or Latino,1081_10476,Phoenix,AZ,85019,H0046,TBD,1081_15312,Opioid dependence,52,bNaA==
+7925,Female,Not Hispanic or Latino,1081_13039,Mesa,AZ,85210,H0046,TBD,1081_16992,Other stimulant dependence,40,RwAw==
+4979,Male,Other not listed,1179_526,Escondido,CA,92027,H0015,IOP,1179_11990,Amphetamine-type substance use disorder,65,fhlw==
+7248,Male,Hispanic or Latino,1081_12794,Phoenix,AZ,85041,H0031,Ancillary,1081_16618,Opioid dependence,26,JbAA==
+4413,Male,Not Hispanic or Latino,1081_8681,Scottsdale,AZ,85251,H0046,TBD,1081_14233,Opioid dependence,30,1zlg==
+4487,Male,Hispanic or Latino,1081_11420,Phoenix,AZ,85007,H0018,RTC,1081_14431,Alcohol dependence,54,2RSw==
+8174,Male,Other not listed,1186_15985,Pikeville,KY,41501,80307,Ancillary,1186_21728,Acute hepatitis C without hepatic coma,33,C3Tg==
+7427,Male,Other not listed,1179_8018,Holmdel,NJ,7733,H0011,RTC,1179_27332,Cannabis use disorder,27,Jobw==
+1922,Male,Not Hispanic or Latino,1081_9404,Phoenix,AZ,85016,T1016,Ancillary,1081_11350,Alcohol dependence,56,nUSQ==
+5323,Male,Not Hispanic or Latino,1081_11904,Mesa,AZ,85210,H0046,TBD,1081_15184,Other stimulant dependence,52,r_AQ==
+1445,Male,Not Hispanic or Latino,1081_9323,Glendale,AZ,85301,H2016,TBD,1081_11234,Opioid dependence,23,yvqw==
+7960,Male,Not Hispanic or Latino,1081_8886,Glendale,AZ,85302,H2016,TBD,1081_16998,Other stimulant dependence,32,nNvA==
+3818,Male,Hispanic or Latino,1081_10083,Tolleson,AZ,85353,H0018,RTC,1081_13272,Other stimulant dependence,33,vcvw==
+2645,Female,Other,1081_7662,Mesa,AZ,85201,H0018,RTC,1081_11981,Alcohol dependence,44,Ahbw==
+9804,Male,Caucasian,1186_17944,Newcomb,TN,378195075,H0011,Detox,1186_24394,Amphetamine-type substance use disorder,32,HjNA==
+9286,Male,Not Hispanic or Latino,1081_7968,Phoenix,AZ,85037,99999,Interest Payments,1081_9229,Other stimulant dependence,32,FA7w==
+5294,Male,Not Hispanic or Latino,1081_11902,Phoenix,AZ,85007,H0018,RTC,1081_15182,Opioid dependence,33,f7sQ==
+8342,Male,Other not listed,1186_15985,Pikeville,KY,41501,99212SA,TBD,1186_22007,Unspecified depressive disorder,33,njIQ==
+1941,Male,Not Hispanic or Latino,1081_9519,Peoria,AZ,85345,H0046,TBD,1081_11508,Alcohol dependence,34,EXzw==
+4934,Female,Other not listed,1186_9186,Flemingsburg,KY,41041,90853,Ancillary,1186_11391,Type 2 diabetes mellitus with other skin complications,44,CqpA==
+903,Male,Hispanic or Latino,1081_8662,Avondale,AZ,85392,H0046,TBD,1081_10254,Other stimulant dependence,32,Te5A==
+2016,Male,Other not listed,1018_8696,DYER,IN,463112928,90875,Ancillary,1018_10561,Bipolar II disorder,27,TFow==
+9049,Male,Caucasian,1186_15546,Owingsville,KY,403608304,H0001,Ancillary,1186_23558,Opioid use disorder,47,7UEA==
+5744,Male,Hispanic or Latino,1081_11346,Phoenix,AZ,85040,H0001,Ancillary,1081_15561,Other stimulant dependence,46,cDqg==
+7681,Female,Hispanic or Latino,1081_11842,Mesa,AZ,85043,H0031,Ancillary,1081_16746,Cannabis dependence,35,NstQ==
+5297,Male,Not Hispanic or Latino,1081_11902,Phoenix,AZ,85007,H0031,Ancillary,1081_15182,Opioid dependence,33,9I-Q==

@@ -13,7 +13,7 @@ import pickle
 import openai
 
 import os
-os.environ['OPENAI_API_KEY'] = "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"
+os.environ['OPENAI_API_KEY'] = "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"
 
 # Load the QA chain model from the pickle file
 with open('qa_chain.pkl', 'rb') as f:
